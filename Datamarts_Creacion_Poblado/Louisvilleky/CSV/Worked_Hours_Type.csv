@@ -1,0 +1,24 @@
+"Description_Type_Worked_Hours","Code_Hours_Type","Name_Hours_type","Worked_Hours_Type_id"
+"OTHER OVERTIME","OVA","Overtime 1.5",1
+"OTHER OVERTIME","OVT","Overtime 1.0",2
+"OTHER OVERTIME","COT","Court Overtime Pay 1.5",3
+"OTHER OVERTIME","WHO","Work at Higher Class Overtime",4
+"OTHER OVERTIME","OVB","Overtime 2.0",5
+"OTHER OVERTIME","SOV","Scheduled Overtime",6
+"OTHER OVERTIME","WHD","Work at Higher Class Double",7
+"REGULAR TIME","PPT","Permanent Part Time",8
+"REGULAR TIME","REG","Regular Base Pay",9
+"REGULAR TIME","SEA","Seasonal",10
+"REGULAR TIME","TEM","Regular Temporary",11
+"REGULAR TIME","RE4","Permanent Hourly",12
+"REGULAR TIME","TRN","Training",13
+"REGULAR TIME","WH4","Work at Higher Class - Wkly",14
+"REGULAR TIME","FGP","Foster Grandparents",15
+"REGULAR TIME","WHC","Work At a Higher Class - Biwky",16
+"SCHEDULED OVERTIME","SOV","Scheduled Overtime",17
+"SCHEDULED OVERTIME","WHS","Work Higher Class- Sch. OT",18
+"UNSCHEDULED GENERAL FUND OVERTIME","OVA","Overtime 1.5",19
+"UNSCHEDULED GENERAL FUND OVERTIME","OVT","Overtime 1.0",20
+"UNSCHEDULED GENERAL FUND OVERTIME","OVB","Overtime 2.0",21
+"UNSCHEDULED GENERAL FUND OVERTIME","WHO","Work at Higher Class Overtime",22
+"UNSCHEDULED GENERAL FUND OVERTIME","WHD","Work at Higher Class Double",23

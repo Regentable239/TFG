@@ -1,0 +1,4456 @@
+DEPT,BIWEEKLY_PAY_PERIOD_END_DATE,HIGH_CONSUMER,Total_Empl
+Belle of Louisville           ,9/27/2014,1,2
+Belle of Louisville           ,3/14/2015,0,1
+Belle of Louisville           ,7/18/2015,0,3
+Belle of Louisville           ,10/24/2015,0,1
+Belle of Louisville           ,5/21/2016,0,1
+Belle of Louisville           ,6/17/2017,0,1
+Civic Innovation & Technology,11/7/2015,3,8
+Civic Innovation & Technology,12/16/2017,1,6
+Civic Innovation & Technology,7/28/2018,1,5
+Civic Innovation & Technology,6/15/2019,1,4
+Codes & Regulations,8/31/2013,5,25
+Codes & Regulations,3/1/2014,5,23
+Codes & Regulations,5/6/2017,8,22
+Codes & Regulations,7/1/2017,6,22
+Codes & Regulations,5/5/2018,10,21
+Codes & Regulations,6/2/2018,8,21
+Codes & Regulations,5/4/2019,9,19
+Community Services,5/6/2017,1,9
+Community Services,7/1/2017,1,9
+Community Services,5/5/2018,1,9
+Community Services,6/2/2018,1,9
+Community Services,5/4/2019,2,8
+Coroner                       ,10/12/2013,0,6
+Coroner                       ,12/6/2014,0,5
+Coroner                       ,11/7/2015,0,4
+Coroner                       ,12/3/2016,0,4
+Coroner                       ,6/30/2018,0,6
+Coroner                       ,7/28/2018,0,6
+Coroner                       ,2/9/2019,0,7
+Coroner                       ,6/15/2019,0,7
+Corrections                   ,2/14/2015,0,1
+Corrections                   ,9/10/2016,0,1
+Corrections                   ,4/22/2017,0,1
+Corrections                   ,8/25/2018,1,2
+County Attorney               ,8/16/2014,0,7
+County Attorney               ,6/20/2015,0,5
+County Attorney               ,1/30/2016,0,4
+County Attorney               ,10/22/2016,0,3
+County Attorney               ,9/22/2018,0,4
+County Attorney               ,2/23/2019,0,4
+Develop Louisville,11/9/2013,3,16
+Develop Louisville,2/15/2014,5,16
+Develop Louisville,10/25/2014,5,14
+Develop Louisville,1/31/2015,2,12
+Develop Louisville,5/23/2015,4,12
+Develop Louisville,1/16/2016,3,11
+Develop Louisville,2/27/2016,3,11
+Develop Louisville,7/29/2017,1,7
+Develop Louisville,10/7/2017,1,6
+Economic Development ,10/10/2015,0,2
+Economic Development ,2/13/2016,0,2
+Economic Development ,6/18/2016,0,2
+Economic Development ,12/30/2017,0,2
+Economic Development ,1/13/2018,0,1
+Economic Development ,1/12/2019,0,1
+Economic Development ,3/9/2019,0,1
+Emergency Mgt Agency/MetroSafe,12/20/2014,3,22
+Emergency Mgt Agency/MetroSafe,12/2/2017,1,16
+Emergency Mgt Agency/MetroSafe,12/29/2018,2,12
+Emergency Mgt Agency/MetroSafe,3/23/2019,2,12
+Fire & Rescue                 ,3/11/2017,21,90
+Fleet & Facilities,3/29/2014,9,30
+Fleet & Facilities,12/20/2014,8,29
+Fleet & Facilities,12/31/2016,12,29
+Human Relations Commission    ,1/2/2016,1,4
+Human Relations Commission    ,6/30/2018,0,3
+Human Resources,2/14/2015,0,5
+Human Resources,9/10/2016,1,3
+Human Resources,11/19/2016,1,3
+Human Resources,4/22/2017,0,4
+Human Resources,8/26/2017,0,4
+Human Resources,4/21/2018,1,3
+Human Resources,11/3/2018,2,5
+Kentuckiana Works Foundation,1/13/2018,0,1
+Kentuckiana Works Foundation,6/1/2019,0,2
+Library,7/19/2014,12,71
+Library,9/26/2015,11,61
+Library,6/16/2018,12,50
+Louisville Metro Council      ,12/6/2014,2,13
+Louisville Metro Council      ,7/2/2016,3,14
+Louisville Metro Council      ,11/4/2017,1,11
+Louisville Metro Council      ,8/11/2018,1,8
+Louisville Metro Council      ,12/15/2018,1,9
+Louisville Metro Council      ,4/6/2019,1,7
+Louisville Metro EMS,8/31/2013,0,8
+Louisville Metro EMS,7/1/2017,1,4
+Louisville Metro EMS,5/5/2018,0,4
+Louisville Metro EMS,6/2/2018,0,4
+Louisville Metro EMS,5/4/2019,0,4
+Mayor's Office                ,10/26/2013,1,5
+Mayor's Office                ,3/12/2016,0,6
+Mayor's Office                ,10/21/2017,0,5
+Mayor's Office                ,4/20/2019,1,5
+Metro Animal Services         ,8/2/2014,0,1
+Metro Animal Services         ,8/30/2014,0,1
+Metro Animal Services         ,2/28/2015,0,1
+Metro Animal Services         ,6/6/2015,0,1
+Metro Animal Services         ,8/15/2015,0,1
+Metro Animal Services         ,10/8/2016,0,1
+Metro Animal Services         ,11/18/2017,0,1
+Metro Animal Services         ,3/24/2018,0,1
+Metro Animal Services         ,5/19/2018,0,1
+Metro Animal Services         ,9/8/2018,0,1
+Metro Parks & Recreation,7/19/2014,18,78
+Metro Parks & Recreation,9/26/2015,18,66
+Metro Parks & Recreation,6/16/2018,10,44
+Metro Police,10/12/2013,21,248
+Metro Police,12/6/2014,15,212
+Metro Police,11/7/2015,25,185
+Metro Police,7/2/2016,21,156
+Metro Police,7/28/2018,22,109
+Metro Police,6/15/2019,12,97
+OMB ,4/12/2014,6,27
+OMB ,3/26/2016,5,23
+OMB ,4/8/2017,6,18
+OMB ,4/21/2018,6,16
+Parking Authority of River Cty,1/4/2014,1,9
+Parking Authority of River Cty,6/21/2014,1,9
+Parking Authority of River Cty,7/5/2014,1,9
+Parking Authority of River Cty,11/22/2014,1,9
+Parking Authority of River Cty,4/25/2015,0,9
+Public Health & Wellness,11/8/2014,0,2
+Public Health & Wellness,10/8/2016,0,4
+Public Health & Wellness,2/11/2017,0,4
+Public Health & Wellness,5/6/2017,1,4
+Public Health & Wellness,4/7/2018,1,4
+Belle of Louisville           ,11/23/2013,1,2
+Belle of Louisville           ,3/1/2014,0,1
+Belle of Louisville           ,5/6/2017,0,1
+Civic Innovation & Technology,7/16/2016,4,8
+Civic Innovation & Technology,11/5/2016,2,6
+Civic Innovation & Technology,11/4/2017,1,6
+Civic Innovation & Technology,4/6/2019,1,4
+Codes & Regulations,10/12/2013,3,25
+Codes & Regulations,4/11/2015,5,20
+Codes & Regulations,1/2/2016,5,22
+Codes & Regulations,11/18/2017,5,23
+Community Services,10/12/2013,4,18
+Community Services,4/11/2015,1,11
+Community Services,1/2/2016,1,9
+Community Services,11/18/2017,1,10
+Coroner                       ,6/7/2014,0,5
+Coroner                       ,11/8/2014,0,5
+Coroner                       ,7/16/2016,0,2
+Coroner                       ,11/5/2016,0,3
+Coroner                       ,5/6/2017,0,4
+Coroner                       ,11/4/2017,0,6
+Coroner                       ,8/11/2018,0,6
+Coroner                       ,4/6/2019,0,7
+Corrections                   ,12/21/2013,0,1
+Corrections                   ,1/3/2015,0,1
+Corrections                   ,12/31/2016,0,1
+Corrections                   ,1/27/2018,0,1
+Corrections                   ,3/10/2018,0,1
+County Attorney               ,11/9/2013,0,7
+County Attorney               ,2/27/2016,0,4
+County Attorney               ,3/25/2017,0,3
+County Attorney               ,7/29/2017,0,3
+County Attorney               ,9/9/2017,0,3
+County Attorney               ,7/13/2019,0,3
+Develop Louisville,6/20/2015,4,12
+Develop Louisville,9/12/2015,3,12
+Develop Louisville,1/26/2019,4,6
+Economic Development ,9/14/2013,0,6
+Economic Development ,6/3/2017,0,2
+Economic Development ,6/17/2017,0,2
+Economic Development ,10/21/2017,0,2
+Economic Development ,7/14/2018,0,1
+Economic Development ,6/1/2019,0,1
+Emergency Mgt Agency/MetroSafe,2/14/2015,3,22
+Emergency Mgt Agency/MetroSafe,3/28/2015,3,22
+Emergency Mgt Agency/MetroSafe,11/19/2016,3,17
+Emergency Mgt Agency/MetroSafe,3/25/2017,4,17
+Emergency Mgt Agency/MetroSafe,4/22/2017,4,17
+Emergency Mgt Agency/MetroSafe,8/26/2017,2,16
+Fire & Rescue                 ,2/28/2015,23,142
+Fire & Rescue                 ,11/19/2016,16,96
+Fire & Rescue                 ,7/15/2017,17,88
+Fire & Rescue                 ,8/26/2017,15,80
+Fire & Rescue                 ,2/24/2018,11,69
+Fire & Rescue                 ,5/19/2018,10,70
+Fleet & Facilities,2/14/2015,8,29
+Fleet & Facilities,3/28/2015,8,29
+Fleet & Facilities,11/19/2016,11,29
+Fleet & Facilities,4/22/2017,11,27
+Fleet & Facilities,8/25/2018,4,21
+Human Relations Commission    ,10/11/2014,1,5
+Human Relations Commission    ,5/6/2017,0,3
+Human Relations Commission    ,5/5/2018,0,3
+Human Relations Commission    ,5/19/2018,0,3
+Human Relations Commission    ,6/2/2018,0,3
+Human Resources,12/21/2013,0,6
+Human Resources,1/18/2014,0,6
+Human Resources,12/20/2014,0,4
+Human Resources,12/5/2015,0,4
+Human Resources,3/26/2016,1,3
+Human Resources,3/11/2017,0,3
+Human Resources,12/2/2017,1,4
+Human Resources,12/29/2018,2,3
+Human Resources,3/23/2019,1,4
+Kentuckiana Works Foundation,1/31/2015,0,2
+Kentuckiana Works Foundation,7/4/2015,0,2
+Kentuckiana Works Foundation,10/10/2015,0,1
+Kentuckiana Works Foundation,4/23/2016,0,1
+Library,12/19/2015,11,59
+Library,7/16/2016,10,59
+Library,7/30/2016,11,59
+Library,8/25/2018,12,49
+Library,10/20/2018,10,48
+Library,4/6/2019,7,46
+Louisville Metro Council      ,6/7/2014,3,14
+Louisville Metro Council      ,12/3/2016,2,14
+Louisville Metro Council      ,12/31/2016,3,14
+Louisville Metro Council      ,12/16/2017,1,10
+Louisville Metro Council      ,6/16/2018,1,9
+Louisville Metro Council      ,7/28/2018,1,8
+Louisville Metro EMS,2/28/2015,0,5
+Louisville Metro EMS,4/11/2015,0,5
+Louisville Metro EMS,1/2/2016,0,5
+Louisville Metro EMS,11/18/2017,0,3
+Mayor's Office                ,10/10/2015,1,6
+Mayor's Office                ,6/30/2018,1,5
+Metro Animal Services         ,1/4/2014,0,1
+Metro Animal Services         ,4/8/2017,0,1
+Metro Animal Services         ,7/1/2017,0,1
+Metro Animal Services         ,5/4/2019,0,1
+Metro Animal Services         ,7/13/2019,0,1
+Metro Parks & Recreation,10/11/2014,15,71
+Metro Parks & Recreation,5/7/2016,16,62
+Metro Parks & Recreation,11/5/2016,13,57
+Metro Parks & Recreation,11/4/2017,7,49
+Metro Parks & Recreation,8/11/2018,9,44
+Metro Parks & Recreation,12/15/2018,6,39
+Metro Police,8/31/2013,17,250
+Metro Police,3/1/2014,14,238
+Metro Police,5/20/2017,17,146
+Metro Police,6/29/2019,13,97
+Metro Police,8/10/2019,12,96
+OMB ,5/24/2014,6,25
+OMB ,11/19/2016,7,19
+OMB ,2/25/2017,6,19
+Parking Authority of River Cty,8/15/2015,1,9
+Parking Authority of River Cty,11/21/2015,1,8
+Parking Authority of River Cty,10/8/2016,1,7
+Parking Authority of River Cty,2/11/2017,1,5
+Parking Authority of River Cty,9/9/2017,2,5
+Public Health & Wellness,8/31/2013,0,2
+Public Health & Wellness,11/23/2013,0,2
+Public Health & Wellness,3/1/2014,0,2
+Public Health & Wellness,6/7/2014,0,2
+Public Health & Wellness,4/25/2015,0,2
+Belle of Louisville           ,8/30/2014,0,2
+Belle of Louisville           ,8/15/2015,0,3
+Belle of Louisville           ,6/4/2016,0,1
+Belle of Louisville           ,10/8/2016,0,1
+Civic Innovation & Technology,8/16/2014,4,9
+Civic Innovation & Technology,11/8/2014,4,9
+Civic Innovation & Technology,7/30/2016,3,8
+Civic Innovation & Technology,12/31/2016,1,6
+Civic Innovation & Technology,2/11/2017,1,6
+Codes & Regulations,1/4/2014,3,24
+Community Services,1/4/2014,2,12
+Community Services,7/15/2017,1,9
+Coroner                       ,4/9/2016,0,2
+Coroner                       ,7/30/2016,0,2
+Coroner                       ,12/31/2016,0,4
+Coroner                       ,2/11/2017,0,4
+Corrections                   ,1/18/2014,0,1
+Corrections                   ,10/11/2014,0,1
+Corrections                   ,12/20/2014,0,1
+Corrections                   ,11/5/2016,0,1
+Corrections                   ,1/28/2017,0,1
+Corrections                   ,3/11/2017,0,1
+Corrections                   ,11/4/2017,0,1
+Corrections                   ,12/2/2017,0,1
+Corrections                   ,1/13/2018,0,1
+Corrections                   ,12/29/2018,1,2
+Corrections                   ,3/23/2019,1,2
+County Attorney               ,2/15/2014,0,7
+County Attorney               ,9/13/2014,0,6
+County Attorney               ,1/16/2016,0,4
+County Attorney               ,5/18/2019,0,3
+Develop Louisville,5/24/2014,7,16
+Develop Louisville,6/4/2016,2,11
+Develop Louisville,1/27/2018,3,7
+Develop Louisville,3/10/2018,4,7
+Economic Development ,11/23/2013,2,6
+Economic Development ,2/15/2014,3,5
+Economic Development ,9/13/2014,1,4
+Emergency Mgt Agency/MetroSafe,1/4/2014,5,24
+Emergency Mgt Agency/MetroSafe,7/13/2019,2,13
+Fire & Rescue                 ,3/29/2014,20,157
+Fire & Rescue                 ,9/10/2016,17,97
+Fire & Rescue                 ,5/20/2017,17,88
+Fire & Rescue                 ,10/20/2018,4,60
+Fleet & Facilities,3/25/2017,15,28
+Fleet & Facilities,7/28/2018,5,22
+Fleet & Facilities,7/13/2019,6,19
+Human Relations Commission    ,8/31/2013,0,4
+Human Relations Commission    ,3/1/2014,1,4
+Human Relations Commission    ,8/30/2014,1,5
+Human Relations Commission    ,6/6/2015,0,5
+Human Relations Commission    ,12/5/2015,1,4
+Human Relations Commission    ,9/8/2018,0,3
+Human Relations Commission    ,2/9/2019,0,3
+Human Resources,3/15/2014,0,6
+Human Resources,8/2/2014,2,5
+Human Resources,8/30/2014,2,5
+Human Resources,1/3/2015,0,4
+Human Resources,6/6/2015,0,5
+Human Resources,8/1/2015,0,4
+Human Resources,8/15/2015,0,4
+Human Resources,5/7/2016,1,3
+Human Resources,10/8/2016,1,2
+Human Resources,3/24/2018,1,4
+Human Resources,9/8/2018,2,4
+Human Resources,11/17/2018,2,4
+Human Resources,8/10/2019,2,3
+Kentuckiana Works Foundation,7/5/2014,0,2
+Kentuckiana Works Foundation,9/27/2014,0,2
+Kentuckiana Works Foundation,3/14/2015,0,2
+Kentuckiana Works Foundation,9/26/2015,0,1
+Kentuckiana Works Foundation,10/24/2015,0,1
+Kentuckiana Works Foundation,12/19/2015,0,1
+Kentuckiana Works Foundation,5/21/2016,0,1
+Kentuckiana Works Foundation,10/6/2018,0,2
+Kentuckiana Works Foundation,12/1/2018,0,2
+Library,8/27/2016,12,59
+Library,7/15/2017,5,54
+Louisville Metro Council      ,3/28/2015,3,16
+Louisville Metro Council      ,3/12/2016,3,14
+Louisville Metro Council      ,7/16/2016,3,14
+Louisville Metro Council      ,7/30/2016,3,14
+Louisville Metro Council      ,2/25/2017,0,12
+Louisville Metro Council      ,4/20/2019,1,7
+Louisville Metro EMS,7/15/2017,1,4
+Louisville Metro EMS,10/20/2018,0,4
+Mayor's Office                ,4/12/2014,1,5
+Mayor's Office                ,5/24/2014,0,5
+Mayor's Office                ,12/19/2015,0,6
+Mayor's Office                ,7/16/2016,0,6
+Mayor's Office                ,7/30/2016,0,6
+Mayor's Office                ,4/8/2017,0,6
+Mayor's Office                ,4/6/2019,2,5
+Metro Animal Services         ,3/25/2017,0,1
+Metro Animal Services         ,4/22/2017,0,1
+Metro Animal Services         ,7/28/2018,0,1
+Metro Parks & Recreation,12/21/2013,18,77
+Metro Parks & Recreation,3/15/2014,20,76
+Metro Parks & Recreation,1/3/2015,17,68
+Metro Parks & Recreation,8/1/2015,18,68
+Metro Parks & Recreation,2/13/2016,19,63
+Metro Parks & Recreation,4/21/2018,8,46
+Metro Parks & Recreation,11/17/2018,6,40
+Metro Parks & Recreation,8/10/2019,6,37
+Metro Police,4/11/2015,20,205
+Metro Police,4/7/2018,22,114
+OMB ,3/29/2014,6,27
+OMB ,2/28/2015,7,23
+OMB ,8/27/2016,7,21
+OMB ,7/15/2017,5,19
+OMB ,8/26/2017,5,19
+OMB ,2/10/2018,6,16
+OMB ,6/16/2018,7,16
+Parking Authority of River Cty,11/23/2013,2,9
+Parking Authority of River Cty,12/20/2014,2,9
+Parking Authority of River Cty,5/6/2017,1,5
+Parking Authority of River Cty,12/2/2017,1,5
+Parking Authority of River Cty,12/29/2018,2,5
+Parking Authority of River Cty,3/23/2019,2,5
+Public Health & Wellness,9/14/2013,0,2
+Public Health & Wellness,11/7/2015,0,2
+Public Health & Wellness,5/4/2019,1,3
+Public Health & Wellness,6/15/2019,2,3
+PW&A ,1/4/2014,27,93
+Belle of Louisville           ,3/29/2014,0,1
+Belle of Louisville           ,4/11/2015,0,1
+Belle of Louisville           ,9/10/2016,0,1
+Civic Innovation & Technology,2/1/2014,4,9
+Civic Innovation & Technology,2/13/2016,3,8
+Civic Innovation & Technology,11/17/2018,1,5
+Codes & Regulations,4/26/2014,4,22
+Codes & Regulations,12/30/2017,5,21
+Codes & Regulations,7/14/2018,10,20
+Codes & Regulations,1/12/2019,11,20
+Codes & Regulations,3/9/2019,8,19
+Community Services,11/9/2013,5,18
+Community Services,9/23/2017,1,9
+Community Services,12/30/2017,2,9
+Community Services,3/10/2018,3,9
+Community Services,7/14/2018,1,9
+Community Services,12/1/2018,2,10
+Community Services,3/9/2019,2,8
+Coroner                       ,9/14/2013,0,6
+Coroner                       ,10/25/2014,0,5
+Coroner                       ,5/9/2015,0,5
+Coroner                       ,12/17/2016,0,4
+Corrections                   ,10/24/2015,0,1
+Corrections                   ,5/21/2016,0,1
+Corrections                   ,6/4/2016,0,1
+Corrections                   ,9/22/2018,1,2
+Corrections                   ,7/27/2019,0,2
+County Attorney               ,2/14/2015,0,6
+County Attorney               ,8/1/2015,0,5
+County Attorney               ,8/27/2016,0,4
+County Attorney               ,2/25/2017,0,3
+County Attorney               ,7/15/2017,0,3
+Develop Louisville,10/12/2013,3,16
+Develop Louisville,3/29/2014,7,16
+Develop Louisville,1/2/2016,4,11
+Develop Louisville,12/31/2016,2,10
+Develop Louisville,1/28/2017,1,9
+Develop Louisville,6/30/2018,4,7
+Develop Louisville,12/29/2018,4,6
+Develop Louisville,5/4/2019,2,5
+Economic Development ,8/31/2013,0,6
+Economic Development ,8/30/2014,1,4
+Economic Development ,6/6/2015,0,3
+Economic Development ,5/5/2018,0,1
+Economic Development ,6/2/2018,0,1
+Economic Development ,9/8/2018,0,1
+Economic Development ,8/10/2019,0,1
+Emergency Mgt Agency/MetroSafe,10/10/2015,5,21
+Emergency Mgt Agency/MetroSafe,6/18/2016,3,20
+Emergency Mgt Agency/MetroSafe,1/26/2019,2,12
+Emergency Mgt Agency/MetroSafe,5/18/2019,2,13
+Emergency Mgt Agency/MetroSafe,6/1/2019,2,13
+Fire & Rescue                 ,7/4/2015,23,138
+Fire & Rescue                 ,11/21/2015,15,117
+Fire & Rescue                 ,6/4/2016,16,112
+Fire & Rescue                 ,10/7/2017,15,79
+Fleet & Facilities,11/23/2013,7,30
+Fleet & Facilities,2/15/2014,9,30
+Fleet & Facilities,1/31/2015,7,29
+Fleet & Facilities,7/29/2017,8,25
+Fleet & Facilities,2/10/2018,6,23
+Fleet & Facilities,10/6/2018,5,21
+Fleet & Facilities,1/26/2019,5,20
+Human Relations Commission    ,8/16/2014,2,5
+Human Relations Commission    ,4/23/2016,0,3
+Human Relations Commission    ,5/21/2016,0,3
+Human Relations Commission    ,1/12/2019,0,3
+Human Resources,9/28/2013,0,7
+Human Resources,10/6/2018,2,4
+Human Resources,1/26/2019,1,3
+Human Resources,6/1/2019,1,3
+Kentuckiana Works Foundation,8/30/2014,0,2
+Kentuckiana Works Foundation,12/20/2014,0,2
+Kentuckiana Works Foundation,2/28/2015,0,2
+Kentuckiana Works Foundation,6/6/2015,0,2
+Kentuckiana Works Foundation,11/19/2016,0,1
+Kentuckiana Works Foundation,11/4/2017,0,1
+Kentuckiana Works Foundation,9/8/2018,0,2
+Kentuckiana Works Foundation,2/9/2019,0,2
+Library,7/5/2014,13,72
+Library,4/23/2016,9,59
+Library,6/29/2019,10,45
+Louisville Metro Council      ,1/31/2015,2,15
+Louisville Metro Council      ,2/23/2019,1,7
+Louisville Metro Council      ,6/1/2019,1,8
+Louisville Metro EMS,11/9/2013,0,6
+Louisville Metro EMS,5/10/2014,0,6
+Louisville Metro EMS,9/24/2016,0,5
+Louisville Metro EMS,9/23/2017,0,3
+Louisville Metro EMS,12/30/2017,0,4
+Louisville Metro EMS,3/10/2018,0,4
+Louisville Metro EMS,7/14/2018,0,4
+Louisville Metro EMS,12/1/2018,0,4
+Louisville Metro EMS,3/9/2019,0,4
+Mayor's Office                ,4/25/2015,0,4
+Mayor's Office                ,9/9/2017,0,6
+Metro Animal Services         ,9/14/2013,0,1
+Metro Animal Services         ,2/15/2014,0,1
+Metro Animal Services         ,1/31/2015,0,1
+Metro Animal Services         ,1/13/2018,0,1
+Metro Animal Services         ,2/10/2018,0,1
+Metro Animal Services         ,2/23/2019,0,1
+Metro Parks & Recreation,2/15/2014,18,77
+Metro Parks & Recreation,6/7/2014,19,80
+Metro Parks & Recreation,7/5/2014,20,81
+Metro Police,9/14/2013,19,248
+Metro Police,1/17/2015,19,209
+Metro Police,2/23/2019,18,99
+OMB ,9/28/2013,10,28
+OMB ,8/16/2014,6,24
+OMB ,9/27/2014,5,24
+OMB ,5/18/2019,8,15
+Parking Authority of River Cty,2/1/2014,0,9
+Parking Authority of River Cty,5/24/2014,2,9
+Parking Authority of River Cty,12/5/2015,2,8
+Parking Authority of River Cty,12/19/2015,2,8
+Parking Authority of River Cty,4/8/2017,1,5
+Parking Authority of River Cty,11/17/2018,2,4
+Public Health & Wellness,3/15/2014,0,2
+Public Health & Wellness,5/24/2014,0,2
+Public Health & Wellness,4/9/2016,0,3
+Public Health & Wellness,5/7/2016,0,3
+Public Health & Wellness,8/27/2016,0,3
+Public Health & Wellness,1/27/2018,1,3
+Public Health & Wellness,4/20/2019,1,3
+PW&A ,10/21/2017,16,57
+PW&A ,12/30/2017,14,56
+Belle of Louisville           ,12/21/2013,0,1
+Belle of Louisville           ,3/15/2014,0,1
+Belle of Louisville           ,2/14/2015,0,1
+Belle of Louisville           ,8/1/2015,0,3
+Belle of Louisville           ,10/7/2017,0,1
+Civic Innovation & Technology,4/12/2014,4,9
+Civic Innovation & Technology,9/26/2015,3,8
+Civic Innovation & Technology,12/19/2015,3,8
+Civic Innovation & Technology,4/23/2016,4,8
+Civic Innovation & Technology,4/8/2017,1,6
+Civic Innovation & Technology,5/20/2017,1,6
+Civic Innovation & Technology,9/23/2017,1,6
+Civic Innovation & Technology,1/12/2019,1,4
+Civic Innovation & Technology,6/1/2019,1,4
+Codes & Regulations,12/21/2013,3,24
+Codes & Regulations,2/14/2015,6,20
+Codes & Regulations,2/27/2016,6,23
+Codes & Regulations,10/7/2017,6,23
+Codes & Regulations,8/25/2018,9,21
+Community Services,4/25/2015,1,11
+Community Services,2/27/2016,2,9
+Community Services,11/17/2018,2,10
+Coroner                       ,10/10/2015,0,4
+Coroner                       ,9/23/2017,0,5
+Coroner                       ,12/1/2018,0,6
+Corrections                   ,1/14/2017,0,1
+Corrections                   ,5/6/2017,0,1
+Corrections                   ,2/10/2018,0,1
+County Attorney               ,10/12/2013,0,7
+County Attorney               ,12/6/2014,0,6
+County Attorney               ,4/11/2015,0,6
+County Attorney               ,1/2/2016,0,4
+County Attorney               ,3/26/2016,0,4
+County Attorney               ,1/28/2017,0,3
+County Attorney               ,7/1/2017,0,3
+County Attorney               ,12/29/2018,0,4
+County Attorney               ,3/23/2019,0,4
+County Attorney               ,5/4/2019,0,3
+Develop Louisville,3/15/2014,7,16
+Develop Louisville,8/2/2014,6,16
+Develop Louisville,7/18/2015,4,12
+Develop Louisville,8/1/2015,3,12
+Develop Louisville,7/16/2016,2,11
+Develop Louisville,9/8/2018,4,6
+Develop Louisville,11/3/2018,4,6
+Develop Louisville,12/15/2018,4,6
+Develop Louisville,8/10/2019,2,5
+Economic Development ,6/7/2014,2,5
+Economic Development ,12/20/2014,1,4
+Economic Development ,1/2/2016,0,2
+Economic Development ,5/6/2017,0,2
+Economic Development ,7/1/2017,0,2
+Economic Development ,11/4/2017,0,2
+Economic Development ,4/7/2018,0,1
+Economic Development ,3/23/2019,0,1
+Emergency Mgt Agency/MetroSafe,3/15/2014,6,24
+Emergency Mgt Agency/MetroSafe,1/3/2015,4,22
+Emergency Mgt Agency/MetroSafe,2/13/2016,3,19
+Emergency Mgt Agency/MetroSafe,5/7/2016,4,20
+Emergency Mgt Agency/MetroSafe,12/17/2016,3,17
+Emergency Mgt Agency/MetroSafe,10/7/2017,1,16
+Emergency Mgt Agency/MetroSafe,1/27/2018,0,13
+Emergency Mgt Agency/MetroSafe,4/20/2019,2,13
+Fire & Rescue                 ,5/9/2015,26,138
+Fire & Rescue                 ,4/23/2016,17,114
+Fire & Rescue                 ,8/13/2016,14,111
+Fire & Rescue                 ,2/11/2017,17,91
+Fire & Rescue                 ,9/23/2017,15,79
+Fire & Rescue                 ,6/1/2019,6,58
+Fleet & Facilities,5/10/2014,9,29
+Fleet & Facilities,6/20/2015,10,28
+Fleet & Facilities,5/7/2016,12,29
+Fleet & Facilities,9/9/2017,6,24
+Human Relations Commission    ,7/4/2015,0,5
+Human Relations Commission    ,10/7/2017,0,3
+Human Relations Commission    ,11/17/2018,0,3
+Human Resources,1/4/2014,0,6
+Human Resources,2/13/2016,0,3
+Human Resources,1/27/2018,1,4
+Human Resources,7/13/2019,1,5
+Kentuckiana Works Foundation,4/12/2014,0,2
+Kentuckiana Works Foundation,11/8/2014,0,2
+Kentuckiana Works Foundation,2/11/2017,0,1
+Kentuckiana Works Foundation,4/8/2017,0,1
+Kentuckiana Works Foundation,5/20/2017,0,1
+Kentuckiana Works Foundation,5/19/2018,0,1
+Kentuckiana Works Foundation,4/6/2019,0,2
+Library,4/25/2015,13,66
+Library,11/17/2018,11,48
+Louisville Metro Council      ,12/7/2013,2,14
+Louisville Metro Council      ,2/1/2014,2,14
+Louisville Metro Council      ,6/3/2017,1,12
+Louisville Metro Council      ,10/21/2017,1,11
+Louisville Metro Council      ,7/27/2019,1,8
+Louisville Metro EMS,4/25/2015,0,5
+Louisville Metro EMS,5/9/2015,0,5
+Louisville Metro EMS,2/27/2016,0,5
+Louisville Metro EMS,4/23/2016,0,5
+Mayor's Office                ,11/8/2014,0,5
+Mayor's Office                ,3/14/2015,1,4
+Mayor's Office                ,7/18/2015,0,4
+Mayor's Office                ,10/24/2015,1,6
+Mayor's Office                ,5/21/2016,0,6
+Mayor's Office                ,9/24/2016,0,6
+Mayor's Office                ,2/11/2017,0,6
+Mayor's Office                ,3/9/2019,2,5
+Metro Animal Services         ,11/9/2013,0,1
+Metro Animal Services         ,5/10/2014,0,1
+Metro Animal Services         ,9/12/2015,0,1
+Metro Animal Services         ,1/16/2016,0,1
+Metro Parks & Recreation,1/4/2014,16,76
+Metro Parks & Recreation,8/30/2014,18,75
+Metro Parks & Recreation,8/15/2015,19,68
+Metro Parks & Recreation,10/8/2016,11,60
+Metro Police,11/9/2013,19,245
+Metro Police,9/13/2014,16,218
+Metro Police,9/12/2015,20,188
+Metro Police,1/16/2016,22,175
+Metro Police,3/26/2016,22,166
+Metro Police,5/18/2019,11,97
+OMB ,10/25/2014,6,24
+OMB ,5/9/2015,8,23
+OMB ,5/23/2015,7,23
+OMB ,1/14/2017,5,19
+Parking Authority of River Cty,11/19/2016,1,5
+Belle of Louisville           ,9/23/2017,0,1
+Civic Innovation & Technology,10/11/2014,4,9
+Civic Innovation & Technology,8/27/2016,3,8
+Civic Innovation & Technology,3/11/2017,1,6
+Civic Innovation & Technology,7/15/2017,1,6
+Civic Innovation & Technology,8/11/2018,1,5
+Codes & Regulations,11/8/2014,6,20
+Codes & Regulations,4/7/2018,8,21
+Community Services,4/12/2014,3,12
+Community Services,8/16/2014,2,12
+Community Services,6/20/2015,2,11
+Community Services,12/19/2015,1,9
+Community Services,3/26/2016,1,8
+Community Services,4/8/2017,1,8
+Community Services,1/26/2019,2,9
+Coroner                       ,12/21/2013,0,5
+Coroner                       ,1/3/2015,0,5
+Coroner                       ,8/1/2015,0,4
+Coroner                       ,8/29/2015,0,3
+Coroner                       ,11/21/2015,0,4
+Coroner                       ,12/16/2017,0,6
+Corrections                   ,8/31/2013,0,1
+Corrections                   ,5/10/2014,0,1
+Corrections                   ,12/19/2015,0,1
+Corrections                   ,2/25/2017,0,1
+Corrections                   ,5/5/2018,1,2
+County Attorney               ,12/17/2016,0,3
+County Attorney               ,8/12/2017,0,3
+County Attorney               ,6/2/2018,0,4
+Develop Louisville,12/21/2013,6,16
+Develop Louisville,2/10/2018,4,7
+Develop Louisville,10/20/2018,4,6
+Develop Louisville,6/29/2019,2,5
+Economic Development ,3/28/2015,0,3
+Economic Development ,4/25/2015,0,3
+Economic Development ,9/24/2016,0,2
+Economic Development ,4/21/2018,0,1
+Economic Development ,9/22/2018,0,1
+Economic Development ,11/3/2018,0,1
+Emergency Mgt Agency/MetroSafe,6/21/2014,4,23
+Fire & Rescue                 ,8/31/2013,26,161
+Fire & Rescue                 ,5/24/2014,19,156
+Fire & Rescue                 ,5/5/2018,10,70
+Fleet & Facilities,11/8/2014,8,29
+Fleet & Facilities,9/26/2015,10,28
+Fleet & Facilities,1/28/2017,12,28
+Fleet & Facilities,2/11/2017,13,28
+Fleet & Facilities,4/7/2018,6,23
+Fleet & Facilities,6/16/2018,6,23
+Human Relations Commission    ,8/13/2016,0,3
+Human Relations Commission    ,7/1/2017,0,3
+Human Relations Commission    ,9/23/2017,0,3
+Human Relations Commission    ,2/24/2018,0,3
+Human Resources,10/10/2015,0,4
+Human Resources,6/18/2016,1,2
+Human Resources,3/10/2018,1,4
+Human Resources,6/29/2019,1,3
+Kentuckiana Works Foundation,1/17/2015,0,2
+Kentuckiana Works Foundation,2/14/2015,0,2
+Kentuckiana Works Foundation,4/25/2015,0,2
+Kentuckiana Works Foundation,8/29/2015,0,2
+Kentuckiana Works Foundation,3/11/2017,0,1
+Kentuckiana Works Foundation,9/9/2017,0,1
+Library,9/13/2014,10,69
+Library,12/1/2018,11,48
+Louisville Metro Council      ,11/23/2013,2,14
+Louisville Metro Council      ,1/18/2014,2,14
+Louisville Metro Council      ,1/30/2016,3,14
+Louisville Metro Council      ,8/13/2016,3,14
+Louisville Metro Council      ,11/5/2016,2,14
+Louisville Metro Council      ,10/20/2018,1,9
+Louisville Metro EMS,3/1/2014,0,6
+Louisville Metro EMS,4/12/2014,0,6
+Louisville Metro EMS,8/16/2014,0,6
+Louisville Metro EMS,6/20/2015,0,5
+Louisville Metro EMS,12/5/2015,0,5
+Louisville Metro EMS,12/19/2015,0,5
+Louisville Metro EMS,4/8/2017,1,4
+Mayor's Office                ,10/25/2014,0,5
+Mayor's Office                ,12/20/2014,0,5
+Mayor's Office                ,2/27/2016,0,6
+Mayor's Office                ,11/5/2016,0,6
+Mayor's Office                ,1/14/2017,0,6
+Mayor's Office                ,7/29/2017,0,6
+Mayor's Office                ,11/4/2017,1,5
+Mayor's Office                ,10/20/2018,1,5
+Metro Animal Services         ,2/14/2015,0,1
+Metro Animal Services         ,5/23/2015,0,1
+Metro Animal Services         ,2/27/2016,0,1
+Metro Animal Services         ,7/29/2017,0,1
+Metro Animal Services         ,8/26/2017,0,1
+Metro Animal Services         ,6/16/2018,0,1
+Metro Parks & Recreation,12/1/2018,6,40
+Metro Parks & Recreation,5/18/2019,6,39
+Metro Police,10/11/2014,15,215
+Metro Police,1/30/2016,22,175
+Metro Police,3/11/2017,19,146
+Metro Police,12/16/2017,24,115
+Metro Police,8/11/2018,21,109
+Metro Police,10/20/2018,20,106
+OMB ,6/18/2016,5,22
+OMB ,12/30/2017,6,18
+OMB ,1/27/2018,6,16
+OMB ,3/9/2019,7,15
+OMB ,6/29/2019,7,15
+Parking Authority of River Cty,7/16/2016,1,7
+Parking Authority of River Cty,7/30/2016,1,7
+Parking Authority of River Cty,9/24/2016,1,7
+Parking Authority of River Cty,2/25/2017,1,5
+Parking Authority of River Cty,6/3/2017,1,5
+Parking Authority of River Cty,4/6/2019,2,5
+Parking Authority of River Cty,7/27/2019,2,5
+Public Health & Wellness,3/14/2015,0,2
+Public Health & Wellness,7/4/2015,0,2
+Public Health & Wellness,7/18/2015,0,2
+Public Health & Wellness,6/17/2017,1,4
+Public Health & Wellness,5/5/2018,1,4
+PW&A ,4/22/2017,15,65
+PW&A ,7/1/2017,17,61
+PW&A ,11/3/2018,13,49
+PW&A ,12/1/2018,15,49
+PW&A ,5/18/2019,15,47
+Waterfront Development Corp,7/5/2014,1,6
+Waterfront Development Corp,3/14/2015,2,6
+Waterfront Development Corp,1/16/2016,1,6
+Waterfront Development Corp,6/17/2017,2,6
+Waterfront Development Corp,5/19/2018,1,3
+Belle of Louisville           ,9/13/2014,1,2
+Belle of Louisville           ,10/10/2015,0,1
+Belle of Louisville           ,6/18/2016,0,1
+Belle of Louisville           ,8/13/2016,0,1
+Civic Innovation & Technology,1/4/2014,4,9
+Civic Innovation & Technology,2/14/2015,4,9
+Civic Innovation & Technology,4/25/2015,4,9
+Civic Innovation & Technology,5/23/2015,4,9
+Civic Innovation & Technology,3/12/2016,4,8
+Civic Innovation & Technology,8/26/2017,1,6
+Civic Innovation & Technology,10/7/2017,1,6
+Civic Innovation & Technology,6/16/2018,1,5
+Codes & Regulations,9/28/2013,4,25
+Codes & Regulations,7/19/2014,5,21
+Codes & Regulations,9/27/2014,7,20
+Codes & Regulations,10/24/2015,6,23
+Codes & Regulations,5/21/2016,5,22
+Codes & Regulations,2/24/2018,8,23
+Community Services,1/18/2014,3,12
+Community Services,7/5/2014,2,12
+Community Services,6/17/2017,1,9
+Community Services,10/6/2018,2,10
+Coroner                       ,10/26/2013,0,5
+Coroner                       ,11/19/2016,0,3
+Coroner                       ,4/20/2019,0,7
+Corrections                   ,2/1/2014,0,1
+Corrections                   ,7/4/2015,0,1
+Corrections                   ,6/3/2017,0,1
+Corrections                   ,7/28/2018,1,2
+County Attorney               ,11/22/2014,0,6
+County Attorney               ,1/17/2015,0,6
+County Attorney               ,2/28/2015,0,6
+County Attorney               ,5/9/2015,0,6
+County Attorney               ,8/15/2015,0,4
+County Attorney               ,10/8/2016,0,4
+County Attorney               ,11/17/2018,0,4
+County Attorney               ,8/10/2019,0,3
+Develop Louisville,10/26/2013,3,16
+Develop Louisville,11/23/2013,4,16
+Develop Louisville,10/10/2015,2,12
+Develop Louisville,12/16/2017,1,6
+Economic Development ,7/18/2015,0,3
+Economic Development ,7/16/2016,0,2
+Economic Development ,11/18/2017,0,2
+Economic Development ,4/20/2019,0,1
+Emergency Mgt Agency/MetroSafe,6/7/2014,5,23
+Emergency Mgt Agency/MetroSafe,1/2/2016,3,19
+Emergency Mgt Agency/MetroSafe,4/9/2016,4,20
+Emergency Mgt Agency/MetroSafe,10/22/2016,3,17
+Emergency Mgt Agency/MetroSafe,8/25/2018,2,13
+Fire & Rescue                 ,11/22/2014,18,144
+Fire & Rescue                 ,8/15/2015,15,120
+Fire & Rescue                 ,10/8/2016,16,95
+Fire & Rescue                 ,12/17/2016,17,94
+Fire & Rescue                 ,11/18/2017,14,74
+Fire & Rescue                 ,8/10/2019,5,58
+Fleet & Facilities,1/30/2016,11,28
+Fleet & Facilities,3/11/2017,15,28
+Human Relations Commission    ,11/8/2014,1,5
+Human Relations Commission    ,9/26/2015,1,5
+Human Relations Commission    ,12/31/2016,0,3
+Human Relations Commission    ,2/11/2017,0,3
+Human Relations Commission    ,4/7/2018,0,3
+Human Relations Commission    ,5/18/2019,0,3
+Human Resources,12/16/2017,0,4
+Kentuckiana Works Foundation,6/16/2018,0,1
+Library,1/18/2014,13,72
+Library,6/7/2014,13,72
+Library,9/12/2015,10,61
+Library,7/2/2016,10,58
+Library,6/3/2017,5,54
+Library,5/4/2019,6,45
+Library,6/1/2019,9,45
+Louisville Metro Council      ,9/26/2015,3,14
+Louisville Metro Council      ,10/10/2015,3,14
+Louisville Metro Council      ,2/27/2016,3,14
+Louisville Metro Council      ,3/26/2016,3,14
+Louisville Metro Council      ,7/29/2017,2,13
+Louisville Metro Council      ,1/26/2019,0,7
+Louisville Metro EMS,7/5/2014,0,6
+Louisville Metro EMS,7/18/2015,0,5
+Louisville Metro EMS,3/25/2017,1,4
+Louisville Metro EMS,6/17/2017,1,4
+Mayor's Office                ,9/14/2013,1,5
+Mayor's Office                ,11/23/2013,1,5
+Mayor's Office                ,8/30/2014,0,5
+Mayor's Office                ,11/19/2016,0,6
+Mayor's Office                ,12/3/2016,0,6
+Mayor's Office                ,11/17/2018,1,5
+Metro Animal Services         ,10/11/2014,0,1
+Metro Animal Services         ,1/30/2016,0,1
+Metro Animal Services         ,3/11/2017,0,1
+Metro Animal Services         ,12/16/2017,0,1
+Metro Animal Services         ,8/11/2018,0,1
+Metro Animal Services         ,10/20/2018,0,1
+Metro Parks & Recreation,12/6/2014,17,68
+Metro Parks & Recreation,7/2/2016,15,60
+Metro Parks & Recreation,7/1/2017,9,53
+Metro Parks & Recreation,10/6/2018,7,42
+Metro Parks & Recreation,6/1/2019,6,40
+Metro Parks & Recreation,6/15/2019,4,37
+Metro Police,10/26/2013,20,245
+Metro Police,1/4/2014,15,240
+Metro Police,2/14/2015,16,206
+Metro Police,5/23/2015,22,200
+Metro Police,3/12/2016,21,169
+Metro Police,8/26/2017,19,125
+Metro Police,6/16/2018,27,111
+OMB ,6/21/2014,6,25
+OMB ,8/2/2014,7,25
+OMB ,7/2/2016,6,22
+OMB ,3/24/2018,6,15
+OMB ,7/14/2018,6,16
+OMB ,12/15/2018,7,16
+Parking Authority of River Cty,11/9/2013,1,9
+Parking Authority of River Cty,5/10/2014,2,9
+Parking Authority of River Cty,4/21/2018,1,4
+Parking Authority of River Cty,7/28/2018,1,4
+Parking Authority of River Cty,11/3/2018,2,4
+Public Health & Wellness,6/20/2015,0,2
+Public Health & Wellness,8/1/2015,0,2
+Public Health & Wellness,12/5/2015,0,3
+Public Health & Wellness,9/24/2016,0,3
+Public Health & Wellness,9/22/2018,1,3
+Public Health & Wellness,12/15/2018,1,3
+Belle of Louisville           ,12/7/2013,0,1
+Belle of Louisville           ,11/8/2014,0,1
+Belle of Louisville           ,5/9/2015,0,2
+Belle of Louisville           ,5/20/2017,0,1
+Civic Innovation & Technology,3/15/2014,4,9
+Civic Innovation & Technology,6/4/2016,4,8
+Civic Innovation & Technology,8/25/2018,1,5
+Civic Innovation & Technology,8/10/2019,1,4
+Codes & Regulations,8/15/2015,6,22
+Codes & Regulations,9/26/2015,6,23
+Codes & Regulations,10/10/2015,6,22
+Codes & Regulations,10/8/2016,7,22
+Codes & Regulations,2/11/2017,8,22
+Codes & Regulations,6/30/2018,10,21
+Codes & Regulations,2/23/2019,7,21
+Community Services,4/26/2014,3,12
+Community Services,8/2/2014,2,12
+Community Services,7/18/2015,2,11
+Community Services,8/1/2015,2,11
+Community Services,11/7/2015,2,10
+Community Services,3/24/2018,3,9
+Community Services,9/8/2018,2,10
+Coroner                       ,3/1/2014,0,5
+Coroner                       ,5/7/2016,0,2
+Coroner                       ,5/20/2017,0,4
+Coroner                       ,12/30/2017,0,6
+Coroner                       ,1/13/2018,0,6
+Coroner                       ,10/20/2018,0,6
+Coroner                       ,11/17/2018,0,6
+Corrections                   ,8/16/2014,0,1
+Corrections                   ,8/27/2016,0,1
+Corrections                   ,12/3/2016,0,1
+Corrections                   ,5/18/2019,0,2
+County Attorney               ,9/28/2013,0,7
+County Attorney               ,5/23/2015,0,6
+County Attorney               ,8/26/2017,0,3
+Develop Louisville,7/19/2014,6,16
+Develop Louisville,1/3/2015,4,12
+Develop Louisville,1/17/2015,3,12
+Develop Louisville,1/30/2016,4,11
+Develop Louisville,5/20/2017,2,8
+Develop Louisville,9/23/2017,1,6
+Develop Louisville,11/17/2018,4,6
+Economic Development ,3/14/2015,0,3
+Economic Development ,12/3/2016,0,2
+Economic Development ,10/6/2018,0,1
+Emergency Mgt Agency/MetroSafe,9/9/2017,1,16
+Emergency Mgt Agency/MetroSafe,4/21/2018,1,13
+Emergency Mgt Agency/MetroSafe,11/3/2018,2,13
+Emergency Mgt Agency/MetroSafe,12/15/2018,1,12
+Fire & Rescue                 ,10/11/2014,20,147
+Fire & Rescue                 ,9/9/2017,15,80
+Fleet & Facilities,5/9/2015,8,29
+Fleet & Facilities,8/13/2016,12,29
+Fleet & Facilities,9/10/2016,12,29
+Fleet & Facilities,8/12/2017,8,25
+Human Relations Commission    ,12/7/2013,0,4
+Human Relations Commission    ,2/28/2015,0,5
+Human Relations Commission    ,8/29/2015,0,5
+Human Relations Commission    ,10/20/2018,0,3
+Human Resources,5/24/2014,0,6
+Human Resources,1/30/2016,0,4
+Human Resources,2/23/2019,1,4
+Kentuckiana Works Foundation,1/2/2016,0,1
+Kentuckiana Works Foundation,10/21/2017,0,1
+Kentuckiana Works Foundation,6/15/2019,0,2
+Library,3/1/2014,14,72
+Library,10/25/2014,10,69
+Library,12/6/2014,9,69
+Library,1/16/2016,12,60
+Library,5/7/2016,10,60
+Library,11/5/2016,10,57
+Library,1/14/2017,8,53
+Library,5/6/2017,6,54
+Library,11/4/2017,3,52
+Library,12/15/2018,10,48
+Louisville Metro Council      ,12/21/2013,2,14
+Louisville Metro Council      ,7/19/2014,2,13
+Louisville Metro Council      ,9/27/2014,2,13
+Louisville Metro Council      ,1/3/2015,2,13
+Louisville Metro Council      ,10/24/2015,2,15
+Louisville Metro Council      ,5/21/2016,3,14
+Louisville Metro Council      ,5/20/2017,1,12
+Louisville Metro Council      ,11/17/2018,1,9
+Louisville Metro Council      ,6/29/2019,1,8
+Louisville Metro EMS,4/26/2014,0,6
+Louisville Metro EMS,8/2/2014,0,6
+Louisville Metro EMS,8/30/2014,0,6
+Louisville Metro EMS,6/6/2015,0,5
+Louisville Metro EMS,8/1/2015,0,5
+Louisville Metro EMS,2/13/2016,0,5
+Louisville Metro EMS,3/24/2018,0,4
+Louisville Metro EMS,9/8/2018,0,4
+Mayor's Office                ,10/12/2013,1,5
+Mayor's Office                ,2/15/2014,1,5
+Mayor's Office                ,4/11/2015,1,4
+Mayor's Office                ,8/1/2015,0,4
+Mayor's Office                ,2/13/2016,0,6
+Metro Animal Services         ,10/26/2013,0,1
+Metro Animal Services         ,11/22/2014,0,1
+Metro Animal Services         ,6/2/2018,0,1
+Metro Parks & Recreation,12/19/2015,19,65
+Metro Parks & Recreation,7/16/2016,15,61
+Metro Parks & Recreation,7/30/2016,14,58
+Metro Parks & Recreation,7/15/2017,10,54
+Metro Parks & Recreation,8/25/2018,7,42
+Metro Parks & Recreation,4/6/2019,7,40
+Metro Police,3/9/2019,17,99
+OMB ,1/18/2014,8,27
+OMB ,4/26/2014,6,27
+OMB ,8/30/2014,5,24
+OMB ,12/20/2014,8,24
+OMB ,6/6/2015,6,22
+OMB ,6/20/2015,5,23
+OMB ,12/5/2015,4,23
+OMB ,1/28/2017,6,19
+OMB ,9/8/2018,7,16
+OMB ,12/29/2018,7,16
+Parking Authority of River Cty,10/25/2014,2,9
+Parking Authority of River Cty,1/2/2016,2,8
+Parking Authority of River Cty,10/22/2016,1,7
+Parking Authority of River Cty,11/18/2017,1,5
+Parking Authority of River Cty,5/19/2018,1,4
+Public Health & Wellness,2/1/2014,0,2
+Public Health & Wellness,7/5/2014,0,2
+Public Health & Wellness,12/3/2016,0,3
+Public Health & Wellness,12/1/2018,1,3
+PW&A ,3/14/2015,18,81
+Belle of Louisville           ,8/2/2014,0,2
+Belle of Louisville           ,1/31/2015,0,1
+Belle of Louisville           ,6/6/2015,0,3
+Belle of Louisville           ,9/12/2015,0,2
+Belle of Louisville           ,9/8/2018,0,1
+Civic Innovation & Technology,1/2/2016,3,8
+Civic Innovation & Technology,10/22/2016,2,6
+Civic Innovation & Technology,6/30/2018,1,5
+Civic Innovation & Technology,9/22/2018,1,5
+Civic Innovation & Technology,2/23/2019,1,4
+Codes & Regulations,3/15/2014,5,22
+Codes & Regulations,6/4/2016,5,21
+Community Services,5/7/2016,1,8
+Community Services,8/27/2016,2,8
+Community Services,11/3/2018,2,10
+Community Services,6/29/2019,2,8
+Coroner                       ,1/18/2014,0,5
+Coroner                       ,5/24/2014,0,5
+Coroner                       ,6/20/2015,0,4
+Coroner                       ,12/5/2015,0,4
+Coroner                       ,1/30/2016,0,3
+Corrections                   ,8/15/2015,0,1
+Corrections                   ,10/8/2016,0,1
+Corrections                   ,12/30/2017,0,1
+Corrections                   ,5/19/2018,1,2
+Corrections                   ,1/12/2019,1,2
+County Attorney               ,10/26/2013,0,7
+County Attorney               ,5/10/2014,0,7
+County Attorney               ,10/10/2015,0,4
+County Attorney               ,12/16/2017,0,3
+County Attorney               ,7/28/2018,0,4
+Develop Louisville,1/18/2014,7,16
+Develop Louisville,11/8/2014,5,14
+Develop Louisville,10/8/2016,2,11
+Develop Louisville,2/11/2017,2,9
+Develop Louisville,2/24/2018,4,7
+Economic Development ,2/14/2015,1,4
+Economic Development ,12/19/2015,0,2
+Economic Development ,4/22/2017,0,2
+Economic Development ,9/9/2017,0,2
+Economic Development ,8/25/2018,0,1
+Economic Development ,7/27/2019,0,1
+Emergency Mgt Agency/MetroSafe,7/5/2014,3,23
+Emergency Mgt Agency/MetroSafe,4/25/2015,3,22
+Emergency Mgt Agency/MetroSafe,7/18/2015,5,21
+Fire & Rescue                 ,12/16/2017,14,74
+Fire & Rescue                 ,2/10/2018,11,69
+Fire & Rescue                 ,3/10/2018,9,69
+Fire & Rescue                 ,7/28/2018,10,70
+Fire & Rescue                 ,2/9/2019,4,57
+Fire & Rescue                 ,6/15/2019,7,58
+Fleet & Facilities,10/26/2013,6,30
+Fleet & Facilities,1/4/2014,8,30
+Fleet & Facilities,3/12/2016,12,28
+Fleet & Facilities,5/21/2016,12,29
+Fleet & Facilities,10/21/2017,6,23
+Human Relations Commission    ,5/24/2014,1,5
+Human Relations Commission    ,12/16/2017,0,3
+Human Relations Commission    ,2/10/2018,0,3
+Human Relations Commission    ,3/10/2018,0,3
+Human Relations Commission    ,7/28/2018,0,3
+Human Relations Commission    ,6/15/2019,0,3
+Human Relations Commission    ,6/29/2019,0,3
+Human Resources,3/1/2014,1,6
+Human Resources,11/8/2014,1,5
+Human Resources,2/11/2017,0,3
+Kentuckiana Works Foundation,12/7/2013,0,2
+Kentuckiana Works Foundation,3/15/2014,0,2
+Kentuckiana Works Foundation,8/27/2016,0,1
+Kentuckiana Works Foundation,8/25/2018,0,2
+Library,4/26/2014,13,72
+Library,8/2/2014,12,71
+Library,12/20/2014,9,69
+Library,6/6/2015,11,66
+Library,3/24/2018,10,50
+Library,7/14/2018,11,49
+Library,9/8/2018,11,49
+Louisville Metro Council      ,9/28/2013,3,15
+Louisville Metro Council      ,8/29/2015,2,15
+Louisville Metro Council      ,11/21/2015,3,14
+Louisville Metro Council      ,4/9/2016,3,14
+Louisville Metro Council      ,2/24/2018,1,10
+Louisville Metro EMS,6/7/2014,0,6
+Louisville Metro EMS,1/3/2015,0,6
+Louisville Metro EMS,3/26/2016,0,5
+Louisville Metro EMS,5/7/2016,0,5
+Louisville Metro EMS,8/27/2016,0,5
+Louisville Metro EMS,4/21/2018,0,4
+Louisville Metro EMS,11/17/2018,0,4
+Louisville Metro EMS,6/29/2019,0,4
+Mayor's Office                ,2/1/2014,1,5
+Mayor's Office                ,9/13/2014,0,5
+Mayor's Office                ,12/1/2018,1,5
+Metro Animal Services         ,3/29/2014,0,1
+Metro Animal Services         ,11/8/2014,0,1
+Metro Animal Services         ,9/26/2015,0,1
+Metro Animal Services         ,1/28/2017,0,1
+Metro Animal Services         ,4/7/2018,0,1
+Metro Parks & Recreation,5/10/2014,18,81
+Metro Parks & Recreation,12/20/2014,17,68
+Metro Parks & Recreation,12/29/2018,6,39
+Metro Police,8/29/2015,20,188
+Metro Police,9/9/2017,20,125
+OMB ,3/1/2014,7,27
+OMB ,6/7/2014,6,25
+OMB ,5/6/2017,6,18
+OMB ,9/23/2017,5,19
+OMB ,6/2/2018,6,16
+OMB ,11/17/2018,7,16
+OMB ,5/4/2019,7,15
+Parking Authority of River Cty,6/17/2017,1,5
+Parking Authority of River Cty,10/6/2018,2,4
+Parking Authority of River Cty,6/1/2019,2,5
+Parking Authority of River Cty,8/10/2019,2,5
+Public Health & Wellness,2/15/2014,0,2
+Public Health & Wellness,10/25/2014,0,2
+Public Health & Wellness,1/16/2016,0,3
+Public Health & Wellness,11/19/2016,0,3
+Public Health & Wellness,2/25/2017,0,3
+Public Health & Wellness,10/7/2017,1,3
+Public Health & Wellness,5/19/2018,1,3
+PW&A ,4/12/2014,24,88
+PW&A ,3/26/2016,29,73
+PW&A ,1/14/2017,20,67
+PW&A ,4/8/2017,15,65
+PW&A ,4/21/2018,17,54
+PW&A ,1/26/2019,15,48
+Waterfront Development Corp,9/14/2013,1,6
+Belle of Louisville           ,1/3/2015,0,1
+Civic Innovation & Technology,7/19/2014,4,9
+Civic Innovation & Technology,1/31/2015,4,9
+Civic Innovation & Technology,6/18/2016,4,8
+Civic Innovation & Technology,10/21/2017,1,6
+Civic Innovation & Technology,2/24/2018,1,6
+Civic Innovation & Technology,12/1/2018,1,5
+Codes & Regulations,1/3/2015,5,20
+Codes & Regulations,1/30/2016,6,22
+Codes & Regulations,2/13/2016,6,22
+Codes & Regulations,7/29/2017,6,23
+Community Services,1/3/2015,3,11
+Community Services,1/17/2015,2,11
+Community Services,1/30/2016,1,9
+Community Services,7/29/2017,1,9
+Community Services,10/7/2017,2,9
+Coroner                       ,4/12/2014,0,5
+Coroner                       ,7/19/2014,0,5
+Coroner                       ,4/8/2017,0,4
+Coroner                       ,6/3/2017,0,4
+Coroner                       ,10/21/2017,0,5
+Coroner                       ,3/10/2018,0,6
+Coroner                       ,6/1/2019,0,7
+Coroner                       ,7/27/2019,0,7
+Corrections                   ,9/14/2013,0,1
+Corrections                   ,11/23/2013,0,1
+Corrections                   ,2/15/2014,0,1
+Corrections                   ,5/23/2015,0,1
+Corrections                   ,1/26/2019,1,2
+Corrections                   ,5/4/2019,0,2
+Corrections                   ,6/15/2019,0,2
+County Attorney               ,6/7/2014,0,7
+County Attorney               ,4/22/2017,0,3
+County Attorney               ,12/2/2017,0,3
+Develop Louisville,8/15/2015,3,12
+Develop Louisville,4/9/2016,3,11
+Develop Louisville,5/7/2016,3,11
+Develop Louisville,3/24/2018,4,7
+Develop Louisville,4/20/2019,2,5
+Economic Development ,10/12/2013,0,6
+Economic Development ,3/26/2016,0,2
+Economic Development ,11/5/2016,0,2
+Economic Development ,1/28/2017,0,2
+Economic Development ,12/2/2017,0,2
+Economic Development ,12/29/2018,0,1
+Economic Development ,5/4/2019,0,1
+Emergency Mgt Agency/MetroSafe,12/21/2013,5,24
+Emergency Mgt Agency/MetroSafe,4/26/2014,6,23
+Emergency Mgt Agency/MetroSafe,3/12/2016,4,20
+Emergency Mgt Agency/MetroSafe,11/17/2018,1,12
+Fire & Rescue                 ,7/5/2014,22,156
+Fire & Rescue                 ,1/31/2015,20,142
+Fire & Rescue                 ,12/1/2018,4,59
+Fleet & Facilities,3/15/2014,9,30
+Fleet & Facilities,4/26/2014,10,29
+Fleet & Facilities,10/7/2017,6,24
+Fleet & Facilities,7/14/2018,4,21
+Fleet & Facilities,11/17/2018,5,21
+Human Relations Commission    ,5/10/2014,1,5
+Human Relations Commission    ,4/25/2015,0,5
+Human Relations Commission    ,8/12/2017,0,3
+Human Relations Commission    ,9/9/2017,0,3
+Human Resources,4/26/2014,0,6
+Human Resources,6/4/2016,1,4
+Human Resources,12/17/2016,1,3
+Human Resources,10/7/2017,0,4
+Kentuckiana Works Foundation,9/28/2013,0,2
+Kentuckiana Works Foundation,7/19/2014,0,2
+Kentuckiana Works Foundation,6/29/2019,0,2
+Library,1/17/2015,12,66
+Library,2/28/2015,12,67
+Library,7/4/2015,12,66
+Library,8/29/2015,9,61
+Library,8/12/2017,6,55
+Library,10/7/2017,3,52
+Library,11/18/2017,3,52
+Louisville Metro Council      ,5/24/2014,3,14
+Louisville Metro Council      ,6/4/2016,3,14
+Louisville Metro Council      ,9/24/2016,2,14
+Louisville Metro Council      ,12/17/2016,3,14
+Louisville Metro EMS,1/17/2015,0,5
+Louisville Metro EMS,1/31/2015,0,5
+Louisville Metro EMS,1/30/2016,0,5
+Louisville Metro EMS,7/29/2017,1,4
+Louisville Metro EMS,2/23/2019,0,4
+Mayor's Office                ,9/28/2013,1,5
+Mayor's Office                ,12/7/2013,1,5
+Mayor's Office                ,8/16/2014,0,5
+Mayor's Office                ,9/27/2014,0,5
+Mayor's Office                ,6/18/2016,0,6
+Mayor's Office                ,9/22/2018,1,5
+Mayor's Office                ,1/12/2019,1,5
+Mayor's Office                ,7/27/2019,1,5
+Metro Animal Services         ,12/5/2015,0,1
+Metro Animal Services         ,12/30/2017,0,1
+Metro Animal Services         ,7/14/2018,0,1
+Metro Parks & Recreation,2/1/2014,17,77
+Metro Parks & Recreation,3/28/2015,15,66
+Metro Parks & Recreation,11/21/2015,19,66
+Metro Parks & Recreation,6/4/2016,15,59
+Metro Parks & Recreation,12/17/2016,12,55
+Metro Police,9/28/2013,20,248
+OMB ,1/17/2015,7,23
+OMB ,8/29/2015,6,23
+OMB ,12/3/2016,7,19
+OMB ,12/16/2017,6,18
+OMB ,2/23/2019,7,15
+Parking Authority of River Cty,9/14/2013,3,9
+Parking Authority of River Cty,1/18/2014,0,9
+Parking Authority of River Cty,2/15/2014,0,9
+Parking Authority of River Cty,10/11/2014,2,9
+Parking Authority of River Cty,11/5/2016,1,6
+Parking Authority of River Cty,3/11/2017,1,5
+Parking Authority of River Cty,8/26/2017,2,5
+Parking Authority of River Cty,8/11/2018,1,4
+Public Health & Wellness,10/12/2013,0,2
+Public Health & Wellness,12/21/2013,0,2
+Public Health & Wellness,1/28/2017,0,3
+Public Health & Wellness,12/2/2017,1,3
+Public Health & Wellness,1/13/2018,1,4
+Public Health & Wellness,10/6/2018,1,4
+Public Health & Wellness,12/29/2018,1,3
+PW&A ,1/3/2015,22,85
+PW&A ,2/14/2015,16,82
+PW&A ,2/13/2016,29,73
+PW&A ,11/19/2016,22,69
+Belle of Louisville           ,1/4/2014,0,1
+Belle of Louisville           ,3/28/2015,0,1
+Civic Innovation & Technology,6/21/2014,4,9
+Civic Innovation & Technology,7/5/2014,4,9
+Civic Innovation & Technology,5/21/2016,4,8
+Civic Innovation & Technology,8/13/2016,3,8
+Civic Innovation & Technology,9/10/2016,3,8
+Civic Innovation & Technology,10/6/2018,1,5
+Codes & Regulations,9/9/2017,6,22
+Codes & Regulations,2/9/2019,8,19
+Community Services,8/31/2013,5,16
+Community Services,3/1/2014,3,12
+Community Services,8/30/2014,2,12
+Community Services,6/6/2015,1,11
+Community Services,9/9/2017,1,9
+Community Services,2/9/2019,2,9
+Coroner                       ,6/21/2014,0,5
+Coroner                       ,7/5/2014,0,5
+Coroner                       ,7/2/2016,0,2
+Coroner                       ,8/13/2016,0,2
+Coroner                       ,9/10/2016,0,2
+Coroner                       ,11/3/2018,0,6
+Coroner                       ,12/15/2018,0,7
+Corrections                   ,10/12/2013,0,1
+Corrections                   ,1/2/2016,0,1
+Corrections                   ,3/26/2016,0,1
+Corrections                   ,11/19/2016,0,1
+Corrections                   ,8/26/2017,0,1
+County Attorney               ,9/12/2015,0,4
+County Attorney               ,4/7/2018,0,3
+County Attorney               ,10/6/2018,0,4
+County Attorney               ,1/26/2019,0,4
+County Attorney               ,6/29/2019,0,3
+Develop Louisville,12/7/2013,4,16
+Develop Louisville,4/26/2014,7,16
+Develop Louisville,5/10/2014,6,16
+Develop Louisville,12/17/2016,2,10
+Develop Louisville,6/3/2017,2,8
+Develop Louisville,6/17/2017,1,8
+Develop Louisville,10/21/2017,0,6
+Develop Louisville,7/14/2018,4,7
+Develop Louisville,7/13/2019,2,5
+Develop Louisville,7/27/2019,2,5
+Economic Development ,1/18/2014,3,5
+Economic Development ,1/26/2019,0,1
+Emergency Mgt Agency/MetroSafe,8/2/2014,3,23
+Emergency Mgt Agency/MetroSafe,8/30/2014,4,22
+Emergency Mgt Agency/MetroSafe,6/6/2015,3,22
+Emergency Mgt Agency/MetroSafe,8/1/2015,5,21
+Emergency Mgt Agency/MetroSafe,8/15/2015,5,20
+Emergency Mgt Agency/MetroSafe,10/8/2016,3,18
+Emergency Mgt Agency/MetroSafe,3/24/2018,0,13
+Emergency Mgt Agency/MetroSafe,9/8/2018,2,13
+Emergency Mgt Agency/MetroSafe,8/10/2019,2,12
+Fire & Rescue                 ,4/12/2014,21,157
+Fire & Rescue                 ,9/26/2015,17,120
+Fire & Rescue                 ,10/10/2015,17,120
+Fire & Rescue                 ,11/7/2015,17,118
+Fire & Rescue                 ,12/31/2016,16,94
+Fire & Rescue                 ,4/8/2017,18,89
+Fire & Rescue                 ,6/30/2018,10,70
+Fleet & Facilities,8/31/2013,7,30
+Fleet & Facilities,3/1/2014,8,30
+Fleet & Facilities,8/2/2014,8,29
+Fleet & Facilities,8/30/2014,9,29
+Fleet & Facilities,6/6/2015,10,29
+Fleet & Facilities,8/15/2015,8,28
+Fleet & Facilities,12/5/2015,11,28
+Fleet & Facilities,3/24/2018,6,23
+Fleet & Facilities,9/8/2018,4,21
+Fleet & Facilities,8/10/2019,5,19
+Human Relations Commission    ,8/27/2016,0,3
+Human Relations Commission    ,7/13/2019,0,3
+Human Resources,4/9/2016,1,3
+Human Resources,4/20/2019,1,4
+Kentuckiana Works Foundation,8/16/2014,0,2
+Kentuckiana Works Foundation,6/18/2016,0,1
+Kentuckiana Works Foundation,9/23/2017,0,1
+Kentuckiana Works Foundation,2/24/2018,0,1
+Kentuckiana Works Foundation,9/22/2018,0,2
+Kentuckiana Works Foundation,1/12/2019,0,2
+Kentuckiana Works Foundation,3/9/2019,0,2
+Library,8/31/2013,17,76
+Library,8/30/2014,11,69
+Library,5/5/2018,11,50
+Library,6/2/2018,11,50
+Louisville Metro Council      ,3/15/2014,2,14
+Louisville Metro Council      ,7/18/2015,2,15
+Louisville Metro Council      ,8/1/2015,2,15
+Louisville Metro Council      ,8/15/2015,2,15
+Louisville Metro Council      ,10/8/2016,2,14
+Louisville Metro Council      ,4/21/2018,1,9
+Louisville Metro Council      ,11/3/2018,1,9
+Louisville Metro Council      ,8/10/2019,1,8
+Louisville Metro EMS,11/7/2015,0,5
+Louisville Metro EMS,9/9/2017,0,3
+Louisville Metro EMS,2/9/2019,0,4
+Mayor's Office                ,7/19/2014,0,5
+Mayor's Office                ,5/20/2017,0,6
+Mayor's Office                ,6/3/2017,0,6
+Mayor's Office                ,2/24/2018,0,5
+Mayor's Office                ,5/19/2018,1,5
+Metro Animal Services         ,8/31/2013,0,1
+Metro Animal Services         ,3/1/2014,0,1
+Metro Animal Services         ,6/20/2015,0,1
+Metro Parks & Recreation,2/14/2015,16,67
+Metro Parks & Recreation,3/12/2016,19,61
+Metro Parks & Recreation,2/25/2017,12,55
+Metro Parks & Recreation,10/7/2017,8,51
+Metro Parks & Recreation,4/20/2019,8,40
+Metro Police,3/25/2017,16,151
+Metro Police,4/22/2017,18,149
+Metro Police,7/1/2017,22,146
+Metro Police,5/4/2019,13,97
+OMB ,10/26/2013,11,28
+OMB ,3/11/2017,6,19
+OMB ,8/12/2017,5,19
+OMB ,8/11/2018,7,16
+Parking Authority of River Cty,10/12/2013,2,9
+Parking Authority of River Cty,5/23/2015,0,9
+Parking Authority of River Cty,12/3/2016,1,5
+Parking Authority of River Cty,1/14/2017,1,5
+Parking Authority of River Cty,1/26/2019,3,5
+Public Health & Wellness,10/22/2016,0,3
+Belle of Louisville           ,1/18/2014,0,1
+Belle of Louisville           ,4/12/2014,0,1
+Belle of Louisville           ,7/19/2014,0,2
+Civic Innovation & Technology,4/26/2014,4,9
+Civic Innovation & Technology,5/10/2014,4,9
+Civic Innovation & Technology,10/10/2015,3,8
+Civic Innovation & Technology,3/10/2018,1,6
+Civic Innovation & Technology,7/14/2018,1,5
+Codes & Regulations,2/1/2014,3,23
+Codes & Regulations,9/13/2014,5,20
+Codes & Regulations,1/13/2018,6,21
+Codes & Regulations,11/17/2018,9,21
+Codes & Regulations,12/1/2018,11,20
+Codes & Regulations,5/18/2019,8,20
+Community Services,9/13/2014,2,12
+Community Services,12/17/2016,2,8
+Community Services,1/13/2018,2,9
+Community Services,6/1/2019,2,8
+Coroner                       ,5/10/2014,0,5
+Coroner                       ,1/31/2015,0,5
+Coroner                       ,1/27/2018,0,6
+Corrections                   ,11/8/2014,0,1
+Corrections                   ,11/21/2015,0,1
+Corrections                   ,4/7/2018,0,2
+County Attorney               ,3/29/2014,0,7
+County Attorney               ,9/26/2015,0,4
+County Attorney               ,3/11/2017,0,3
+Develop Louisville,2/28/2015,4,12
+Develop Louisville,7/2/2016,2,11
+Develop Louisville,2/25/2017,2,9
+Develop Louisville,4/22/2017,2,9
+Develop Louisville,7/15/2017,1,7
+Develop Louisville,5/19/2018,4,7
+Develop Louisville,4/6/2019,3,6
+Economic Development ,7/2/2016,0,2
+Economic Development ,8/26/2017,0,2
+Economic Development ,8/11/2018,0,1
+Economic Development ,12/15/2018,0,1
+Emergency Mgt Agency/MetroSafe,9/12/2015,5,21
+Emergency Mgt Agency/MetroSafe,4/23/2016,4,20
+Emergency Mgt Agency/MetroSafe,2/10/2018,1,13
+Emergency Mgt Agency/MetroSafe,12/1/2018,1,12
+Fire & Rescue                 ,8/16/2014,19,146
+Fire & Rescue                 ,10/24/2015,17,118
+Fire & Rescue                 ,1/30/2016,16,115
+Fire & Rescue                 ,5/21/2016,17,112
+Fire & Rescue                 ,9/22/2018,7,62
+Fleet & Facilities,9/13/2014,8,29
+Fleet & Facilities,9/12/2015,9,28
+Fleet & Facilities,9/23/2017,5,24
+Fleet & Facilities,12/1/2018,5,21
+Fleet & Facilities,5/18/2019,5,19
+Human Relations Commission    ,9/14/2013,0,4
+Human Relations Commission    ,9/27/2014,1,5
+Human Relations Commission    ,1/17/2015,0,5
+Human Relations Commission    ,3/14/2015,0,5
+Human Relations Commission    ,6/20/2015,0,5
+Human Relations Commission    ,10/22/2016,0,3
+Human Relations Commission    ,6/3/2017,0,3
+Human Relations Commission    ,6/17/2017,0,3
+Human Relations Commission    ,2/23/2019,0,3
+Human Resources,11/9/2013,0,7
+Human Resources,10/25/2014,1,5
+Human Resources,5/23/2015,0,5
+Human Resources,11/21/2015,0,4
+Human Resources,1/16/2016,0,3
+Human Resources,2/27/2016,1,3
+Human Resources,9/24/2016,1,2
+Human Resources,3/9/2019,2,3
+Kentuckiana Works Foundation,8/31/2013,0,2
+Kentuckiana Works Foundation,3/1/2014,0,2
+Kentuckiana Works Foundation,12/31/2016,0,1
+Kentuckiana Works Foundation,3/25/2017,0,1
+Kentuckiana Works Foundation,5/6/2017,0,1
+Kentuckiana Works Foundation,5/5/2018,0,1
+Kentuckiana Works Foundation,12/15/2018,0,2
+Library,9/14/2013,17,76
+Library,8/16/2014,11,70
+Library,9/27/2014,10,69
+Library,6/20/2015,12,66
+Library,6/17/2017,5,54
+Library,9/22/2018,10,48
+Louisville Metro Council      ,11/9/2013,2,14
+Louisville Metro Council      ,10/25/2014,3,13
+Louisville Metro Council      ,5/23/2015,2,15
+Louisville Metro Council      ,1/16/2016,3,14
+Louisville Metro Council      ,1/14/2017,2,12
+Louisville Metro Council      ,10/7/2017,1,12
+Louisville Metro Council      ,3/9/2019,1,7
+Louisville Metro EMS,9/13/2014,0,6
+Louisville Metro EMS,12/17/2016,0,4
+Louisville Metro EMS,1/13/2018,0,4
+Louisville Metro EMS,10/6/2018,0,4
+Louisville Metro EMS,1/26/2019,0,4
+Louisville Metro EMS,6/1/2019,0,4
+Mayor's Office                ,1/4/2014,1,5
+Mayor's Office                ,6/7/2014,0,5
+Mayor's Office                ,7/5/2014,0,5
+Mayor's Office                ,6/29/2019,1,5
+Metro Animal Services         ,10/10/2015,0,1
+Metro Animal Services         ,2/13/2016,0,1
+Metro Animal Services         ,1/27/2018,0,1
+Metro Animal Services         ,1/12/2019,0,1
+Metro Parks & Recreation,8/16/2014,20,76
+Metro Parks & Recreation,10/24/2015,17,64
+Metro Parks & Recreation,1/30/2016,19,64
+Metro Parks & Recreation,5/21/2016,15,60
+Metro Parks & Recreation,9/22/2018,7,42
+Metro Police,5/10/2014,15,234
+Metro Police,10/10/2015,22,187
+Metro Police,4/23/2016,22,165
+Metro Police,1/27/2018,25,112
+Metro Police,1/12/2019,20,101
+OMB ,11/23/2013,11,27
+OMB ,12/7/2013,11,27
+OMB ,7/5/2014,6,25
+OMB ,2/27/2016,5,23
+OMB ,1/26/2019,7,16
+Parking Authority of River Cty,3/15/2014,1,9
+Parking Authority of River Cty,1/3/2015,2,9
+Parking Authority of River Cty,3/26/2016,2,7
+Parking Authority of River Cty,10/21/2017,2,5
+Parking Authority of River Cty,3/10/2018,0,4
+Parking Authority of River Cty,4/20/2019,2,5
+Public Health & Wellness,9/26/2015,0,2
+PW&A ,2/1/2014,27,91
+PW&A ,12/19/2015,25,74
+Belle of Louisville           ,7/16/2016,0,1
+Belle of Louisville           ,7/30/2016,0,1
+Belle of Louisville           ,9/24/2016,0,1
+Belle of Louisville           ,8/25/2018,0,1
+Civic Innovation & Technology,2/27/2016,3,8
+Civic Innovation & Technology,4/9/2016,4,8
+Civic Innovation & Technology,5/7/2016,4,8
+Civic Innovation & Technology,1/13/2018,1,6
+Civic Innovation & Technology,7/13/2019,1,4
+Civic Innovation & Technology,7/27/2019,1,4
+Codes & Regulations,7/18/2015,6,22
+Codes & Regulations,8/1/2015,6,21
+Codes & Regulations,11/7/2015,6,22
+Codes & Regulations,2/25/2017,7,23
+Community Services,3/29/2014,3,12
+Community Services,5/10/2014,2,12
+Community Services,8/15/2015,2,10
+Community Services,10/10/2015,2,10
+Community Services,4/23/2016,1,8
+Community Services,10/8/2016,2,8
+Community Services,10/21/2017,2,10
+Community Services,6/30/2018,1,9
+Coroner                       ,3/15/2014,0,5
+Corrections                   ,10/26/2013,0,1
+Corrections                   ,7/19/2014,0,1
+Corrections                   ,9/27/2014,0,1
+Corrections                   ,1/17/2015,0,1
+Corrections                   ,12/16/2017,0,1
+Corrections                   ,6/16/2018,1,2
+Corrections                   ,6/29/2019,0,2
+County Attorney               ,11/23/2013,0,7
+County Attorney               ,12/19/2015,0,4
+County Attorney               ,11/5/2016,0,3
+County Attorney               ,5/19/2018,0,4
+County Attorney               ,4/6/2019,0,4
+Develop Louisville,7/5/2014,6,16
+Develop Louisville,10/6/2018,4,6
+Develop Louisville,12/1/2018,4,6
+Develop Louisville,2/9/2019,4,6
+Economic Development ,10/26/2013,0,6
+Economic Development ,7/19/2014,1,4
+Economic Development ,9/27/2014,1,4
+Economic Development ,1/17/2015,1,4
+Economic Development ,12/16/2017,0,2
+Economic Development ,2/10/2018,0,1
+Economic Development ,6/16/2018,0,1
+Economic Development ,2/23/2019,0,1
+Economic Development ,6/29/2019,0,1
+Emergency Mgt Agency/MetroSafe,11/8/2014,3,22
+Emergency Mgt Agency/MetroSafe,6/4/2016,3,20
+Emergency Mgt Agency/MetroSafe,9/10/2016,3,19
+Emergency Mgt Agency/MetroSafe,2/11/2017,4,18
+Emergency Mgt Agency/MetroSafe,7/29/2017,3,17
+Emergency Mgt Agency/MetroSafe,10/20/2018,2,13
+Emergency Mgt Agency/MetroSafe,3/9/2019,2,12
+Fire & Rescue                 ,12/6/2014,21,144
+Fire & Rescue                 ,1/16/2016,16,115
+Fire & Rescue                 ,2/27/2016,15,115
+Fire & Rescue                 ,4/9/2016,17,115
+Fire & Rescue                 ,5/7/2016,19,114
+Fire & Rescue                 ,1/13/2018,11,69
+Fire & Rescue                 ,7/27/2019,5,58
+Fleet & Facilities,4/9/2016,12,29
+Fleet & Facilities,7/15/2017,9,25
+Fleet & Facilities,7/27/2019,5,19
+Human Relations Commission    ,7/30/2016,0,3
+Human Relations Commission    ,11/5/2016,0,3
+Human Relations Commission    ,12/30/2017,0,3
+Human Relations Commission    ,11/3/2018,0,3
+Human Relations Commission    ,12/15/2018,0,3
+Human Resources,4/12/2014,0,6
+Human Resources,8/16/2014,1,5
+Human Resources,4/25/2015,0,5
+Human Resources,4/8/2017,0,4
+Human Resources,6/3/2017,0,4
+Kentuckiana Works Foundation,9/14/2013,0,2
+Kentuckiana Works Foundation,10/12/2013,0,2
+Kentuckiana Works Foundation,1/18/2014,0,2
+Kentuckiana Works Foundation,2/15/2014,0,2
+Kentuckiana Works Foundation,4/11/2015,0,2
+Kentuckiana Works Foundation,1/28/2017,0,1
+Kentuckiana Works Foundation,6/3/2017,0,1
+Kentuckiana Works Foundation,1/27/2018,0,1
+Kentuckiana Works Foundation,12/29/2018,0,2
+Library,11/9/2013,20,75
+Library,5/23/2015,13,66
+Library,8/26/2017,6,53
+Library,8/11/2018,12,49
+Louisville Metro Council      ,1/4/2014,2,14
+Louisville Metro Council      ,4/12/2014,3,14
+Louisville Metro Council      ,8/16/2014,2,13
+Louisville Metro Council      ,4/25/2015,2,15
+Louisville Metro Council      ,4/8/2017,1,12
+Louisville Metro Council      ,9/22/2018,1,8
+Louisville Metro Council      ,5/18/2019,1,7
+Louisville Metro EMS,3/29/2014,0,6
+Louisville Metro EMS,8/15/2015,0,5
+Louisville Metro EMS,10/10/2015,0,5
+Louisville Metro EMS,8/13/2016,0,5
+Louisville Metro EMS,10/8/2016,0,5
+Louisville Metro EMS,6/30/2018,0,4
+Mayor's Office                ,2/14/2015,0,4
+Mayor's Office                ,4/22/2017,0,6
+Mayor's Office                ,10/7/2017,0,5
+Mayor's Office                ,12/2/2017,0,4
+Mayor's Office                ,6/15/2019,1,5
+Metro Animal Services         ,2/1/2014,0,1
+Metro Animal Services         ,6/21/2014,0,1
+Metro Animal Services         ,8/27/2016,0,1
+Metro Animal Services         ,6/17/2017,0,1
+Metro Animal Services         ,5/5/2018,0,1
+Metro Animal Services         ,6/1/2019,0,1
+Metro Parks & Recreation,12/7/2013,19,79
+Metro Parks & Recreation,5/9/2015,16,68
+Metro Parks & Recreation,2/27/2016,19,63
+Metro Parks & Recreation,5/20/2017,10,54
+Metro Parks & Recreation,2/24/2018,6,48
+Metro Police,11/23/2013,18,244
+Metro Police,2/1/2014,13,239
+Metro Police,6/21/2014,13,230
+Metro Police,8/27/2016,19,150
+Metro Police,11/5/2016,19,148
+Metro Police,4/21/2018,22,112
+Metro Police,5/5/2018,24,112
+Belle of Louisville           ,10/26/2013,1,3
+Belle of Louisville           ,1/17/2015,0,1
+Belle of Louisville           ,2/28/2015,0,1
+Belle of Louisville           ,8/29/2015,0,3
+Civic Innovation & Technology,4/7/2018,1,6
+Codes & Regulations,10/26/2013,3,25
+Codes & Regulations,11/22/2014,6,20
+Codes & Regulations,3/11/2017,6,23
+Codes & Regulations,8/11/2018,9,20
+Community Services,2/1/2014,3,12
+Community Services,12/20/2014,3,11
+Community Services,11/21/2015,1,8
+Community Services,11/5/2016,2,8
+Community Services,11/4/2017,2,10
+Community Services,4/21/2018,1,9
+Coroner                       ,9/28/2013,0,6
+Coroner                       ,4/11/2015,0,5
+Coroner                       ,9/12/2015,0,4
+Coroner                       ,3/26/2016,0,2
+Coroner                       ,6/18/2016,0,2
+Coroner                       ,6/29/2019,0,7
+Corrections                   ,7/15/2017,0,1
+County Attorney               ,1/31/2015,0,6
+County Attorney               ,4/23/2016,0,4
+County Attorney               ,8/13/2016,0,4
+County Attorney               ,9/10/2016,0,4
+Develop Louisville,12/5/2015,4,12
+Develop Louisville,3/25/2017,3,9
+Economic Development ,4/12/2014,2,5
+Economic Development ,7/5/2014,2,5
+Economic Development ,11/7/2015,0,2
+Economic Development ,10/22/2016,0,2
+Economic Development ,4/8/2017,0,2
+Economic Development ,12/1/2018,0,1
+Emergency Mgt Agency/MetroSafe,2/1/2014,4,24
+Emergency Mgt Agency/MetroSafe,10/25/2014,3,22
+Emergency Mgt Agency/MetroSafe,3/14/2015,3,22
+Emergency Mgt Agency/MetroSafe,7/4/2015,5,21
+Emergency Mgt Agency/MetroSafe,5/5/2018,1,13
+Fire & Rescue                 ,4/22/2017,18,89
+Fire & Rescue                 ,7/1/2017,18,88
+Fire & Rescue                 ,12/2/2017,14,74
+Fire & Rescue                 ,3/23/2019,6,58
+Fleet & Facilities,9/27/2014,8,29
+Fleet & Facilities,11/22/2014,8,29
+Fleet & Facilities,10/24/2015,10,28
+Fleet & Facilities,6/4/2016,12,29
+Fleet & Facilities,2/24/2018,6,23
+Fleet & Facilities,6/2/2018,6,23
+Human Relations Commission    ,3/12/2016,1,4
+Human Relations Commission    ,8/26/2017,0,3
+Human Relations Commission    ,6/16/2018,0,3
+Human Resources,2/28/2015,0,5
+Human Resources,8/29/2015,0,4
+Kentuckiana Works Foundation,11/9/2013,0,2
+Kentuckiana Works Foundation,7/28/2018,0,1
+Library,2/1/2014,14,72
+Library,1/3/2015,9,68
+Library,8/1/2015,11,64
+Library,2/13/2016,12,59
+Library,4/21/2018,11,50
+Library,11/3/2018,10,48
+Louisville Metro Council      ,3/1/2014,2,14
+Louisville Metro Council      ,6/6/2015,2,15
+Louisville Metro Council      ,6/20/2015,2,15
+Louisville Metro Council      ,9/12/2015,3,15
+Louisville Metro Council      ,12/5/2015,3,14
+Louisville Metro Council      ,8/12/2017,2,13
+Louisville Metro Council      ,6/2/2018,1,9
+Louisville Metro EMS,11/23/2013,0,6
+Louisville Metro EMS,12/21/2013,0,6
+Louisville Metro EMS,1/18/2014,0,6
+Louisville Metro EMS,2/1/2014,0,6
+Louisville Metro EMS,12/20/2014,0,6
+Louisville Metro EMS,11/21/2015,0,5
+Louisville Metro EMS,11/5/2016,0,5
+Louisville Metro EMS,5/6/2017,1,4
+Louisville Metro EMS,11/4/2017,0,3
+Louisville Metro EMS,12/29/2018,0,4
+Mayor's Office                ,3/1/2014,1,5
+Mayor's Office                ,4/26/2014,1,5
+Mayor's Office                ,8/2/2014,0,5
+Mayor's Office                ,12/6/2014,0,5
+Mayor's Office                ,6/6/2015,0,4
+Mayor's Office                ,12/5/2015,0,6
+Mayor's Office                ,1/16/2016,0,6
+Mayor's Office                ,5/7/2016,0,6
+Mayor's Office                ,6/17/2017,0,6
+Mayor's Office                ,3/24/2018,0,5
+Mayor's Office                ,7/14/2018,1,5
+Mayor's Office                ,9/8/2018,1,5
+Mayor's Office                ,12/15/2018,1,5
+Metro Animal Services         ,7/19/2014,0,1
+Metro Animal Services         ,9/27/2014,0,1
+Metro Animal Services         ,10/24/2015,0,1
+Metro Animal Services         ,9/10/2016,0,1
+Metro Animal Services         ,10/21/2017,0,1
+Metro Animal Services         ,2/24/2018,0,1
+Metro Parks & Recreation,7/4/2015,17,67
+Metro Parks & Recreation,8/27/2016,16,59
+Metro Parks & Recreation,11/18/2017,8,48
+Metro Police,12/7/2013,17,244
+Metro Police,5/24/2014,16,232
+Metro Police,11/8/2014,16,214
+Metro Police,12/31/2016,18,146
+Metro Police,2/11/2017,18,146
+Metro Police,9/23/2017,22,122
+Metro Police,3/10/2018,23,113
+OMB ,12/21/2013,10,27
+OMB ,1/3/2015,8,24
+OMB ,8/1/2015,6,23
+OMB ,11/21/2015,4,23
+OMB ,2/13/2016,6,23
+OMB ,1/13/2018,6,17
+Parking Authority of River Cty,7/15/2017,1,5
+Public Health & Wellness,6/21/2014,0,2
+Public Health & Wellness,1/14/2017,0,4
+PW&A ,4/25/2015,16,81
+PW&A ,7/4/2015,16,80
+Waterfront Development Corp,2/1/2014,2,6
+Waterfront Development Corp,10/25/2014,3,6
+Waterfront Development Corp,11/19/2016,2,6
+Waterfront Development Corp,12/3/2016,2,6
+Youth Detention Services      ,11/22/2014,1,6
+Youth Detention Services      ,5/23/2015,0,3
+Youth Detention Services      ,3/11/2017,1,4
+Youth Detention Services      ,8/11/2018,1,2
+Belle of Louisville           ,4/26/2014,0,1
+Belle of Louisville           ,7/14/2018,0,1
+Civic Innovation & Technology,3/29/2014,4,9
+Civic Innovation & Technology,3/14/2015,4,9
+Civic Innovation & Technology,7/4/2015,3,8
+Civic Innovation & Technology,7/18/2015,3,8
+Codes & Regulations,12/7/2013,3,24
+Codes & Regulations,10/11/2014,5,20
+Codes & Regulations,3/12/2016,5,21
+Codes & Regulations,5/20/2017,8,23
+Codes & Regulations,10/20/2018,10,22
+Community Services,11/23/2013,6,18
+Community Services,4/9/2016,1,8
+Community Services,7/16/2016,1,8
+Community Services,4/20/2019,2,8
+Community Services,7/13/2019,2,8
+Community Services,7/27/2019,2,7
+Coroner                       ,9/27/2014,0,5
+Coroner                       ,9/26/2015,0,4
+Coroner                       ,10/24/2015,0,4
+Coroner                       ,5/21/2016,0,2
+Coroner                       ,6/17/2017,0,4
+Corrections                   ,10/25/2014,0,1
+Corrections                   ,12/6/2014,0,1
+Corrections                   ,7/2/2016,0,1
+Corrections                   ,10/7/2017,0,1
+Corrections                   ,12/15/2018,1,2
+Corrections                   ,4/6/2019,1,2
+County Attorney               ,12/21/2013,0,7
+County Attorney               ,2/10/2018,0,3
+County Attorney               ,3/10/2018,0,3
+Develop Louisville,8/29/2015,3,12
+Develop Louisville,9/26/2015,2,12
+Develop Louisville,8/13/2016,2,10
+Develop Louisville,8/12/2017,1,7
+Economic Development ,10/11/2014,1,4
+Economic Development ,4/9/2016,0,2
+Economic Development ,7/30/2016,0,2
+Economic Development ,7/15/2017,0,2
+Emergency Mgt Agency/MetroSafe,1/18/2014,5,24
+Emergency Mgt Agency/MetroSafe,4/12/2014,5,23
+Emergency Mgt Agency/MetroSafe,8/16/2014,4,22
+Emergency Mgt Agency/MetroSafe,4/8/2017,4,17
+Fire & Rescue                 ,10/26/2013,25,159
+Fire & Rescue                 ,1/4/2014,26,159
+Fire & Rescue                 ,10/21/2017,15,76
+Fleet & Facilities,5/24/2014,9,29
+Fleet & Facilities,12/16/2017,8,23
+Fleet & Facilities,3/10/2018,6,23
+Fleet & Facilities,2/9/2019,6,20
+Fleet & Facilities,6/15/2019,6,19
+Fleet & Facilities,6/29/2019,5,19
+Human Relations Commission    ,10/26/2013,0,4
+Human Relations Commission    ,1/4/2014,1,4
+Human Relations Commission    ,8/15/2015,0,5
+Human Relations Commission    ,10/10/2015,1,5
+Human Relations Commission    ,10/21/2017,0,3
+Human Resources,5/9/2015,0,5
+Human Resources,8/13/2016,1,2
+Human Resources,3/25/2017,0,3
+Human Resources,2/24/2018,1,4
+Kentuckiana Works Foundation,10/11/2014,0,2
+Kentuckiana Works Foundation,3/12/2016,0,1
+Kentuckiana Works Foundation,6/4/2016,0,1
+Kentuckiana Works Foundation,10/20/2018,0,2
+Library,12/21/2013,15,74
+Library,12/3/2016,10,57
+Library,1/27/2018,8,51
+Louisville Metro Council      ,11/8/2014,3,13
+Louisville Metro Council      ,5/7/2016,3,14
+Louisville Metro Council      ,2/11/2017,2,12
+Louisville Metro EMS,6/21/2014,0,6
+Louisville Metro EMS,4/9/2016,0,5
+Louisville Metro EMS,4/20/2019,0,4
+Louisville Metro EMS,7/13/2019,0,4
+Mayor's Office                ,1/17/2015,0,4
+Mayor's Office                ,1/13/2018,0,4
+Mayor's Office                ,6/2/2018,1,5
+Mayor's Office                ,5/4/2019,2,5
+Mayor's Office                ,6/1/2019,1,5
+Metro Animal Services         ,9/28/2013,0,1
+Metro Animal Services         ,4/11/2015,0,1
+Metro Animal Services         ,8/29/2015,0,1
+Metro Animal Services         ,9/9/2017,0,1
+Metro Parks & Recreation,9/14/2013,25,82
+Metro Parks & Recreation,10/12/2013,19,81
+Metro Parks & Recreation,11/7/2015,18,64
+Metro Parks & Recreation,12/3/2016,14,56
+Metro Parks & Recreation,6/3/2017,9,55
+Metro Parks & Recreation,3/10/2018,7,48
+Metro Parks & Recreation,7/28/2018,9,44
+Metro Parks & Recreation,2/9/2019,6,40
+Metro Police,3/29/2014,14,237
+Metro Police,9/27/2014,16,215
+Metro Police,9/26/2015,22,187
+Metro Police,10/24/2015,23,185
+Metro Police,1/28/2017,18,146
+OMB ,2/1/2014,8,27
+OMB ,9/13/2014,5,24
+OMB ,3/25/2017,6,18
+OMB ,7/13/2019,7,15
+Parking Authority of River Cty,12/17/2016,1,5
+Parking Authority of River Cty,7/1/2017,1,5
+Parking Authority of River Cty,5/5/2018,1,4
+Parking Authority of River Cty,12/1/2018,2,5
+Parking Authority of River Cty,5/18/2019,2,5
+Public Health & Wellness,12/6/2014,0,2
+Public Health & Wellness,4/11/2015,0,2
+Public Health & Wellness,11/21/2015,0,3
+Public Health & Wellness,7/2/2016,0,3
+Public Health & Wellness,7/16/2016,0,4
+Public Health & Wellness,7/30/2016,0,3
+Public Health & Wellness,7/15/2017,1,4
+Public Health & Wellness,11/4/2017,1,4
+Public Health & Wellness,12/30/2017,1,3
+Public Health & Wellness,1/12/2019,1,4
+Public Health & Wellness,4/6/2019,1,3
+PW&A ,11/23/2013,25,92
+PW&A ,7/16/2016,27,71
+PW&A ,9/24/2016,24,70
+PW&A ,11/5/2016,23,69
+PW&A ,11/4/2017,16,57
+PW&A ,10/6/2018,14,49
+PW&A ,4/6/2019,14,47
+Waterfront Development Corp,10/12/2013,1,6
+Waterfront Development Corp,5/10/2014,1,6
+Waterfront Development Corp,4/11/2015,2,6
+Belle of Louisville           ,9/28/2013,1,3
+Belle of Louisville           ,6/7/2014,0,2
+Belle of Louisville           ,10/22/2016,0,1
+Civic Innovation & Technology,11/22/2014,4,9
+Civic Innovation & Technology,12/20/2014,4,9
+Civic Innovation & Technology,2/28/2015,4,9
+Civic Innovation & Technology,10/8/2016,3,7
+Civic Innovation & Technology,5/6/2017,1,6
+Codes & Regulations,6/21/2014,5,21
+Codes & Regulations,8/2/2014,5,21
+Codes & Regulations,12/6/2014,5,20
+Codes & Regulations,7/2/2016,6,21
+Codes & Regulations,3/24/2018,8,23
+Codes & Regulations,12/15/2018,11,20
+Codes & Regulations,4/6/2019,8,19
+Community Services,6/21/2014,2,12
+Community Services,12/6/2014,2,11
+Community Services,7/2/2016,1,8
+Community Services,7/30/2016,1,8
+Community Services,4/6/2019,2,8
+Coroner                       ,2/28/2015,0,5
+Coroner                       ,8/15/2015,0,3
+Coroner                       ,10/8/2016,0,3
+Coroner                       ,11/18/2017,0,6
+Coroner                       ,8/10/2019,0,7
+Corrections                   ,5/24/2014,0,1
+Corrections                   ,12/5/2015,0,1
+Corrections                   ,3/12/2016,0,1
+Corrections                   ,7/16/2016,0,1
+Corrections                   ,7/30/2016,0,1
+County Attorney               ,1/4/2014,0,7
+County Attorney               ,10/25/2014,0,6
+County Attorney               ,4/25/2015,0,6
+County Attorney               ,7/4/2015,0,5
+County Attorney               ,10/7/2017,0,3
+Develop Louisville,2/13/2016,3,11
+Develop Louisville,10/22/2016,2,11
+Develop Louisville,1/13/2018,2,6
+Develop Louisville,2/23/2019,3,6
+Develop Louisville,6/1/2019,2,5
+Economic Development ,2/1/2014,3,5
+Economic Development ,7/4/2015,0,3
+Economic Development ,12/17/2016,0,2
+Economic Development ,10/7/2017,0,2
+Emergency Mgt Agency/MetroSafe,12/6/2014,3,22
+Emergency Mgt Agency/MetroSafe,7/2/2016,3,20
+Emergency Mgt Agency/MetroSafe,8/13/2016,2,20
+Emergency Mgt Agency/MetroSafe,7/1/2017,3,17
+Emergency Mgt Agency/MetroSafe,5/4/2019,2,13
+Emergency Mgt Agency/MetroSafe,6/15/2019,2,13
+Fire & Rescue                 ,8/30/2014,20,146
+Fire & Rescue                 ,6/6/2015,25,138
+Fire & Rescue                 ,3/12/2016,16,115
+Fire & Rescue                 ,7/16/2016,17,111
+Fire & Rescue                 ,2/25/2017,18,90
+Fire & Rescue                 ,4/20/2019,6,58
+Fleet & Facilities,10/12/2013,7,30
+Fleet & Facilities,12/6/2014,8,29
+Fleet & Facilities,11/7/2015,10,28
+Fleet & Facilities,3/26/2016,11,28
+Fleet & Facilities,12/3/2016,12,29
+Fleet & Facilities,4/8/2017,13,28
+Fleet & Facilities,8/26/2017,8,24
+Fleet & Facilities,6/30/2018,5,23
+Human Relations Commission    ,7/19/2014,2,5
+Human Relations Commission    ,9/10/2016,0,3
+Human Relations Commission    ,4/22/2017,0,3
+Human Relations Commission    ,5/20/2017,0,3
+Human Relations Commission    ,12/2/2017,0,3
+Human Relations Commission    ,3/23/2019,0,3
+Human Resources,4/11/2015,0,5
+Human Resources,1/2/2016,0,4
+Human Resources,12/31/2016,1,3
+Human Resources,5/20/2017,0,4
+Human Resources,6/30/2018,1,3
+Kentuckiana Works Foundation,10/26/2013,0,2
+Kentuckiana Works Foundation,2/1/2014,0,2
+Kentuckiana Works Foundation,10/25/2014,0,2
+Kentuckiana Works Foundation,5/23/2015,0,2
+Kentuckiana Works Foundation,2/27/2016,0,1
+Kentuckiana Works Foundation,7/29/2017,0,1
+Kentuckiana Works Foundation,10/7/2017,0,1
+Library,10/12/2013,17,74
+Library,4/12/2014,13,72
+Library,4/11/2015,13,67
+Library,1/2/2016,12,60
+Library,3/26/2016,9,59
+Library,4/8/2017,4,54
+Library,6/30/2018,12,50
+Louisville Metro Council      ,3/29/2014,3,14
+Louisville Metro Council      ,12/20/2014,2,13
+Louisville Metro Council      ,9/10/2016,3,14
+Louisville Metro Council      ,1/28/2017,2,12
+Louisville Metro Council      ,5/6/2017,0,12
+Louisville Metro Council      ,7/1/2017,2,12
+Louisville Metro Council      ,12/2/2017,1,11
+Louisville Metro Council      ,12/29/2018,1,8
+Louisville Metro Council      ,3/23/2019,1,7
+Louisville Metro Council      ,5/4/2019,1,7
+Louisville Metro EMS,7/16/2016,0,5
+Louisville Metro EMS,7/30/2016,0,5
+Louisville Metro EMS,4/6/2019,0,4
+Mayor's Office                ,1/18/2014,1,5
+Mayor's Office                ,3/11/2017,0,6
+Mayor's Office                ,8/25/2018,1,5
+Metro Animal Services         ,10/12/2013,0,1
+Metro Animal Services         ,3/28/2015,0,1
+Metro Animal Services         ,11/7/2015,0,1
+Metro Animal Services         ,12/3/2016,0,1
+Metro Animal Services         ,6/30/2018,0,1
+Metro Parks & Recreation,4/11/2015,16,66
+Metro Parks & Recreation,1/2/2016,20,65
+Metro Parks & Recreation,3/26/2016,19,61
+Metro Parks & Recreation,6/30/2018,10,45
+Metro Police,12/20/2014,17,212
+Metro Police,10/8/2016,22,160
+Metro Police,5/6/2017,17,149
+Metro Police,12/29/2018,18,100
+OMB ,4/11/2015,8,23
+OMB ,4/9/2016,5,23
+OMB ,7/30/2016,7,22
+OMB ,12/31/2016,7,19
+OMB ,2/24/2018,5,15
+Parking Authority of River Cty,8/31/2013,3,9
+Parking Authority of River Cty,3/1/2014,1,9
+Parking Authority of River Cty,8/16/2014,1,9
+Belle of Louisville           ,9/14/2013,1,3
+Belle of Louisville           ,10/12/2013,1,3
+Belle of Louisville           ,6/3/2017,0,1
+Civic Innovation & Technology,10/24/2015,3,8
+Civic Innovation & Technology,12/5/2015,3,8
+Civic Innovation & Technology,1/30/2016,3,8
+Codes & Regulations,11/23/2013,2,24
+Codes & Regulations,7/5/2014,5,21
+Codes & Regulations,3/26/2016,5,22
+Codes & Regulations,7/15/2017,6,22
+Codes & Regulations,4/21/2018,9,23
+Codes & Regulations,1/26/2019,10,21
+Codes & Regulations,4/20/2019,7,21
+Codes & Regulations,7/27/2019,7,18
+Community Services,3/15/2014,3,12
+Community Services,10/11/2014,2,12
+Community Services,6/4/2016,1,8
+Community Services,10/20/2018,2,10
+Coroner                       ,3/29/2014,0,5
+Coroner                       ,3/14/2015,0,5
+Coroner                       ,7/18/2015,0,4
+Coroner                       ,10/22/2016,0,3
+Coroner                       ,3/11/2017,0,4
+Corrections                   ,11/9/2013,0,1
+Corrections                   ,3/28/2015,0,1
+Corrections                   ,2/13/2016,0,1
+Corrections                   ,8/11/2018,1,2
+Corrections                   ,3/9/2019,1,2
+County Attorney               ,12/20/2014,0,6
+County Attorney               ,11/7/2015,0,4
+County Attorney               ,1/27/2018,0,3
+County Attorney               ,3/24/2018,0,3
+County Attorney               ,2/9/2019,0,4
+Develop Louisville,12/19/2015,3,11
+Develop Louisville,9/9/2017,2,6
+Economic Development ,11/8/2014,1,4
+Economic Development ,4/11/2015,0,3
+Economic Development ,11/21/2015,0,2
+Emergency Mgt Agency/MetroSafe,7/19/2014,3,23
+Emergency Mgt Agency/MetroSafe,9/27/2014,3,22
+Emergency Mgt Agency/MetroSafe,6/20/2015,4,21
+Emergency Mgt Agency/MetroSafe,6/17/2017,3,17
+Emergency Mgt Agency/MetroSafe,10/21/2017,1,16
+Emergency Mgt Agency/MetroSafe,6/16/2018,1,13
+Fire & Rescue                 ,4/26/2014,20,156
+Fire & Rescue                 ,8/2/2014,24,156
+Fire & Rescue                 ,1/3/2015,19,142
+Fire & Rescue                 ,12/3/2016,17,96
+Fire & Rescue                 ,7/14/2018,10,70
+Fire & Rescue                 ,9/8/2018,11,68
+Fleet & Facilities,7/5/2014,7,29
+Fleet & Facilities,1/3/2015,7,29
+Fleet & Facilities,4/20/2019,6,19
+Human Relations Commission    ,12/21/2013,1,4
+Human Relations Commission    ,6/21/2014,1,5
+Human Relations Commission    ,11/18/2017,0,3
+Human Relations Commission    ,1/27/2018,0,3
+Human Relations Commission    ,3/24/2018,0,3
+Human Resources,3/28/2015,0,5
+Human Resources,5/6/2017,0,4
+Human Resources,4/7/2018,1,4
+Human Resources,12/15/2018,2,4
+Kentuckiana Works Foundation,7/16/2016,0,1
+Kentuckiana Works Foundation,7/30/2016,0,1
+Kentuckiana Works Foundation,9/24/2016,0,1
+Kentuckiana Works Foundation,11/3/2018,0,2
+Library,10/26/2013,17,75
+Library,12/16/2017,5,52
+Library,2/10/2018,9,50
+Library,6/15/2019,9,45
+Louisville Metro Council      ,2/14/2015,2,16
+Louisville Metro Council      ,4/22/2017,1,12
+Louisville Metro Council      ,4/7/2018,1,9
+Louisville Metro EMS,3/15/2014,0,6
+Louisville Metro EMS,11/22/2014,0,6
+Louisville Metro EMS,6/4/2016,0,5
+Mayor's Office                ,12/31/2016,0,6
+Mayor's Office                ,7/1/2017,0,6
+Mayor's Office                ,9/23/2017,0,5
+Mayor's Office                ,5/18/2019,1,5
+Metro Animal Services         ,7/4/2015,0,1
+Metro Animal Services         ,1/2/2016,0,1
+Metro Animal Services         ,10/22/2016,0,1
+Metro Parks & Recreation,4/26/2014,17,78
+Metro Parks & Recreation,8/2/2014,18,78
+Metro Parks & Recreation,1/31/2015,17,67
+Metro Parks & Recreation,6/6/2015,17,68
+Metro Parks & Recreation,12/2/2017,9,48
+Metro Parks & Recreation,7/14/2018,10,44
+Metro Parks & Recreation,9/8/2018,7,42
+Metro Parks & Recreation,2/23/2019,6,40
+Metro Police,3/14/2015,15,206
+Metro Police,6/20/2015,20,197
+Metro Police,7/4/2015,20,197
+Metro Police,7/18/2015,20,195
+Metro Police,1/2/2016,21,180
+Metro Police,10/22/2016,17,148
+OMB ,11/22/2014,7,24
+OMB ,7/1/2017,5,19
+OMB ,12/1/2018,6,16
+Parking Authority of River Cty,9/13/2014,1,9
+Parking Authority of River Cty,1/13/2018,0,4
+Parking Authority of River Cty,6/2/2018,1,4
+Parking Authority of River Cty,5/4/2019,2,5
+Public Health & Wellness,11/9/2013,0,2
+Public Health & Wellness,10/11/2014,0,2
+Public Health & Wellness,5/23/2015,0,2
+Public Health & Wellness,4/23/2016,0,3
+Public Health & Wellness,9/10/2016,0,4
+Public Health & Wellness,7/29/2017,1,3
+Public Health & Wellness,8/26/2017,1,3
+Public Health & Wellness,8/11/2018,1,3
+Public Health & Wellness,10/20/2018,1,3
+Public Health & Wellness,3/23/2019,1,3
+PW&A ,7/19/2014,31,88
+PW&A ,6/4/2016,27,72
+PW&A ,7/29/2017,18,60
+PW&A ,8/26/2017,14,57
+PW&A ,10/20/2018,14,49
+PW&A ,3/9/2019,14,47
+Waterfront Development Corp,3/29/2014,1,6
+Waterfront Development Corp,9/12/2015,2,6
+Waterfront Development Corp,1/2/2016,1,6
+Waterfront Development Corp,4/23/2016,1,6
+Waterfront Development Corp,9/10/2016,2,6
+Belle of Louisville           ,8/16/2014,0,2
+Belle of Louisville           ,6/20/2015,0,3
+Civic Innovation & Technology,8/2/2014,4,9
+Civic Innovation & Technology,6/6/2015,4,9
+Civic Innovation & Technology,8/15/2015,3,8
+Civic Innovation & Technology,11/18/2017,1,6
+Civic Innovation & Technology,3/24/2018,1,6
+Civic Innovation & Technology,9/8/2018,1,5
+Codes & Regulations,12/31/2016,7,22
+Codes & Regulations,3/25/2017,7,23
+Codes & Regulations,7/13/2019,7,16
+Codes & Regulations,8/10/2019,7,16
+Community Services,12/31/2016,2,8
+Community Services,3/25/2017,1,8
+Community Services,12/15/2018,2,10
+Community Services,8/10/2019,2,7
+Coroner                       ,8/2/2014,0,5
+Coroner                       ,8/30/2014,0,5
+Coroner                       ,12/20/2014,0,5
+Coroner                       ,6/6/2015,0,4
+Coroner                       ,2/25/2017,0,4
+Coroner                       ,12/2/2017,0,6
+Coroner                       ,3/24/2018,0,6
+Coroner                       ,9/8/2018,0,6
+Coroner                       ,12/29/2018,0,7
+Coroner                       ,3/23/2019,0,7
+Corrections                   ,4/11/2015,0,1
+Corrections                   ,8/1/2015,0,1
+Corrections                   ,4/9/2016,0,1
+Corrections                   ,2/24/2018,0,1
+County Attorney               ,9/27/2014,0,6
+County Attorney               ,3/14/2015,0,6
+County Attorney               ,7/18/2015,0,5
+County Attorney               ,10/24/2015,0,4
+County Attorney               ,5/21/2016,0,4
+County Attorney               ,6/17/2017,0,3
+Develop Louisville,11/21/2015,4,12
+Develop Louisville,6/18/2016,2,11
+Develop Louisville,12/30/2017,2,6
+Develop Louisville,1/12/2019,4,6
+Develop Louisville,3/9/2019,3,6
+Economic Development ,11/9/2013,1,6
+Economic Development ,10/25/2014,1,4
+Economic Development ,5/23/2015,0,3
+Economic Development ,1/16/2016,0,2
+Economic Development ,1/14/2017,0,2
+Emergency Mgt Agency/MetroSafe,10/12/2013,3,24
+Emergency Mgt Agency/MetroSafe,11/7/2015,4,21
+Emergency Mgt Agency/MetroSafe,12/3/2016,3,17
+Emergency Mgt Agency/MetroSafe,6/30/2018,1,13
+Emergency Mgt Agency/MetroSafe,7/28/2018,2,13
+Emergency Mgt Agency/MetroSafe,2/9/2019,2,12
+Fire & Rescue                 ,7/19/2014,23,156
+Fire & Rescue                 ,6/16/2018,9,70
+Fleet & Facilities,7/1/2017,9,26
+Fleet & Facilities,5/5/2018,5,23
+Fleet & Facilities,5/4/2019,7,19
+Human Relations Commission    ,3/29/2014,1,4
+Human Relations Commission    ,1/28/2017,0,3
+Human Relations Commission    ,12/29/2018,0,3
+Human Resources,10/11/2014,1,5
+Human Resources,7/16/2016,1,3
+Human Resources,7/30/2016,1,2
+Human Resources,11/5/2016,1,3
+Human Resources,7/15/2017,0,5
+Human Resources,11/4/2017,0,4
+Human Resources,8/11/2018,2,4
+Human Resources,10/20/2018,2,4
+Human Resources,4/6/2019,1,3
+Kentuckiana Works Foundation,9/13/2014,0,2
+Kentuckiana Works Foundation,5/9/2015,0,2
+Kentuckiana Works Foundation,12/17/2016,0,1
+Kentuckiana Works Foundation,1/14/2017,0,1
+Kentuckiana Works Foundation,5/18/2019,0,2
+Library,12/5/2015,11,61
+Library,3/11/2017,4,53
+Louisville Metro Council      ,8/30/2014,2,13
+Louisville Metro Council      ,2/28/2015,2,16
+Louisville Metro Council      ,11/19/2016,2,14
+Louisville Metro Council      ,8/26/2017,1,12
+Louisville Metro Council      ,5/19/2018,1,9
+Louisville Metro Council      ,9/8/2018,1,8
+Louisville Metro EMS,12/31/2016,0,4
+Louisville Metro EMS,5/20/2017,1,4
+Louisville Metro EMS,12/15/2018,0,4
+Louisville Metro EMS,8/10/2019,0,4
+Mayor's Office                ,12/21/2013,1,5
+Mayor's Office                ,3/15/2014,1,5
+Mayor's Office                ,1/3/2015,0,5
+Mayor's Office                ,3/26/2016,0,6
+Mayor's Office                ,8/27/2016,0,6
+Mayor's Office                ,4/21/2018,1,5
+Mayor's Office                ,11/3/2018,1,5
+Metro Animal Services         ,12/6/2014,0,1
+Metro Animal Services         ,8/13/2016,0,1
+Metro Animal Services         ,8/12/2017,0,1
+Metro Animal Services         ,6/15/2019,0,1
+Metro Parks & Recreation,1/18/2014,16,77
+Metro Parks & Recreation,4/12/2014,19,76
+Metro Parks & Recreation,5/24/2014,19,81
+Metro Parks & Recreation,12/5/2015,18,67
+Metro Parks & Recreation,3/11/2017,12,55
+Metro Parks & Recreation,4/8/2017,9,55
+Metro Police,8/2/2014,18,224
+Metro Police,8/30/2014,17,219
+Metro Police,2/28/2015,14,207
+Metro Police,6/6/2015,22,200
+Metro Police,8/15/2015,20,188
+Metro Police,2/25/2017,20,146
+Metro Police,11/18/2017,20,115
+Metro Police,12/2/2017,24,115
+Metro Police,3/24/2018,23,115
+Metro Police,5/19/2018,26,111
+Metro Police,9/8/2018,22,110
+Metro Police,3/23/2019,17,99
+OMB ,7/19/2014,7,25
+OMB ,3/12/2016,6,23
+OMB ,7/16/2016,6,22
+OMB ,11/5/2016,6,19
+OMB ,5/20/2017,7,18
+OMB ,11/4/2017,5,19
+OMB ,10/20/2018,7,16
+OMB ,4/20/2019,7,15
+Parking Authority of River Cty,6/7/2014,2,9
+Parking Authority of River Cty,12/16/2017,1,5
+Parking Authority of River Cty,6/29/2019,2,5
+Public Health & Wellness,3/28/2015,0,2
+Belle of Louisville           ,7/2/2016,0,1
+Belle of Louisville           ,7/1/2017,0,1
+Belle of Louisville           ,5/19/2018,0,1
+Civic Innovation & Technology,8/30/2014,4,9
+Civic Innovation & Technology,10/25/2014,4,9
+Civic Innovation & Technology,1/3/2015,4,9
+Civic Innovation & Technology,11/21/2015,3,8
+Civic Innovation & Technology,11/19/2016,2,6
+Civic Innovation & Technology,4/21/2018,1,6
+Civic Innovation & Technology,4/20/2019,1,4
+Codes & Regulations,4/12/2014,5,22
+Codes & Regulations,8/16/2014,5,20
+Codes & Regulations,12/19/2015,5,23
+Codes & Regulations,4/8/2017,8,22
+Codes & Regulations,9/22/2018,9,22
+Community Services,11/8/2014,2,12
+Community Services,9/26/2015,2,10
+Community Services,5/21/2016,1,8
+Community Services,8/13/2016,1,8
+Community Services,2/11/2017,2,8
+Community Services,5/20/2017,1,9
+Community Services,4/7/2018,1,9
+Coroner                       ,2/14/2015,0,5
+Coroner                       ,4/25/2015,0,5
+Coroner                       ,8/27/2016,0,2
+Coroner                       ,7/15/2017,0,6
+Corrections                   ,4/26/2014,0,1
+Corrections                   ,8/30/2014,0,1
+Corrections                   ,6/6/2015,0,1
+Corrections                   ,6/2/2018,1,2
+Corrections                   ,7/14/2018,1,2
+Corrections                   ,9/8/2018,1,2
+Corrections                   ,11/17/2018,1,2
+Corrections                   ,8/10/2019,0,2
+County Attorney               ,8/31/2013,0,7
+County Attorney               ,9/14/2013,0,7
+County Attorney               ,5/5/2018,0,4
+Develop Louisville,2/14/2015,3,12
+Develop Louisville,8/25/2018,4,6
+Economic Development ,5/24/2014,2,5
+Economic Development ,10/24/2015,0,2
+Economic Development ,12/5/2015,0,2
+Economic Development ,6/4/2016,0,2
+Emergency Mgt Agency/MetroSafe,9/28/2013,3,24
+Emergency Mgt Agency/MetroSafe,3/29/2014,5,23
+Emergency Mgt Agency/MetroSafe,6/29/2019,2,13
+Fire & Rescue                 ,2/1/2014,22,158
+Fire & Rescue                 ,3/28/2015,26,142
+Fire & Rescue                 ,12/5/2015,17,117
+Fire & Rescue                 ,6/2/2018,9,70
+Fire & Rescue                 ,11/17/2018,4,59
+Fleet & Facilities,1/18/2014,9,30
+Human Relations Commission    ,6/7/2014,1,5
+Human Relations Commission    ,12/19/2015,1,4
+Human Relations Commission    ,6/1/2019,0,3
+Human Resources,6/21/2014,1,6
+Human Resources,12/6/2014,0,4
+Human Resources,6/15/2019,1,3
+Kentuckiana Works Foundation,3/28/2015,0,2
+Library,10/10/2015,10,61
+Library,8/13/2016,11,59
+Library,12/31/2016,10,57
+Library,2/11/2017,6,53
+Library,7/1/2017,5,55
+Library,9/23/2017,5,52
+Library,4/7/2018,10,50
+Library,5/18/2019,7,45
+Louisville Metro Council      ,10/11/2014,3,13
+Louisville Metro Council      ,6/15/2019,1,8
+Louisville Metro EMS,5/24/2014,0,6
+Louisville Metro EMS,11/8/2014,0,6
+Louisville Metro EMS,10/24/2015,0,5
+Louisville Metro EMS,5/21/2016,0,5
+Louisville Metro EMS,2/11/2017,0,4
+Louisville Metro EMS,4/7/2018,0,4
+Mayor's Office                ,7/15/2017,0,6
+Mayor's Office                ,12/16/2017,0,4
+Mayor's Office                ,2/10/2018,0,5
+Metro Animal Services         ,11/23/2013,0,1
+Metro Animal Services         ,1/18/2014,0,1
+Metro Animal Services         ,4/25/2015,0,1
+Metro Animal Services         ,11/5/2016,0,1
+Metro Animal Services         ,7/15/2017,0,1
+Metro Animal Services         ,1/26/2019,0,1
+Metro Parks & Recreation,9/13/2014,17,74
+Metro Parks & Recreation,1/13/2018,8,46
+Metro Parks & Recreation,5/4/2019,6,40
+Metro Police,12/21/2013,14,240
+Metro Police,4/25/2015,20,201
+Metro Police,8/1/2015,21,195
+Metro Police,7/15/2017,22,145
+OMB ,10/10/2015,6,23
+OMB ,8/13/2016,7,22
+OMB ,5/19/2018,7,16
+OMB ,1/12/2019,7,16
+OMB ,4/6/2019,7,15
+Parking Authority of River Cty,4/26/2014,2,9
+Parking Authority of River Cty,8/2/2014,1,9
+Parking Authority of River Cty,8/30/2014,1,9
+Parking Authority of River Cty,6/6/2015,0,9
+Parking Authority of River Cty,6/4/2016,2,7
+Parking Authority of River Cty,12/30/2017,1,5
+Parking Authority of River Cty,7/14/2018,1,4
+Parking Authority of River Cty,9/8/2018,1,4
+Parking Authority of River Cty,3/9/2019,2,5
+Public Health & Wellness,9/27/2014,0,2
+Public Health & Wellness,12/17/2016,0,3
+Public Health & Wellness,6/2/2018,1,3
+Public Health & Wellness,8/10/2019,2,3
+PW&A ,12/7/2013,24,92
+PW&A ,9/13/2014,29,85
+PW&A ,4/11/2015,17,81
+PW&A ,9/12/2015,18,77
+PW&A ,1/16/2016,26,73
+Waterfront Development Corp,7/19/2014,1,6
+Waterfront Development Corp,9/27/2014,1,6
+Waterfront Development Corp,6/18/2016,1,6
+Waterfront Development Corp,8/13/2016,1,6
+Waterfront Development Corp,12/31/2016,2,6
+Youth Detention Services      ,6/21/2014,1,6
+Youth Detention Services      ,12/6/2014,0,6
+Youth Detention Services      ,9/12/2015,0,2
+Youth Detention Services      ,1/16/2016,0,2
+Youth Detention Services      ,7/30/2016,0,4
+Youth Detention Services      ,12/1/2018,1,2
+Zoo,1/31/2015,6,40
+Belle of Louisville           ,11/9/2013,1,3
+Belle of Louisville           ,10/25/2014,0,2
+Belle of Louisville           ,5/23/2015,0,3
+Civic Innovation & Technology,9/28/2013,4,9
+Civic Innovation & Technology,5/5/2018,1,6
+Civic Innovation & Technology,5/19/2018,1,6
+Civic Innovation & Technology,6/2/2018,1,6
+Codes & Regulations,8/30/2014,6,20
+Codes & Regulations,6/6/2015,6,20
+Codes & Regulations,1/28/2017,7,22
+Codes & Regulations,4/22/2017,8,23
+Codes & Regulations,8/12/2017,6,22
+Codes & Regulations,12/2/2017,5,21
+Codes & Regulations,9/8/2018,8,20
+Codes & Regulations,12/29/2018,12,22
+Codes & Regulations,3/23/2019,8,19
+Codes & Regulations,6/15/2019,7,17
+Community Services,1/28/2017,2,8
+Community Services,8/12/2017,1,9
+Community Services,12/2/2017,1,10
+Community Services,12/29/2018,2,10
+Community Services,3/23/2019,2,8
+Community Services,6/15/2019,2,8
+Coroner                       ,11/22/2014,0,5
+Coroner                       ,8/26/2017,0,5
+Coroner                       ,4/21/2018,0,6
+Corrections                   ,10/21/2017,0,1
+Corrections                   ,4/20/2019,1,2
+County Attorney               ,3/1/2014,0,7
+County Attorney               ,12/30/2017,0,3
+County Attorney               ,1/13/2018,0,3
+Develop Louisville,2/1/2014,5,16
+Develop Louisville,9/13/2014,4,15
+Develop Louisville,9/24/2016,2,10
+Economic Development ,12/21/2013,2,6
+Economic Development ,1/3/2015,1,4
+Economic Development ,1/27/2018,0,1
+Economic Development ,3/10/2018,0,1
+Emergency Mgt Agency/MetroSafe,8/31/2013,3,26
+Emergency Mgt Agency/MetroSafe,3/1/2014,5,24
+Emergency Mgt Agency/MetroSafe,10/11/2014,3,22
+Emergency Mgt Agency/MetroSafe,11/5/2016,3,17
+Emergency Mgt Agency/MetroSafe,5/6/2017,3,17
+Emergency Mgt Agency/MetroSafe,11/4/2017,2,16
+Emergency Mgt Agency/MetroSafe,4/7/2018,0,13
+Emergency Mgt Agency/MetroSafe,8/11/2018,2,13
+Fire & Rescue                 ,12/19/2015,17,117
+Fire & Rescue                 ,7/30/2016,17,111
+Fire & Rescue                 ,11/5/2016,15,95
+Fire & Rescue                 ,11/4/2017,15,76
+Fire & Rescue                 ,8/11/2018,10,70
+Fire & Rescue                 ,4/6/2019,6,58
+Fleet & Facilities,10/11/2014,8,29
+Fleet & Facilities,4/11/2015,8,29
+Fleet & Facilities,8/1/2015,7,28
+Fleet & Facilities,10/8/2016,12,29
+Fleet & Facilities,5/6/2017,11,27
+Fleet & Facilities,5/19/2018,7,23
+Human Relations Commission    ,2/14/2015,0,5
+Human Relations Commission    ,3/25/2017,0,3
+Human Relations Commission    ,8/25/2018,0,3
+Human Relations Commission    ,4/6/2019,0,3
+Human Resources,10/12/2013,0,7
+Human Resources,3/12/2016,1,3
+Human Resources,12/3/2016,1,3
+Human Resources,6/16/2018,1,3
+Human Resources,7/28/2018,1,4
+Kentuckiana Works Foundation,5/10/2014,0,2
+Kentuckiana Works Foundation,12/5/2015,0,1
+Kentuckiana Works Foundation,2/23/2019,0,2
+Library,5/9/2015,14,67
+Library,2/24/2018,9,49
+Library,5/19/2018,11,50
+Louisville Metro Council      ,6/21/2014,3,14
+Louisville Metro Council      ,8/2/2014,2,13
+Louisville Metro Council      ,11/22/2014,2,13
+Louisville Metro Council      ,3/11/2017,0,12
+Louisville Metro Council      ,3/24/2018,1,9
+Louisville Metro EMS,9/26/2015,0,5
+Louisville Metro EMS,1/28/2017,0,4
+Louisville Metro EMS,8/12/2017,0,4
+Louisville Metro EMS,6/15/2019,0,4
+Mayor's Office                ,3/29/2014,1,5
+Mayor's Office                ,9/10/2016,0,6
+Metro Animal Services         ,5/20/2017,0,1
+Metro Animal Services         ,2/9/2019,0,1
+Metro Animal Services         ,6/29/2019,0,1
+Metro Animal Services         ,8/10/2019,0,1
+Metro Parks & Recreation,4/9/2016,19,62
+Metro Parks & Recreation,11/19/2016,13,57
+Metro Parks & Recreation,8/26/2017,9,51
+Metro Police,7/13/2019,13,96
+OMB ,9/26/2015,5,23
+OMB ,11/7/2015,5,23
+OMB ,6/30/2018,7,16
+Parking Authority of River Cty,12/6/2014,2,9
+Parking Authority of River Cty,3/28/2015,1,9
+Parking Authority of River Cty,7/2/2016,2,7
+Parking Authority of River Cty,8/13/2016,1,7
+Parking Authority of River Cty,12/15/2018,2,5
+Public Health & Wellness,1/30/2016,0,3
+Public Health & Wellness,1/26/2019,1,3
+PW&A ,8/2/2014,32,87
+PW&A ,8/30/2014,31,86
+PW&A ,6/6/2015,16,80
+PW&A ,6/20/2015,15,80
+PW&A ,8/15/2015,18,78
+PW&A ,9/9/2017,13,57
+PW&A ,12/2/2017,15,57
+PW&A ,9/8/2018,16,52
+PW&A ,12/29/2018,14,48
+PW&A ,3/23/2019,15,47
+Waterfront Development Corp,3/25/2017,3,6
+Waterfront Development Corp,1/26/2019,1,3
+Waterfront Development Corp,7/13/2019,2,3
+Youth Detention Services      ,12/21/2013,1,6
+Youth Detention Services      ,1/18/2014,1,6
+Youth Detention Services      ,12/5/2015,0,2
+Youth Detention Services      ,1/28/2017,1,3
+Youth Detention Services      ,12/2/2017,1,2
+Youth Detention Services      ,12/29/2018,1,2
+Youth Detention Services      ,3/23/2019,1,2
+Zoo,1/4/2014,6,45
+Zoo,8/16/2014,6,43
+Zoo,5/18/2019,9,29
+Waterfront Development Corp,10/6/2018,2,3
+Youth Detention Services      ,11/9/2013,0,6
+Zoo,9/14/2013,7,47
+Zoo,2/15/2014,9,44
+Zoo,9/13/2014,5,44
+Zoo,12/20/2014,5,41
+Zoo,1/14/2017,3,38
+Zoo,1/28/2017,3,38
+Zoo,5/6/2017,4,35
+Zoo,12/29/2018,7,28
+Zoo,5/4/2019,8,31
+Belle of Louisville           ,11/5/2016,0,1
+Civic Innovation & Technology,5/9/2015,4,9
+Civic Innovation & Technology,3/9/2019,1,4
+Codes & Regulations,9/14/2013,5,25
+Codes & Regulations,1/18/2014,3,23
+Codes & Regulations,2/15/2014,4,23
+Codes & Regulations,7/4/2015,7,20
+Codes & Regulations,12/5/2015,6,22
+Codes & Regulations,10/22/2016,7,23
+Community Services,9/14/2013,5,18
+Community Services,12/21/2013,7,18
+Community Services,2/15/2014,3,12
+Community Services,9/27/2014,2,12
+Community Services,12/5/2015,1,8
+Community Services,9/22/2018,2,10
+Coroner                       ,5/23/2015,0,4
+Coroner                       ,6/4/2016,0,2
+Coroner                       ,9/24/2016,0,3
+Coroner                       ,1/14/2017,0,4
+Coroner                       ,3/9/2019,0,7
+Corrections                   ,6/7/2014,0,1
+Corrections                   ,7/5/2014,0,1
+Corrections                   ,8/2/2014,0,1
+Corrections                   ,12/17/2016,0,1
+Corrections                   ,2/9/2019,1,2
+County Attorney               ,4/9/2016,0,4
+County Attorney               ,5/7/2016,0,4
+County Attorney               ,8/25/2018,0,4
+Develop Louisville,6/7/2014,6,16
+Develop Louisville,12/3/2016,1,10
+Develop Louisville,6/16/2018,4,7
+Economic Development ,8/2/2014,1,4
+Economic Development ,7/28/2018,0,1
+Economic Development ,2/9/2019,0,1
+Emergency Mgt Agency/MetroSafe,11/21/2015,3,19
+Emergency Mgt Agency/MetroSafe,1/16/2016,4,19
+Fire & Rescue                 ,11/8/2014,18,145
+Fire & Rescue                 ,5/23/2015,26,138
+Fire & Rescue                 ,1/12/2019,4,57
+Fire & Rescue                 ,3/9/2019,5,58
+Fleet & Facilities,11/9/2013,6,30
+Fleet & Facilities,11/21/2015,10,28
+Fleet & Facilities,1/16/2016,11,28
+Fleet & Facilities,2/13/2016,11,28
+Human Relations Commission    ,9/28/2013,0,4
+Human Relations Commission    ,2/27/2016,1,4
+Human Relations Commission    ,1/13/2018,0,3
+Human Resources,5/10/2014,0,6
+Human Resources,6/20/2015,0,5
+Human Resources,9/12/2015,0,4
+Human Resources,6/17/2017,0,4
+Kentuckiana Works Foundation,3/29/2014,0,2
+Kentuckiana Works Foundation,11/7/2015,0,1
+Kentuckiana Works Foundation,8/13/2016,0,1
+Kentuckiana Works Foundation,9/10/2016,0,1
+Kentuckiana Works Foundation,8/12/2017,0,1
+Kentuckiana Works Foundation,6/30/2018,0,1
+Library,9/28/2013,17,76
+Library,12/7/2013,16,74
+Library,2/27/2016,11,59
+Library,6/18/2016,12,59
+Library,9/9/2017,6,52
+Library,1/13/2018,6,50
+Library,1/12/2019,10,48
+Louisville Metro Council      ,8/27/2016,3,14
+Louisville Metro Council      ,6/17/2017,1,12
+Louisville Metro Council      ,1/27/2018,1,10
+Louisville Metro Council      ,3/10/2018,1,9
+Louisville Metro EMS,2/15/2014,0,6
+Louisville Metro EMS,9/27/2014,0,6
+Louisville Metro EMS,9/22/2018,0,4
+Mayor's Office                ,2/28/2015,1,4
+Mayor's Office                ,7/4/2015,0,4
+Mayor's Office                ,8/29/2015,0,4
+Mayor's Office                ,4/23/2016,0,6
+Mayor's Office                ,7/2/2016,0,6
+Mayor's Office                ,8/13/2016,0,6
+Mayor's Office                ,8/12/2017,0,6
+Mayor's Office                ,11/18/2017,1,5
+Metro Animal Services         ,9/13/2014,0,1
+Metro Animal Services         ,1/3/2015,0,1
+Metro Animal Services         ,3/12/2016,0,1
+Metro Animal Services         ,3/26/2016,0,1
+Metro Animal Services         ,8/25/2018,0,1
+Metro Animal Services         ,4/20/2019,0,1
+Metro Animal Services         ,5/18/2019,0,1
+Metro Parks & Recreation,11/9/2013,19,79
+Metro Parks & Recreation,11/23/2013,20,79
+Metro Parks & Recreation,5/23/2015,17,68
+Metro Parks & Recreation,12/30/2017,7,48
+Metro Parks & Recreation,4/7/2018,8,49
+Metro Parks & Recreation,1/26/2019,5,40
+Metro Police,2/27/2016,20,168
+Metro Police,5/7/2016,22,165
+Metro Police,1/13/2018,25,113
+Metro Police,8/25/2018,21,108
+OMB ,3/28/2015,7,23
+OMB ,8/15/2015,6,23
+OMB ,4/23/2016,6,22
+OMB ,10/8/2016,5,20
+OMB ,2/11/2017,6,19
+OMB ,9/22/2018,7,16
+Parking Authority of River Cty,2/14/2015,1,9
+Parking Authority of River Cty,2/13/2016,2,7
+Parking Authority of River Cty,10/7/2017,2,5
+Public Health & Wellness,1/17/2015,0,2
+PW&A ,1/18/2014,26,91
+PW&A ,2/15/2014,27,89
+PW&A ,4/26/2014,24,87
+PW&A ,5/10/2014,24,87
+PW&A ,10/10/2015,19,76
+PW&A ,12/5/2015,21,74
+PW&A ,3/11/2017,17,67
+PW&A ,7/14/2018,17,54
+Waterfront Development Corp,8/25/2018,2,3
+Youth Detention Services      ,8/12/2017,2,3
+Youth Detention Services      ,9/22/2018,2,2
+Youth Detention Services      ,6/15/2019,0,2
+Zoo,1/3/2015,5,41
+Zoo,5/20/2017,3,36
+Zoo,9/23/2017,5,34
+Zoo,12/1/2018,7,32
+PW&A ,11/17/2018,15,49
+Waterfront Development Corp,4/26/2014,1,6
+Waterfront Development Corp,10/10/2015,2,6
+Waterfront Development Corp,10/21/2017,3,6
+Youth Detention Services      ,6/4/2016,0,4
+Zoo,2/14/2015,6,40
+Zoo,4/11/2015,6,42
+Zoo,9/26/2015,8,41
+Zoo,4/22/2017,5,35
+PW&A ,3/10/2018,19,55
+Waterfront Development Corp,12/19/2015,1,6
+Waterfront Development Corp,4/9/2016,1,6
+Waterfront Development Corp,5/7/2016,1,6
+Waterfront Development Corp,2/24/2018,1,4
+Youth Detention Services      ,9/28/2013,0,6
+Youth Detention Services      ,7/5/2014,1,6
+Youth Detention Services      ,6/20/2015,0,3
+Youth Detention Services      ,6/17/2017,3,4
+Youth Detention Services      ,4/7/2018,2,3
+Youth Detention Services      ,10/6/2018,2,2
+Youth Detention Services      ,1/26/2019,1,2
+Zoo,1/18/2014,6,44
+Zoo,10/11/2014,5,44
+Zoo,3/26/2016,8,38
+Zoo,11/5/2016,4,39
+Zoo,10/20/2018,6,32
+PW&A ,12/17/2016,22,68
+PW&A ,8/25/2018,16,52
+PW&A ,4/20/2019,14,47
+Waterfront Development Corp,12/21/2013,1,6
+Waterfront Development Corp,11/17/2018,2,3
+Youth Detention Services      ,2/27/2016,0,3
+Youth Detention Services      ,10/7/2017,1,2
+Youth Detention Services      ,2/9/2019,1,2
+Zoo,12/5/2015,10,40
+Zoo,12/2/2017,6,33
+Zoo,2/23/2019,10,29
+Zoo,7/16/2016,6,41
+Zoo,7/30/2016,5,40
+Zoo,9/24/2016,4,40
+Zoo,2/25/2017,3,36
+Zoo,6/3/2017,4,35
+Zoo,9/22/2018,7,32
+Zoo,4/20/2019,8,31
+Zoo,7/27/2019,9,30
+PW&A ,3/28/2015,17,81
+PW&A ,5/23/2015,14,80
+PW&A ,1/2/2016,27,73
+Waterfront Development Corp,8/30/2014,1,6
+Waterfront Development Corp,4/25/2015,2,6
+Waterfront Development Corp,6/6/2015,2,6
+Waterfront Development Corp,9/9/2017,2,6
+Waterfront Development Corp,9/8/2018,2,3
+Waterfront Development Corp,2/9/2019,2,3
+Zoo,8/31/2013,7,47
+Zoo,3/1/2014,7,44
+Zoo,6/20/2015,7,42
+Zoo,7/4/2015,7,42
+Zoo,9/12/2015,8,41
+Zoo,5/5/2018,6,34
+Zoo,6/2/2018,6,34
+Waterfront Development Corp,2/15/2014,2,6
+Waterfront Development Corp,12/20/2014,3,6
+Waterfront Development Corp,7/4/2015,2,6
+Waterfront Development Corp,1/28/2017,2,6
+Waterfront Development Corp,2/25/2017,3,6
+Waterfront Development Corp,6/3/2017,2,6
+Waterfront Development Corp,12/29/2018,1,3
+Youth Detention Services      ,5/9/2015,0,3
+Youth Detention Services      ,12/17/2016,0,3
+Youth Detention Services      ,12/31/2016,0,3
+Youth Detention Services      ,3/25/2017,1,4
+Youth Detention Services      ,5/18/2019,0,2
+Youth Detention Services      ,8/10/2019,0,2
+Zoo,8/30/2014,5,44
+Zoo,10/25/2014,5,43
+Zoo,6/6/2015,6,42
+Zoo,1/16/2016,10,38
+Zoo,11/19/2016,5,39
+Zoo,5/19/2018,6,33
+Zoo,9/8/2018,7,33
+Belle of Louisville           ,7/4/2015,0,3
+Civic Innovation & Technology,10/12/2013,4,9
+Civic Innovation & Technology,11/23/2013,4,9
+Civic Innovation & Technology,1/18/2014,4,9
+Civic Innovation & Technology,2/15/2014,4,9
+Civic Innovation & Technology,9/13/2014,4,9
+Civic Innovation & Technology,12/6/2014,4,9
+Civic Innovation & Technology,4/11/2015,4,9
+Civic Innovation & Technology,9/12/2015,3,8
+Civic Innovation & Technology,1/16/2016,3,8
+Civic Innovation & Technology,3/26/2016,4,8
+Civic Innovation & Technology,3/25/2017,1,6
+Civic Innovation & Technology,1/26/2019,1,4
+Civic Innovation & Technology,5/4/2019,1,4
+Codes & Regulations,11/5/2016,7,22
+Codes & Regulations,12/3/2016,6,22
+Community Services,11/22/2014,2,11
+Community Services,5/23/2015,0,11
+Community Services,3/12/2016,1,8
+Community Services,3/11/2017,1,8
+Community Services,8/26/2017,1,9
+Community Services,8/11/2018,2,10
+Coroner                       ,4/22/2017,0,4
+Coroner                       ,10/6/2018,0,6
+Corrections                   ,1/31/2015,0,1
+Corrections                   ,1/30/2016,0,1
+Corrections                   ,7/29/2017,0,1
+Corrections                   ,10/20/2018,1,2
+Corrections                   ,2/23/2019,1,2
+County Attorney               ,4/12/2014,0,7
+County Attorney               ,6/21/2014,0,7
+County Attorney               ,4/8/2017,0,3
+County Attorney               ,6/3/2017,0,3
+County Attorney               ,1/12/2019,0,4
+County Attorney               ,6/1/2019,0,3
+County Attorney               ,7/27/2019,0,3
+Develop Louisville,3/14/2015,5,12
+Develop Louisville,7/4/2015,4,12
+Develop Louisville,11/18/2017,1,6
+Economic Development ,1/31/2015,1,4
+Economic Development ,1/30/2016,0,2
+Economic Development ,7/29/2017,0,2
+Economic Development ,10/20/2018,0,1
+Emergency Mgt Agency/MetroSafe,10/26/2013,4,24
+Emergency Mgt Agency/MetroSafe,2/28/2015,2,22
+Emergency Mgt Agency/MetroSafe,8/29/2015,5,20
+Emergency Mgt Agency/MetroSafe,8/12/2017,3,17
+Fire & Rescue                 ,10/12/2013,24,160
+Fire & Rescue                 ,11/23/2013,27,159
+Fire & Rescue                 ,1/18/2014,26,158
+Fire & Rescue                 ,2/15/2014,23,157
+Fire & Rescue                 ,9/13/2014,20,146
+Fire & Rescue                 ,4/11/2015,25,142
+Fire & Rescue                 ,9/12/2015,17,120
+Fire & Rescue                 ,3/26/2016,15,115
+Fire & Rescue                 ,1/28/2017,15,91
+Fire & Rescue                 ,12/29/2018,4,57
+Fire & Rescue                 ,1/26/2019,4,57
+Fire & Rescue                 ,5/4/2019,6,58
+Fleet & Facilities,2/1/2014,8,30
+Fleet & Facilities,8/16/2014,8,29
+Fleet & Facilities,10/25/2014,8,29
+Fleet & Facilities,12/19/2015,11,28
+Fleet & Facilities,4/21/2018,6,23
+Fleet & Facilities,9/22/2018,5,21
+Fleet & Facilities,4/6/2019,8,19
+Human Relations Commission    ,7/18/2015,0,5
+Human Relations Commission    ,8/1/2015,0,5
+Human Relations Commission    ,7/16/2016,0,3
+Human Relations Commission    ,9/24/2016,0,3
+Human Relations Commission    ,2/25/2017,0,3
+Human Resources,8/31/2013,0,7
+Human Resources,2/1/2014,1,6
+Human Resources,8/27/2016,1,2
+Human Resources,5/5/2018,1,3
+Human Resources,9/22/2018,2,4
+Kentuckiana Works Foundation,6/21/2014,0,2
+Kentuckiana Works Foundation,12/6/2014,0,2
+Kentuckiana Works Foundation,6/20/2015,0,2
+Kentuckiana Works Foundation,9/12/2015,0,2
+Kentuckiana Works Foundation,1/16/2016,0,1
+Kentuckiana Works Foundation,4/9/2016,0,1
+Kentuckiana Works Foundation,5/7/2016,0,1
+Kentuckiana Works Foundation,6/17/2017,0,1
+Kentuckiana Works Foundation,3/24/2018,0,1
+Library,1/4/2014,14,74
+Library,10/11/2014,10,69
+Library,8/15/2015,9,61
+Library,3/12/2016,11,59
+Library,10/8/2016,12,59
+Louisville Metro Council      ,8/31/2013,3,15
+Louisville Metro Council      ,5/10/2014,3,14
+Louisville Metro Council      ,5/5/2018,1,9
+Louisville Metro EMS,10/11/2014,0,6
+Louisville Metro EMS,5/23/2015,0,5
+Louisville Metro EMS,3/12/2016,0,5
+Louisville Metro EMS,3/11/2017,0,4
+Louisville Metro EMS,8/26/2017,0,3
+Louisville Metro EMS,12/2/2017,0,4
+Louisville Metro EMS,8/11/2018,0,4
+Metro Animal Services         ,4/12/2014,0,1
+Metro Animal Services         ,8/16/2014,0,1
+Metro Animal Services         ,12/19/2015,0,1
+Metro Animal Services         ,6/3/2017,0,1
+Metro Animal Services         ,4/21/2018,0,1
+Metro Animal Services         ,4/6/2019,0,1
+Metro Animal Services         ,7/27/2019,0,1
+Metro Parks & Recreation,11/22/2014,16,69
+Metro Parks & Recreation,6/2/2018,9,46
+Metro Police,4/12/2014,15,237
+Metro Police,8/16/2014,17,219
+Metro Police,12/19/2015,21,180
+Metro Police,4/9/2016,22,166
+Metro Police,4/8/2017,17,151
+Metro Police,6/3/2017,20,146
+Metro Police,6/17/2017,20,146
+Metro Police,4/6/2019,15,99
+Metro Police,6/1/2019,13,97
+Metro Police,7/27/2019,12,95
+OMB ,1/4/2014,8,27
+OMB ,10/11/2014,5,24
+OMB ,9/9/2017,4,19
+OMB ,6/15/2019,8,15
+Parking Authority of River Cty,1/31/2015,2,9
+Parking Authority of River Cty,1/30/2016,1,7
+Parking Authority of River Cty,7/29/2017,1,5
+Waterfront Development Corp,8/1/2015,2,6
+Waterfront Development Corp,11/7/2015,1,6
+Youth Detention Services      ,3/1/2014,1,6
+Youth Detention Services      ,7/1/2017,2,3
+Youth Detention Services      ,6/2/2018,1,2
+Zoo,4/26/2014,6,45
+Zoo,12/6/2014,5,41
+Zoo,2/13/2016,6,37
+Zoo,7/2/2016,4,40
+Zoo,12/30/2017,5,33
+Zoo,12/15/2018,7,29
+Zoo,1/12/2019,8,29
+Zoo,4/6/2019,7,31
+Belle of Louisville           ,5/24/2014,0,2
+Belle of Louisville           ,9/26/2015,0,1
+Civic Innovation & Technology,10/26/2013,4,9
+Civic Innovation & Technology,12/21/2013,4,9
+Civic Innovation & Technology,5/24/2014,4,9
+Civic Innovation & Technology,1/27/2018,1,6
+Civic Innovation & Technology,2/10/2018,1,6
+Codes & Regulations,5/9/2015,5,20
+Codes & Regulations,12/17/2016,6,23
+Codes & Regulations,9/23/2017,6,23
+Codes & Regulations,6/1/2019,8,18
+Community Services,5/9/2015,0,11
+Community Services,2/13/2016,2,9
+Community Services,1/14/2017,2,8
+Community Services,5/18/2019,2,8
+Coroner                       ,2/15/2014,0,5
+Coroner                       ,4/26/2014,0,5
+Coroner                       ,4/23/2016,0,2
+Coroner                       ,10/7/2017,0,5
+Coroner                       ,2/10/2018,0,6
+Coroner                       ,7/14/2018,0,6
+Corrections                   ,9/28/2013,0,1
+Corrections                   ,8/29/2015,0,1
+Corrections                   ,10/22/2016,0,1
+Corrections                   ,9/9/2017,0,1
+County Attorney               ,1/18/2014,0,7
+County Attorney               ,5/24/2014,0,7
+County Attorney               ,12/5/2015,0,4
+County Attorney               ,6/16/2018,0,4
+Develop Louisville,8/30/2014,5,15
+Develop Louisville,12/6/2014,6,13
+Develop Louisville,4/11/2015,5,12
+Develop Louisville,6/6/2015,4,12
+Develop Louisville,7/30/2016,3,11
+Develop Louisville,9/10/2016,2,10
+Develop Louisville,11/19/2016,1,10
+Develop Louisville,8/26/2017,2,6
+Develop Louisville,11/4/2017,1,6
+Develop Louisville,8/11/2018,4,6
+Develop Louisville,3/23/2019,3,6
+Economic Development ,12/6/2014,1,4
+Economic Development ,2/28/2015,0,3
+Economic Development ,8/13/2016,0,2
+Economic Development ,11/19/2016,0,2
+Economic Development ,8/12/2017,0,2
+Economic Development ,5/19/2018,0,1
+Economic Development ,4/6/2019,0,1
+Emergency Mgt Agency/MetroSafe,9/14/2013,3,25
+Emergency Mgt Agency/MetroSafe,5/10/2014,6,23
+Emergency Mgt Agency/MetroSafe,1/17/2015,4,22
+Emergency Mgt Agency/MetroSafe,1/31/2015,4,22
+Emergency Mgt Agency/MetroSafe,6/3/2017,3,17
+Emergency Mgt Agency/MetroSafe,9/23/2017,1,16
+Emergency Mgt Agency/MetroSafe,7/14/2018,2,13
+Emergency Mgt Agency/MetroSafe,2/23/2019,2,12
+Fire & Rescue                 ,9/14/2013,25,160
+Fire & Rescue                 ,9/27/2014,20,146
+Fire & Rescue                 ,3/14/2015,26,142
+Fire & Rescue                 ,6/20/2015,22,138
+Fire & Rescue                 ,10/22/2016,15,95
+Fire & Rescue                 ,6/3/2017,18,88
+Fire & Rescue                 ,6/17/2017,18,88
+Fire & Rescue                 ,10/6/2018,6,62
+Fire & Rescue                 ,2/23/2019,4,58
+Fleet & Facilities,9/14/2013,5,30
+Fleet & Facilities,1/17/2015,7,29
+Fleet & Facilities,12/17/2016,12,29
+Fleet & Facilities,6/3/2017,9,26
+Fleet & Facilities,6/17/2017,9,26
+Fleet & Facilities,2/23/2019,6,19
+Fleet & Facilities,6/1/2019,6,19
+Human Relations Commission    ,10/24/2015,1,5
+Human Relations Commission    ,1/30/2016,1,4
+Human Relations Commission    ,9/22/2018,0,3
+Human Resources,11/23/2013,0,7
+Human Resources,12/7/2013,0,7
+Human Resources,7/29/2017,0,4
+Human Resources,12/30/2017,0,4
+Human Resources,1/12/2019,2,5
+Human Resources,7/27/2019,1,3
+Kentuckiana Works Foundation,7/1/2017,0,1
+Kentuckiana Works Foundation,6/2/2018,0,1
+Kentuckiana Works Foundation,5/4/2019,0,2
+Kentuckiana Works Foundation,8/10/2019,0,2
+Library,3/14/2015,12,67
+Library,7/18/2015,12,64
+Library,10/24/2015,9,60
+Library,1/30/2016,12,60
+Library,5/21/2016,9,59
+Library,10/22/2016,10,57
+Louisville Metro Council      ,2/13/2016,3,14
+Louisville Metro Council      ,6/18/2016,3,14
+Louisville Metro Council      ,12/30/2017,1,10
+Louisville Metro Council      ,1/12/2019,1,10
+Louisville Metro EMS,1/14/2017,0,4
+Louisville Metro EMS,5/18/2019,0,4
+Mayor's Office                ,6/21/2014,0,5
+Mayor's Office                ,6/4/2016,0,6
+Mayor's Office                ,1/26/2019,2,5
+Metro Animal Services         ,4/26/2014,0,1
+Metro Animal Services         ,10/25/2014,0,1
+Metro Animal Services         ,10/7/2017,0,1
+Metro Parks & Recreation,9/27/2014,16,74
+Metro Parks & Recreation,3/14/2015,13,66
+Metro Parks & Recreation,4/25/2015,15,67
+Metro Parks & Recreation,6/20/2015,16,68
+Metro Parks & Recreation,7/18/2015,18,67
+Metro Parks & Recreation,6/17/2017,9,54
+Metro Police,2/15/2014,14,238
+Metro Police,4/26/2014,15,234
+Metro Police,10/25/2014,15,214
+Metro Police,1/31/2015,17,209
+Metro Police,6/18/2016,20,156
+Metro Police,10/7/2017,22,122
+Metro Police,2/10/2018,25,113
+Metro Police,7/14/2018,26,110
+OMB ,4/25/2015,8,23
+OMB ,6/4/2016,5,22
+OMB ,9/24/2016,5,20
+OMB ,7/29/2017,5,19
+Parking Authority of River Cty,10/26/2013,2,9
+Parking Authority of River Cty,12/21/2013,1,9
+Parking Authority of River Cty,4/12/2014,2,9
+Parking Authority of River Cty,3/12/2016,2,7
+Parking Authority of River Cty,8/27/2016,1,7
+Public Health & Wellness,1/18/2014,0,2
+Parking Authority of River Cty,11/4/2017,2,5
+Parking Authority of River Cty,2/10/2018,1,4
+Parking Authority of River Cty,6/16/2018,1,4
+Public Health & Wellness,1/2/2016,0,3
+Public Health & Wellness,8/25/2018,1,3
+Public Health & Wellness,5/18/2019,1,3
+PW&A ,9/14/2013,24,92
+PW&A ,12/21/2013,26,93
+PW&A ,10/11/2014,28,86
+PW&A ,8/1/2015,16,78
+PW&A ,1/13/2018,14,56
+Waterfront Development Corp,1/3/2015,3,6
+Waterfront Development Corp,2/14/2015,3,6
+Waterfront Development Corp,2/13/2016,1,6
+Waterfront Development Corp,10/7/2017,3,6
+Youth Detention Services      ,1/4/2014,1,6
+Youth Detention Services      ,5/10/2014,1,6
+Youth Detention Services      ,4/25/2015,0,3
+Youth Detention Services      ,1/30/2016,0,2
+Youth Detention Services      ,7/29/2017,2,3
+Youth Detention Services      ,9/9/2017,1,2
+Youth Detention Services      ,7/13/2019,0,2
+Zoo,5/7/2016,8,39
+Public Health & Wellness,6/29/2019,2,3
+PW&A ,12/20/2014,23,85
+PW&A ,11/21/2015,21,74
+PW&A ,10/8/2016,24,70
+PW&A ,5/6/2017,17,65
+PW&A ,2/9/2019,16,48
+PW&A ,6/15/2019,16,46
+Waterfront Development Corp,1/4/2014,2,6
+Youth Detention Services      ,8/30/2014,1,6
+Youth Detention Services      ,1/3/2015,0,6
+Youth Detention Services      ,1/17/2015,0,4
+Youth Detention Services      ,6/6/2015,0,3
+Youth Detention Services      ,11/17/2018,1,2
+Zoo,5/10/2014,5,45
+Zoo,3/25/2017,4,35
+Zoo,11/18/2017,6,34
+Zoo,7/13/2019,7,30
+Waterfront Development Corp,10/22/2016,1,6
+Waterfront Development Corp,6/30/2018,2,3
+Waterfront Development Corp,3/23/2019,2,3
+Youth Detention Services      ,8/31/2013,0,6
+Youth Detention Services      ,2/13/2016,0,3
+Youth Detention Services      ,5/6/2017,2,4
+Youth Detention Services      ,5/5/2018,1,3
+Youth Detention Services      ,12/15/2018,1,2
+Youth Detention Services      ,6/1/2019,0,2
+Zoo,11/9/2013,9,47
+Zoo,5/23/2015,6,42
+Zoo,8/26/2017,4,35
+Zoo,10/7/2017,5,34
+Zoo,8/11/2018,8,33
+Zoo,3/9/2019,9,31
+PW&A ,7/18/2015,14,79
+PW&A ,11/7/2015,21,76
+PW&A ,1/12/2019,14,48
+Waterfront Development Corp,7/16/2016,1,6
+Waterfront Development Corp,7/30/2016,1,6
+Waterfront Development Corp,9/24/2016,2,6
+Waterfront Development Corp,1/14/2017,2,6
+Waterfront Development Corp,7/15/2017,2,6
+Waterfront Development Corp,4/20/2019,2,3
+Waterfront Development Corp,7/27/2019,2,3
+Youth Detention Services      ,10/26/2013,0,6
+Youth Detention Services      ,1/31/2015,0,4
+Youth Detention Services      ,8/15/2015,0,2
+Youth Detention Services      ,10/10/2015,0,2
+Youth Detention Services      ,4/23/2016,0,4
+Youth Detention Services      ,10/8/2016,0,4
+Youth Detention Services      ,10/21/2017,1,2
+Youth Detention Services      ,6/30/2018,1,2
+Zoo,2/1/2014,7,44
+Zoo,6/7/2014,6,44
+Zoo,12/3/2016,6,39
+Zoo,6/17/2017,4,36
+Zoo,7/14/2018,7,33
+Zoo,6/1/2019,9,30
+Public Health & Wellness,7/1/2017,1,3
+Public Health & Wellness,7/28/2018,1,3
+Public Health & Wellness,2/9/2019,1,4
+PW&A ,10/12/2013,25,92
+PW&A ,12/6/2014,23,85
+PW&A ,7/2/2016,28,72
+PW&A ,12/3/2016,22,69
+PW&A ,4/7/2018,17,54
+PW&A ,7/28/2018,16,54
+Waterfront Development Corp,8/31/2013,1,6
+Waterfront Development Corp,11/23/2013,1,6
+Waterfront Development Corp,3/1/2014,2,6
+Waterfront Development Corp,11/21/2015,1,6
+Waterfront Development Corp,5/6/2017,2,6
+Waterfront Development Corp,7/1/2017,2,6
+Waterfront Development Corp,5/5/2018,1,3
+Waterfront Development Corp,6/2/2018,1,3
+Waterfront Development Corp,5/4/2019,2,3
+Youth Detention Services      ,10/12/2013,0,6
+Youth Detention Services      ,4/11/2015,0,3
+Youth Detention Services      ,1/2/2016,0,2
+Zoo,7/5/2014,6,44
+Zoo,9/27/2014,6,44
+Zoo,3/14/2015,6,42
+Zoo,4/25/2015,7,42
+Zoo,5/21/2016,5,39
+Zoo,10/6/2018,6,32
+Zoo,2/9/2019,9,29
+Zoo,6/29/2019,7,31
+PW&A ,4/9/2016,29,73
+PW&A ,7/30/2016,24,71
+PW&A ,6/3/2017,18,62
+PW&A ,6/17/2017,18,61
+PW&A ,6/1/2019,14,47
+PW&A ,7/27/2019,16,46
+Waterfront Development Corp,4/12/2014,1,6
+Waterfront Development Corp,8/16/2014,1,6
+Waterfront Development Corp,12/6/2014,3,6
+Waterfront Development Corp,7/2/2016,1,6
+Waterfront Development Corp,4/8/2017,2,6
+Waterfront Development Corp,12/30/2017,2,5
+Waterfront Development Corp,9/22/2018,2,3
+Waterfront Development Corp,12/15/2018,1,3
+Waterfront Development Corp,1/12/2019,1,3
+Waterfront Development Corp,4/6/2019,2,3
+Waterfront Development Corp,5/18/2019,2,3
+Youth Detention Services      ,6/18/2016,0,4
+Youth Detention Services      ,9/10/2016,0,4
+Youth Detention Services      ,4/22/2017,1,4
+Youth Detention Services      ,9/23/2017,1,2
+Youth Detention Services      ,3/10/2018,2,3
+Youth Detention Services      ,7/28/2018,1,2
+Youth Detention Services      ,3/9/2019,1,2
+Youth Detention Services      ,6/29/2019,0,2
+Zoo,10/12/2013,7,47
+Zoo,11/7/2015,9,41
+Zoo,1/13/2018,6,34
+Parking Authority of River Cty,11/8/2014,2,9
+Parking Authority of River Cty,6/20/2015,0,9
+Parking Authority of River Cty,4/7/2018,1,4
+Parking Authority of River Cty,9/22/2018,2,4
+Public Health & Wellness,9/28/2013,0,2
+Public Health & Wellness,12/7/2013,0,2
+Public Health & Wellness,1/4/2014,0,2
+Public Health & Wellness,7/13/2019,2,3
+Public Health & Wellness,7/27/2019,2,3
+PW&A ,6/21/2014,29,88
+PW&A ,7/5/2014,29,87
+PW&A ,5/21/2016,28,72
+PW&A ,8/13/2016,22,70
+PW&A ,3/24/2018,17,55
+PW&A ,12/15/2018,14,48
+PW&A ,8/10/2019,15,46
+Waterfront Development Corp,9/28/2013,1,6
+Waterfront Development Corp,6/7/2014,1,6
+Waterfront Development Corp,7/28/2018,2,3
+Waterfront Development Corp,6/29/2019,2,3
+Youth Detention Services      ,4/12/2014,1,6
+Youth Detention Services      ,9/26/2015,0,2
+Youth Detention Services      ,12/19/2015,0,2
+Youth Detention Services      ,3/26/2016,0,3
+Youth Detention Services      ,4/8/2017,1,4
+Zoo,11/23/2013,9,45
+Zoo,11/21/2015,10,40
+Zoo,1/30/2016,9,38
+Zoo,12/16/2017,6,33
+Zoo,6/15/2019,7,31
+Public Health & Wellness,8/13/2016,0,3
+Public Health & Wellness,3/25/2017,1,3
+Public Health & Wellness,8/12/2017,1,4
+Public Health & Wellness,9/9/2017,1,3
+PW&A ,11/22/2014,24,85
+PW&A ,3/25/2017,14,65
+PW&A ,7/13/2019,16,46
+Waterfront Development Corp,3/28/2015,2,6
+Waterfront Development Corp,6/20/2015,2,6
+Waterfront Development Corp,1/30/2016,1,6
+Waterfront Development Corp,8/12/2017,2,6
+Waterfront Development Corp,12/16/2017,2,5
+Waterfront Development Corp,6/15/2019,2,3
+Youth Detention Services      ,3/15/2014,1,6
+Youth Detention Services      ,2/14/2015,0,4
+Youth Detention Services      ,5/7/2016,0,4
+Youth Detention Services      ,8/27/2016,0,4
+Youth Detention Services      ,8/25/2018,1,2
+Youth Detention Services      ,11/3/2018,2,2
+Zoo,9/28/2013,7,47
+Zoo,3/28/2015,6,42
+Zoo,8/29/2015,8,41
+Zoo,10/22/2016,4,39
+Zoo,9/9/2017,4,35
+Public Health & Wellness,12/19/2015,0,3
+Public Health & Wellness,2/13/2016,0,3
+Public Health & Wellness,2/24/2018,1,3
+PW&A ,5/7/2016,27,72
+PW&A ,9/23/2017,13,57
+PW&A ,2/24/2018,17,55
+Waterfront Development Corp,1/18/2014,2,6
+Waterfront Development Corp,5/24/2014,1,6
+Waterfront Development Corp,12/5/2015,1,6
+Waterfront Development Corp,1/27/2018,1,5
+Youth Detention Services      ,11/23/2013,0,6
+Youth Detention Services      ,12/7/2013,0,6
+Youth Detention Services      ,7/27/2019,0,2
+Zoo,8/1/2015,6,42
+Zoo,12/19/2015,10,39
+Zoo,4/9/2016,7,38
+Zoo,9/10/2016,5,40
+Zoo,2/24/2018,6,33
+Belle of Louisville           ,11/22/2014,0,1
+Belle of Louisville           ,8/12/2017,0,1
+Civic Innovation & Technology,11/9/2013,4,9
+Civic Innovation & Technology,4/22/2017,1,6
+Civic Innovation & Technology,7/1/2017,1,6
+Civic Innovation & Technology,12/2/2017,1,6
+Civic Innovation & Technology,3/23/2019,1,4
+Civic Innovation & Technology,5/18/2019,1,4
+Codes & Regulations,1/17/2015,5,20
+Codes & Regulations,2/28/2015,6,20
+Codes & Regulations,5/23/2015,6,21
+Codes & Regulations,8/29/2015,6,23
+Codes & Regulations,8/26/2017,6,23
+Codes & Regulations,12/16/2017,5,23
+Codes & Regulations,2/10/2018,8,21
+Codes & Regulations,6/16/2018,9,23
+Community Services,10/25/2014,2,12
+Community Services,3/28/2015,1,11
+Community Services,9/24/2016,2,8
+Community Services,11/19/2016,2,8
+Community Services,12/3/2016,2,8
+Community Services,2/25/2017,1,8
+Coroner                       ,9/13/2014,0,5
+Coroner                       ,1/16/2016,0,3
+Coroner                       ,1/28/2017,0,4
+Coroner                       ,5/4/2019,0,7
+Corrections                   ,4/12/2014,0,1
+Corrections                   ,11/7/2015,0,1
+Corrections                   ,12/1/2018,1,2
+County Attorney               ,12/7/2013,0,7
+County Attorney               ,7/19/2014,0,7
+County Attorney               ,12/31/2016,0,3
+County Attorney               ,2/11/2017,0,3
+County Attorney               ,5/20/2017,0,3
+County Attorney               ,9/23/2017,0,3
+County Attorney               ,10/21/2017,0,3
+County Attorney               ,6/30/2018,0,4
+Develop Louisville,9/28/2013,4,16
+Develop Louisville,9/27/2014,4,14
+Develop Louisville,10/24/2015,3,12
+Develop Louisville,6/2/2018,4,7
+Emergency Mgt Agency/MetroSafe,8/27/2016,3,19
+Emergency Mgt Agency/MetroSafe,2/25/2017,4,17
+Emergency Mgt Agency/MetroSafe,11/18/2017,1,16
+Emergency Mgt Agency/MetroSafe,9/22/2018,2,13
+Fire & Rescue                 ,1/2/2016,16,117
+Fire & Rescue                 ,4/7/2018,9,69
+Fire & Rescue                 ,5/18/2019,6,58
+Fleet & Facilities,3/9/2019,7,19
+Human Relations Commission    ,11/22/2014,1,5
+Human Relations Commission    ,5/23/2015,0,5
+Human Relations Commission    ,6/4/2016,0,3
+Human Relations Commission    ,10/8/2016,0,3
+Human Relations Commission    ,12/17/2016,0,3
+Human Relations Commission    ,3/11/2017,0,3
+Human Relations Commission    ,8/11/2018,0,3
+Human Resources,9/27/2014,1,5
+Human Resources,11/22/2014,0,4
+Human Resources,8/12/2017,0,4
+Human Resources,6/2/2018,1,3
+Kentuckiana Works Foundation,4/22/2017,0,1
+Kentuckiana Works Foundation,3/10/2018,0,1
+Kentuckiana Works Foundation,4/7/2018,0,1
+Library,3/28/2015,10,67
+Library,11/21/2015,12,61
+Library,2/25/2017,5,53
+Library,4/20/2019,6,45
+Louisville Metro Council      ,3/25/2017,0,12
+Louisville Metro Council      ,7/13/2019,1,8
+Louisville Metro EMS,9/14/2013,0,7
+Louisville Metro EMS,10/12/2013,0,7
+Louisville Metro EMS,10/25/2014,0,6
+Louisville Metro EMS,3/28/2015,0,5
+Louisville Metro EMS,11/19/2016,0,4
+Louisville Metro EMS,12/3/2016,0,4
+Louisville Metro EMS,2/25/2017,0,4
+Mayor's Office                ,6/20/2015,0,4
+Mayor's Office                ,9/12/2015,1,6
+Mayor's Office                ,4/9/2016,0,6
+Mayor's Office                ,3/25/2017,0,6
+Mayor's Office                ,12/30/2017,0,4
+Mayor's Office                ,1/27/2018,0,5
+Mayor's Office                ,7/13/2019,1,5
+Metro Animal Services         ,12/7/2013,0,1
+Metro Animal Services         ,5/24/2014,0,1
+Metro Animal Services         ,2/11/2017,0,1
+Metro Animal Services         ,9/23/2017,0,1
+Metro Animal Services         ,3/9/2019,0,1
+Metro Parks & Recreation,8/31/2013,24,82
+Metro Parks & Recreation,5/5/2018,8,47
+Metro Police,7/19/2014,15,224
+Metro Police,5/21/2016,21,157
+Metro Police,6/4/2016,20,157
+Metro Police,8/13/2016,20,156
+Metro Police,9/10/2016,19,150
+Metro Police,10/21/2017,21,109
+Metro Police,2/24/2018,24,113
+OMB ,9/14/2013,11,28
+Parking Authority of River Cty,11/7/2015,1,8
+Parking Authority of River Cty,8/25/2018,1,4
+Parking Authority of River Cty,2/9/2019,2,5
+Public Health & Wellness,11/5/2016,0,3
+PW&A ,8/27/2016,20,70
+PW&A ,7/15/2017,18,60
+Waterfront Development Corp,8/27/2016,1,6
+Waterfront Development Corp,11/4/2017,2,6
+Youth Detention Services      ,2/28/2015,0,4
+Youth Detention Services      ,8/29/2015,0,2
+Youth Detention Services      ,3/12/2016,0,3
+Youth Detention Services      ,8/26/2017,1,2
+Youth Detention Services      ,2/10/2018,2,3
+Youth Detention Services      ,6/16/2018,1,2
+Zoo,8/2/2014,5,44
+Zoo,7/18/2015,6,42
+Zoo,1/27/2018,6,34
+Zoo,4/21/2018,6,34
+Zoo,11/3/2018,6,32
+Metro Police,1/26/2019,19,99
+OMB ,5/10/2014,5,26
+OMB ,12/2/2017,7,19
+Parking Authority of River Cty,9/28/2013,2,9
+Parking Authority of River Cty,2/28/2015,1,9
+Parking Authority of River Cty,8/29/2015,1,8
+Parking Authority of River Cty,6/18/2016,2,7
+Parking Authority of River Cty,8/12/2017,2,5
+Public Health & Wellness,7/19/2014,0,2
+Public Health & Wellness,10/21/2017,1,3
+Public Health & Wellness,6/16/2018,1,4
+PW&A ,11/8/2014,26,86
+PW&A ,9/26/2015,18,76
+PW&A ,4/23/2016,28,73
+PW&A ,1/28/2017,19,67
+PW&A ,2/11/2017,19,67
+PW&A ,6/30/2018,17,53
+Waterfront Development Corp,3/15/2014,1,6
+Waterfront Development Corp,6/4/2016,1,6
+Waterfront Development Corp,12/17/2016,2,6
+Waterfront Development Corp,7/29/2017,2,6
+Waterfront Development Corp,10/20/2018,2,3
+Waterfront Development Corp,8/10/2019,2,3
+Youth Detention Services      ,6/3/2017,3,4
+Youth Detention Services      ,1/27/2018,1,3
+Youth Detention Services      ,3/24/2018,2,3
+Zoo,10/26/2013,8,47
+Zoo,1/17/2015,6,40
+Zoo,12/31/2016,5,38
+Zoo,2/10/2018,6,34
+Zoo,6/16/2018,6,34
+Parking Authority of River Cty,10/20/2018,2,4
+Parking Authority of River Cty,2/23/2019,2,5
+Public Health & Wellness,10/26/2013,0,2
+Public Health & Wellness,12/16/2017,1,4
+Public Health & Wellness,2/10/2018,1,4
+Public Health & Wellness,2/23/2019,1,3
+PW&A ,3/29/2014,25,88
+PW&A ,5/9/2015,16,81
+PW&A ,8/11/2018,16,53
+Waterfront Development Corp,10/26/2013,1,6
+Waterfront Development Corp,1/17/2015,3,6
+Waterfront Development Corp,2/28/2015,2,6
+Waterfront Development Corp,8/29/2015,2,6
+Waterfront Development Corp,2/10/2018,1,5
+Waterfront Development Corp,6/16/2018,1,3
+Youth Detention Services      ,2/1/2014,1,6
+Youth Detention Services      ,10/25/2014,1,6
+Youth Detention Services      ,12/20/2014,0,6
+Youth Detention Services      ,3/28/2015,0,3
+Youth Detention Services      ,11/21/2015,0,2
+Youth Detention Services      ,11/19/2016,0,3
+Youth Detention Services      ,11/4/2017,1,2
+Youth Detention Services      ,4/21/2018,2,3
+Zoo,3/15/2014,5,45
+Zoo,5/24/2014,5,44
+Zoo,10/24/2015,8,41
+Zoo,6/4/2016,5,40
+Zoo,12/17/2016,5,37
+Zoo,8/10/2019,8,30
+Belle of Louisville           ,2/15/2014,0,1
+Belle of Louisville           ,6/21/2014,1,2
+Belle of Louisville           ,7/5/2014,1,2
+Civic Innovation & Technology,8/31/2013,4,9
+Civic Innovation & Technology,3/1/2014,4,9
+Civic Innovation & Technology,3/28/2015,4,9
+Civic Innovation & Technology,12/3/2016,1,6
+Civic Innovation & Technology,8/12/2017,1,6
+Civic Innovation & Technology,9/9/2017,1,6
+Civic Innovation & Technology,2/9/2019,1,4
+Codes & Regulations,6/7/2014,3,21
+Codes & Regulations,5/19/2018,10,23
+Codes & Regulations,7/28/2018,10,22
+Codes & Regulations,6/29/2019,9,19
+Community Services,6/7/2014,2,12
+Community Services,9/10/2016,2,8
+Community Services,4/22/2017,1,9
+Community Services,5/19/2018,1,9
+Community Services,7/28/2018,2,10
+Coroner                       ,3/28/2015,0,5
+Coroner                       ,8/12/2017,0,6
+Coroner                       ,5/5/2018,0,6
+Coroner                       ,6/2/2018,0,6
+Corrections                   ,3/15/2014,0,1
+Corrections                   ,4/21/2018,0,2
+Corrections                   ,11/3/2018,1,2
+County Attorney               ,8/29/2015,0,4
+County Attorney               ,11/21/2015,0,4
+County Attorney               ,6/4/2016,0,4
+Develop Louisville,9/14/2013,4,16
+Develop Louisville,5/9/2015,4,12
+Develop Louisville,4/23/2016,3,11
+Develop Louisville,1/14/2017,1,10
+Develop Louisville,5/18/2019,2,5
+Economic Development ,4/26/2014,2,5
+Economic Development ,5/10/2014,2,5
+Economic Development ,5/7/2016,0,2
+Economic Development ,11/17/2018,0,1
+Emergency Mgt Agency/MetroSafe,12/31/2016,2,17
+Emergency Mgt Agency/MetroSafe,5/20/2017,3,17
+Emergency Mgt Agency/MetroSafe,5/19/2018,1,13
+Fire & Rescue                 ,8/1/2015,21,137
+Fire & Rescue                 ,8/27/2016,15,97
+Fire & Rescue                 ,4/21/2018,9,69
+Fire & Rescue                 ,11/3/2018,4,60
+Fleet & Facilities,7/19/2014,7,29
+Fleet & Facilities,11/5/2016,12,29
+Fleet & Facilities,5/20/2017,9,26
+Fleet & Facilities,11/4/2017,6,23
+Fleet & Facilities,12/2/2017,7,23
+Fleet & Facilities,8/11/2018,5,22
+Fleet & Facilities,10/20/2018,5,21
+Fleet & Facilities,12/29/2018,5,21
+Fleet & Facilities,3/23/2019,8,19
+Human Relations Commission    ,10/12/2013,0,4
+Human Relations Commission    ,4/12/2014,1,4
+Human Relations Commission    ,12/6/2014,1,5
+Human Relations Commission    ,4/11/2015,0,5
+Human Relations Commission    ,11/7/2015,1,5
+Human Relations Commission    ,3/26/2016,1,4
+Human Relations Commission    ,7/2/2016,0,3
+Human Relations Commission    ,4/8/2017,0,3
+Human Resources,3/29/2014,0,6
+Human Resources,9/26/2015,0,4
+Human Resources,1/28/2017,1,3
+Human Resources,7/1/2017,0,5
+Human Resources,5/4/2019,2,3
+Kentuckiana Works Foundation,12/21/2013,0,2
+Kentuckiana Works Foundation,1/3/2015,0,2
+Kentuckiana Works Foundation,11/21/2015,0,1
+Kentuckiana Works Foundation,2/13/2016,0,1
+Kentuckiana Works Foundation,2/10/2018,0,1
+Kentuckiana Works Foundation,11/17/2018,0,2
+Library,3/29/2014,14,72
+Library,9/10/2016,12,59
+Library,1/28/2017,6,53
+Library,4/22/2017,6,54
+Library,5/20/2017,5,53
+Library,10/21/2017,2,52
+Library,12/2/2017,4,52
+Library,12/29/2018,10,48
+Library,3/23/2019,7,46
+Louisville Metro Council      ,10/12/2013,2,14
+Louisville Metro Council      ,4/11/2015,2,15
+Louisville Metro Council      ,11/7/2015,2,15
+Louisville Metro Council      ,1/2/2016,3,14
+Louisville Metro Council      ,6/30/2018,1,9
+Louisville Metro EMS,9/10/2016,0,5
+Louisville Metro EMS,4/22/2017,1,4
+Louisville Metro EMS,5/19/2018,0,4
+Louisville Metro EMS,7/28/2018,0,4
+Louisville Metro EMS,11/3/2018,0,4
+Mayor's Office                ,5/9/2015,0,4
+Mayor's Office                ,9/26/2015,1,6
+Mayor's Office                ,6/16/2018,1,5
+Metro Animal Services         ,12/20/2014,0,1
+Metro Animal Services         ,5/6/2017,0,1
+Metro Animal Services         ,12/2/2017,0,1
+Metro Animal Services         ,12/29/2018,0,1
+Metro Animal Services         ,3/23/2019,0,1
+Metro Parks & Recreation,3/29/2014,20,76
+Metro Parks & Recreation,9/10/2016,16,60
+Metro Parks & Recreation,1/28/2017,12,53
+Metro Parks & Recreation,4/22/2017,11,54
+Metro Parks & Recreation,10/21/2017,8,51
+Metro Police,3/28/2015,19,206
+Metro Police,12/3/2016,17,146
+Metro Police,8/12/2017,21,145
+Metro Police,6/30/2018,24,111
+Metro Police,2/9/2019,19,99
+OMB ,3/15/2014,7,27
+OMB ,12/19/2015,4,23
+OMB ,5/7/2016,6,22
+OMB ,9/10/2016,6,21
+OMB ,4/22/2017,7,18
+OMB ,11/3/2018,7,16
+Parking Authority of River Cty,9/27/2014,2,9
+Parking Authority of River Cty,3/14/2015,2,9
+Parking Authority of River Cty,7/18/2015,1,9
+Parking Authority of River Cty,10/24/2015,1,8
+Parking Authority of River Cty,5/21/2016,2,7
+Parking Authority of River Cty,3/25/2017,1,5
+Parking Authority of River Cty,7/13/2019,2,5
+Public Health & Wellness,8/2/2014,0,2
+Public Health & Wellness,2/28/2015,0,2
+Public Health & Wellness,6/6/2015,0,2
+Public Health & Wellness,8/15/2015,0,2
+Public Health & Wellness,6/4/2016,0,3
+Public Health & Wellness,11/18/2017,1,3
+Public Health & Wellness,3/24/2018,1,3
+Public Health & Wellness,9/8/2018,1,4
+PW&A ,8/16/2014,32,87
+PW&A ,5/19/2018,19,53
+PW&A ,6/29/2019,16,46
+Waterfront Development Corp,6/21/2014,1,6
+Waterfront Development Corp,11/8/2014,3,6
+Waterfront Development Corp,2/11/2017,2,6
+Waterfront Development Corp,3/24/2018,2,4
+Waterfront Development Corp,4/7/2018,2,4
+Youth Detention Services      ,7/19/2014,1,6
+Youth Detention Services      ,5/20/2017,3,4
+Youth Detention Services      ,2/24/2018,2,3
+Zoo,2/27/2016,6,37
+Zoo,7/29/2017,4,36
+Zoo,1/26/2019,9,29
+PW&A ,8/31/2013,26,94
+PW&A ,3/1/2014,26,89
+PW&A ,6/7/2014,27,88
+PW&A ,5/5/2018,17,54
+PW&A ,5/4/2019,15,47
+Waterfront Development Corp,8/2/2014,1,6
+Waterfront Development Corp,7/18/2015,2,6
+Waterfront Development Corp,8/15/2015,2,6
+Waterfront Development Corp,10/8/2016,1,6
+Waterfront Development Corp,11/18/2017,3,6
+Youth Detention Services      ,10/11/2014,1,6
+Youth Detention Services      ,4/9/2016,0,3
+Youth Detention Services      ,7/16/2016,0,4
+Youth Detention Services      ,7/15/2017,2,3
+Youth Detention Services      ,10/20/2018,2,2
+Youth Detention Services      ,4/20/2019,0,2
+Zoo,11/8/2014,5,43
+Zoo,2/11/2017,3,37
+Zoo,4/7/2018,6,34
+Belle of Louisville           ,4/22/2017,0,1
+Civic Innovation & Technology,1/17/2015,4,9
+Codes & Regulations,11/9/2013,3,25
+Codes & Regulations,9/12/2015,6,22
+Codes & Regulations,1/16/2016,6,23
+Codes & Regulations,6/18/2016,6,22
+Codes & Regulations,10/21/2017,5,24
+Codes & Regulations,1/27/2018,6,21
+Codes & Regulations,3/10/2018,8,21
+Community Services,9/12/2015,2,10
+Community Services,1/16/2016,2,9
+Community Services,6/18/2016,1,8
+Community Services,1/12/2019,2,10
+Coroner                       ,1/17/2015,0,5
+Coroner                       ,2/13/2016,0,3
+Coroner                       ,2/23/2019,0,7
+Corrections                   ,12/7/2013,0,1
+Corrections                   ,6/20/2015,0,1
+Corrections                   ,7/18/2015,0,1
+Corrections                   ,1/16/2016,0,1
+Corrections                   ,9/24/2016,0,1
+Corrections                   ,11/18/2017,0,1
+County Attorney               ,8/30/2014,0,7
+County Attorney               ,10/11/2014,0,6
+County Attorney               ,1/3/2015,0,6
+County Attorney               ,3/12/2016,0,4
+County Attorney               ,11/19/2016,0,3
+County Attorney               ,4/21/2018,0,3
+County Attorney               ,4/20/2019,0,4
+Develop Louisville,11/7/2015,3,12
+Develop Louisville,11/5/2016,2,11
+Develop Louisville,5/6/2017,2,9
+Develop Louisville,12/2/2017,1,6
+Economic Development ,3/1/2014,2,5
+Economic Development ,11/22/2014,1,4
+Economic Development ,2/25/2017,0,2
+Economic Development ,3/25/2017,0,2
+Economic Development ,7/13/2019,0,1
+Emergency Mgt Agency/MetroSafe,9/13/2014,4,22
+Emergency Mgt Agency/MetroSafe,1/14/2017,4,18
+Emergency Mgt Agency/MetroSafe,1/13/2018,1,15
+Emergency Mgt Agency/MetroSafe,10/6/2018,2,13
+Fire & Rescue                 ,12/7/2013,27,159
+Fire & Rescue                 ,5/10/2014,20,156
+Fire & Rescue                 ,4/25/2015,23,139
+Fire & Rescue                 ,9/24/2016,16,95
+Fleet & Facilities,5/23/2015,8,29
+Fleet & Facilities,10/10/2015,10,28
+Fleet & Facilities,2/27/2016,12,28
+Fleet & Facilities,4/23/2016,12,29
+Fleet & Facilities,1/14/2017,12,28
+Fleet & Facilities,1/12/2019,5,21
+Human Relations Commission    ,11/9/2013,0,4
+Human Relations Commission    ,11/23/2013,0,4
+Human Relations Commission    ,2/15/2014,1,4
+Human Relations Commission    ,7/5/2014,2,5
+Human Relations Commission    ,1/31/2015,0,5
+Human Relations Commission    ,1/16/2016,1,4
+Human Relations Commission    ,6/18/2016,0,3
+Human Relations Commission    ,10/6/2018,0,3
+Human Relations Commission    ,1/26/2019,0,3
+Human Resources,2/15/2014,1,6
+Human Resources,9/13/2014,1,5
+Human Resources,10/22/2016,1,2
+Human Resources,1/14/2017,1,3
+Human Resources,1/13/2018,0,4
+Human Resources,5/18/2019,1,4
+Kentuckiana Works Foundation,1/4/2014,0,2
+Kentuckiana Works Foundation,11/22/2014,0,2
+Kentuckiana Works Foundation,11/5/2016,0,1
+Kentuckiana Works Foundation,12/3/2016,0,1
+Kentuckiana Works Foundation,8/26/2017,0,1
+Kentuckiana Works Foundation,8/11/2018,0,1
+Kentuckiana Works Foundation,7/13/2019,0,2
+Library,2/15/2014,12,72
+Library,6/21/2014,14,72
+Library,1/31/2015,12,67
+Library,1/26/2019,8,48
+Library,2/23/2019,6,47
+Louisville Metro Council      ,9/14/2013,3,15
+Louisville Metro Council      ,2/15/2014,2,14
+Louisville Metro Council      ,9/13/2014,2,13
+Louisville Metro Council      ,5/9/2015,2,15
+Louisville Metro Council      ,4/23/2016,3,14
+Louisville Metro Council      ,10/22/2016,2,14
+Louisville Metro Council      ,9/23/2017,1,12
+Louisville Metro Council      ,1/13/2018,1,10
+Louisville Metro Council      ,12/1/2018,1,9
+Louisville Metro EMS,12/7/2013,0,6
+Louisville Metro EMS,9/12/2015,0,5
+Louisville Metro EMS,1/16/2016,0,5
+Louisville Metro EMS,6/3/2017,1,4
+Louisville Metro EMS,1/12/2019,0,4
+Louisville Metro EMS,7/27/2019,0,4
+Mayor's Office                ,1/30/2016,0,6
+Mayor's Office                ,5/6/2017,0,6
+Metro Animal Services         ,5/9/2015,0,1
+Metro Parks & Recreation,9/28/2013,21,82
+Metro Parks & Recreation,6/21/2014,19,80
+Metro Parks & Recreation,10/22/2016,12,55
+Metro Parks & Recreation,6/29/2019,4,37
+Metro Police,5/9/2015,20,201
+Metro Police,2/13/2016,19,174
+OMB ,11/8/2014,6,24
+OMB ,3/14/2015,7,23
+OMB ,9/12/2015,5,23
+OMB ,5/21/2016,6,22
+OMB ,6/3/2017,5,18
+OMB ,6/17/2017,5,18
+OMB ,10/6/2018,7,16
+OMB ,6/1/2019,8,15
+OMB ,7/27/2019,7,15
+Parking Authority of River Cty,7/19/2014,1,9
+Parking Authority of River Cty,5/7/2016,2,7
+Parking Authority of River Cty,2/24/2018,0,4
+Public Health & Wellness,4/26/2014,0,2
+Public Health & Wellness,5/10/2014,0,2
+Public Health & Wellness,3/10/2018,1,4
+Public Health & Wellness,7/14/2018,1,3
+Public Health & Wellness,11/3/2018,1,3
+PW&A ,5/24/2014,24,87
+PW&A ,6/18/2016,27,72
+PW&A ,1/27/2018,15,55
+Waterfront Development Corp,9/26/2015,2,6
+Waterfront Development Corp,4/22/2017,2,6
+Waterfront Development Corp,9/23/2017,3,6
+Waterfront Development Corp,3/10/2018,1,4
+Waterfront Development Corp,7/14/2018,2,3
+Waterfront Development Corp,12/1/2018,2,3
+Youth Detention Services      ,8/16/2014,1,6
+Youth Detention Services      ,11/8/2014,1,6
+Youth Detention Services      ,10/24/2015,0,2
+Youth Detention Services      ,5/21/2016,0,4
+Youth Detention Services      ,8/13/2016,0,4
+Youth Detention Services      ,2/11/2017,1,4
+Zoo,7/15/2017,4,36
+Zoo,11/4/2017,5,34
+Zoo,8/25/2018,8,33
+Belle of Louisville           ,2/1/2014,0,1
+Belle of Louisville           ,7/15/2017,0,1
+Belle of Louisville           ,9/9/2017,0,1
+Civic Innovation & Technology,7/29/2017,1,6
+Civic Innovation & Technology,12/30/2017,1,6
+Civic Innovation & Technology,11/3/2018,1,5
+Civic Innovation & Technology,12/15/2018,1,5
+Civic Innovation & Technology,6/29/2019,1,4
+Codes & Regulations,3/28/2015,5,21
+Codes & Regulations,11/21/2015,6,23
+Codes & Regulations,6/3/2017,8,22
+Community Services,10/26/2013,5,18
+Community Services,5/24/2014,2,12
+Community Services,1/31/2015,2,11
+Community Services,12/16/2017,2,10
+Community Services,2/10/2018,2,9
+Community Services,2/23/2019,2,8
+Coroner                       ,8/31/2013,0,6
+Coroner                       ,11/9/2013,0,5
+Coroner                       ,8/25/2018,0,6
+Corrections                   ,9/13/2014,0,1
+Corrections                   ,11/22/2014,0,1
+County Attorney               ,7/16/2016,0,4
+County Attorney               ,9/24/2016,0,4
+County Attorney               ,1/14/2017,0,3
+County Attorney               ,5/6/2017,0,3
+County Attorney               ,11/4/2017,0,3
+Develop Louisville,8/31/2013,3,16
+Develop Louisville,1/4/2014,6,16
+Develop Louisville,4/12/2014,7,16
+Develop Louisville,8/16/2014,6,15
+Develop Louisville,4/25/2015,4,12
+Develop Louisville,4/8/2017,2,9
+Economic Development ,9/12/2015,0,2
+Economic Development ,5/21/2016,0,2
+Economic Development ,3/11/2017,0,2
+Emergency Mgt Agency/MetroSafe,12/7/2013,5,24
+Emergency Mgt Agency/MetroSafe,5/9/2015,3,22
+Emergency Mgt Agency/MetroSafe,2/27/2016,4,20
+Emergency Mgt Agency/MetroSafe,2/24/2018,1,13
+Fire & Rescue                 ,2/13/2016,16,115
+Fire & Rescue                 ,7/2/2016,16,112
+Fire & Rescue                 ,7/29/2017,18,88
+Fire & Rescue                 ,12/30/2017,15,74
+Fire & Rescue                 ,12/15/2018,4,57
+Fleet & Facilities,7/4/2015,10,28
+Fleet & Facilities,7/2/2016,10,29
+Fleet & Facilities,7/30/2016,12,29
+Fleet & Facilities,12/30/2017,6,23
+Fleet & Facilities,11/3/2018,5,21
+Fleet & Facilities,12/15/2018,5,21
+Human Relations Commission    ,4/9/2016,1,4
+Human Relations Commission    ,5/7/2016,0,3
+Human Relations Commission    ,1/14/2017,0,3
+Human Relations Commission    ,7/15/2017,0,3
+Human Relations Commission    ,11/4/2017,0,3
+Human Relations Commission    ,7/27/2019,0,3
+Human Resources,7/5/2014,2,6
+Human Resources,7/18/2015,0,4
+Human Resources,11/7/2015,0,4
+Human Resources,12/1/2018,2,3
+Human Resources,2/9/2019,1,3
+Kentuckiana Works Foundation,4/26/2014,0,2
+Kentuckiana Works Foundation,8/2/2014,0,2
+Kentuckiana Works Foundation,7/18/2015,0,2
+Kentuckiana Works Foundation,8/1/2015,0,2
+Kentuckiana Works Foundation,2/25/2017,0,1
+Library,3/15/2014,13,72
+Louisville Metro Council      ,3/14/2015,2,16
+Louisville Metro Council      ,10/6/2018,1,8
+Louisville Metro Council      ,2/9/2019,0,7
+Louisville Metro EMS,10/7/2017,0,3
+Louisville Metro EMS,12/16/2017,0,4
+Mayor's Office                ,8/15/2015,0,4
+Mayor's Office                ,1/2/2016,0,6
+Mayor's Office                ,10/8/2016,0,6
+Mayor's Office                ,10/22/2016,0,6
+Mayor's Office                ,3/23/2019,2,5
+Metro Animal Services         ,6/7/2014,0,1
+Metro Animal Services         ,1/14/2017,0,1
+Metro Parks & Recreation,11/8/2014,15,70
+Metro Parks & Recreation,2/11/2017,13,53
+Metro Parks & Recreation,7/29/2017,10,54
+Metro Parks & Recreation,10/20/2018,7,41
+Metro Parks & Recreation,3/9/2019,6,40
+Metro Police,6/7/2014,15,232
+Metro Police,9/24/2016,21,160
+Metro Police,1/14/2017,18,146
+Metro Police,11/4/2017,20,109
+OMB ,7/4/2015,6,23
+OMB ,1/2/2016,4,23
+OMB ,10/7/2017,5,19
+OMB ,11/18/2017,6,19
+OMB ,4/7/2018,7,16
+OMB ,3/23/2019,7,15
+Parking Authority of River Cty,4/11/2015,1,9
+Parking Authority of River Cty,1/28/2017,1,5
+Public Health & Wellness,11/22/2014,0,2
+Public Health & Wellness,3/12/2016,0,3
+Public Health & Wellness,5/21/2016,0,3
+Public Health & Wellness,3/11/2017,1,3
+Public Health & Wellness,5/20/2017,1,3
+Public Health & Wellness,9/23/2017,1,3
+PW&A ,1/31/2015,17,84
+PW&A ,10/24/2015,21,76
+PW&A ,1/30/2016,27,73
+Waterfront Development Corp,12/7/2013,1,6
+Waterfront Development Corp,5/9/2015,2,6
+Waterfront Development Corp,2/27/2016,1,6
+Waterfront Development Corp,3/12/2016,1,6
+Youth Detention Services      ,4/26/2014,1,6
+Youth Detention Services      ,8/2/2014,1,6
+Youth Detention Services      ,7/18/2015,0,2
+Youth Detention Services      ,8/1/2015,0,2
+Youth Detention Services      ,11/7/2015,0,2
+Youth Detention Services      ,9/8/2018,2,2
+Zoo,11/22/2014,6,41
+Zoo,3/11/2017,4,37
+Zoo,3/10/2018,6,35
+Zoo,7/28/2018,8,33
+Belle of Louisville           ,12/6/2014,0,1
+Civic Innovation & Technology,8/1/2015,3,8
+Civic Innovation & Technology,8/29/2015,3,8
+Civic Innovation & Technology,2/25/2017,1,6
+Civic Innovation & Technology,10/20/2018,1,5
+Codes & Regulations,3/14/2015,6,20
+Codes & Regulations,6/20/2015,6,21
+Codes & Regulations,4/9/2016,5,21
+Codes & Regulations,5/7/2016,5,21
+Codes & Regulations,6/17/2017,7,23
+Codes & Regulations,10/6/2018,9,20
+Community Services,9/28/2013,4,18
+Community Services,7/19/2014,2,12
+Community Services,2/24/2018,3,9
+Coroner                       ,1/4/2014,0,5
+Coroner                       ,10/11/2014,0,5
+Coroner                       ,7/4/2015,0,4
+Coroner                       ,3/12/2016,0,2
+Coroner                       ,9/9/2017,0,5
+Corrections                   ,3/1/2014,0,1
+Corrections                   ,9/12/2015,0,1
+Corrections                   ,5/7/2016,0,1
+Corrections                   ,3/25/2017,0,1
+Corrections                   ,7/13/2019,0,2
+County Attorney               ,2/1/2014,0,7
+County Attorney               ,3/28/2015,0,6
+County Attorney               ,2/13/2016,0,4
+County Attorney               ,11/18/2017,0,3
+Develop Louisville,10/11/2014,4,14
+Develop Louisville,6/15/2019,2,5
+Economic Development ,12/7/2013,2,6
+Economic Development ,6/20/2015,0,3
+Economic Development ,8/15/2015,0,2
+Economic Development ,3/12/2016,0,2
+Economic Development ,10/8/2016,0,2
+Emergency Mgt Agency/MetroSafe,2/15/2014,4,24
+Emergency Mgt Agency/MetroSafe,4/11/2015,3,22
+Emergency Mgt Agency/MetroSafe,9/26/2015,5,21
+Emergency Mgt Agency/MetroSafe,3/26/2016,4,20
+Emergency Mgt Agency/MetroSafe,1/28/2017,4,18
+Emergency Mgt Agency/MetroSafe,3/10/2018,1,13
+Fire & Rescue                 ,3/1/2014,22,157
+Fire & Rescue                 ,1/17/2015,19,142
+Fire & Rescue                 ,7/18/2015,21,137
+Fire & Rescue                 ,3/25/2017,21,89
+Fire & Rescue                 ,8/12/2017,17,85
+Fire & Rescue                 ,7/13/2019,6,58
+Fleet & Facilities,6/7/2014,9,29
+Fleet & Facilities,1/2/2016,11,28
+Fleet & Facilities,10/22/2016,13,29
+Human Relations Commission    ,1/18/2014,2,4
+Human Relations Commission    ,9/13/2014,1,5
+Human Relations Commission    ,9/12/2015,0,5
+Human Relations Commission    ,12/1/2018,0,3
+Human Relations Commission    ,5/4/2019,0,3
+Human Resources,6/7/2014,1,6
+Human Resources,7/2/2016,1,2
+Human Resources,5/19/2018,1,3
+Human Resources,8/25/2018,2,4
+Kentuckiana Works Foundation,1/30/2016,0,1
+Library,10/6/2018,10,48
+Louisville Metro Council      ,7/5/2014,2,13
+Louisville Metro Council      ,7/15/2017,2,12
+Louisville Metro Council      ,8/25/2018,1,8
+Louisville Metro EMS,7/19/2014,0,6
+Louisville Metro EMS,10/21/2017,0,3
+Louisville Metro EMS,2/24/2018,0,4
+Mayor's Office                ,10/11/2014,0,5
+Mayor's Office                ,11/22/2014,0,5
+Mayor's Office                ,5/23/2015,0,4
+Mayor's Office                ,11/7/2015,1,6
+Mayor's Office                ,8/26/2017,0,6
+Mayor's Office                ,8/11/2018,1,5
+Mayor's Office                ,2/9/2019,2,5
+Metro Animal Services         ,11/21/2015,0,1
+Metro Animal Services         ,11/19/2016,0,1
+Metro Animal Services         ,11/4/2017,0,1
+Metro Parks & Recreation,10/10/2015,20,65
+Metro Parks & Recreation,6/18/2016,15,61
+Metro Parks & Recreation,8/13/2016,15,59
+Metro Parks & Recreation,12/31/2016,13,54
+Metro Parks & Recreation,9/23/2017,8,50
+Metro Police,1/3/2015,17,212
+Metro Police,11/21/2015,25,182
+Metro Police,11/19/2016,16,147
+Metro Police,4/20/2019,13,97
+OMB ,11/9/2013,11,28
+OMB ,10/21/2017,4,19
+OMB ,3/10/2018,5,15
+OMB ,7/28/2018,7,16
+Parking Authority of River Cty,12/7/2013,2,9
+Parking Authority of River Cty,9/12/2015,1,8
+Parking Authority of River Cty,1/16/2016,1,7
+Parking Authority of River Cty,1/27/2018,0,4
+Parking Authority of River Cty,3/24/2018,0,4
+Public Health & Wellness,8/29/2015,0,2
+Public Health & Wellness,10/24/2015,0,2
+Public Health & Wellness,3/9/2019,1,4
+PW&A ,9/28/2013,23,92
+PW&A ,3/15/2014,25,89
+PW&A ,9/27/2014,30,85
+PW&A ,9/10/2016,21,70
+PW&A ,12/31/2016,20,68
+Waterfront Development Corp,11/9/2013,1,6
+Waterfront Development Corp,10/24/2015,1,6
+Waterfront Development Corp,5/21/2016,1,6
+Waterfront Development Corp,5/20/2017,2,6
+Waterfront Development Corp,3/9/2019,2,3
+Youth Detention Services      ,6/7/2014,1,6
+Youth Detention Services      ,7/2/2016,0,4
+Youth Detention Services      ,12/30/2017,1,2
+Youth Detention Services      ,5/19/2018,1,2
+Youth Detention Services      ,7/14/2018,1,2
+Youth Detention Services      ,1/12/2019,1,2
+Youth Detention Services      ,4/6/2019,0,2
+Zoo,3/29/2014,7,45
+Zoo,5/9/2015,7,42
+Zoo,1/2/2016,11,39
+Zoo,4/23/2016,7,38
+Zoo,7/1/2017,4,36
+Zoo,6/30/2018,6,34
+Zoo,3/23/2019,9,31
+Belle of Louisville           ,10/11/2014,0,2
+Belle of Louisville           ,5/7/2016,0,1
+Belle of Louisville           ,8/26/2017,0,1
+Belle of Louisville           ,11/4/2017,0,1
+Belle of Louisville           ,8/11/2018,0,1
+Civic Innovation & Technology,9/24/2016,3,7
+Civic Innovation & Technology,1/14/2017,1,6
+Codes & Regulations,5/10/2014,4,22
+Community Services,3/14/2015,2,11
+Community Services,7/4/2015,2,11
+Community Services,10/24/2015,2,10
+Community Services,10/22/2016,2,8
+Coroner                       ,11/23/2013,0,5
+Coroner                       ,12/7/2013,0,5
+Coroner                       ,2/1/2014,0,5
+Coroner                       ,12/19/2015,0,3
+Coroner                       ,2/24/2018,0,6
+Coroner                       ,1/26/2019,0,7
+Corrections                   ,1/4/2014,0,1
+Corrections                   ,6/21/2014,0,1
+Corrections                   ,6/17/2017,0,1
+Corrections                   ,3/24/2018,0,1
+Corrections                   ,6/1/2019,0,2
+County Attorney               ,3/15/2014,0,7
+County Attorney               ,10/20/2018,0,4
+County Attorney               ,11/3/2018,0,4
+County Attorney               ,12/15/2018,0,4
+Develop Louisville,6/21/2014,6,16
+Develop Louisville,11/22/2014,5,13
+Develop Louisville,12/20/2014,5,12
+Develop Louisville,3/12/2016,3,11
+Develop Louisville,3/26/2016,3,11
+Develop Louisville,3/11/2017,1,9
+Develop Louisville,7/1/2017,2,8
+Develop Louisville,4/21/2018,4,7
+Develop Louisville,7/28/2018,4,6
+Economic Development ,1/4/2014,2,6
+Economic Development ,6/21/2014,2,5
+Economic Development ,12/31/2016,0,2
+Economic Development ,3/24/2018,0,1
+Economic Development ,6/15/2019,0,1
+Emergency Mgt Agency/MetroSafe,11/9/2013,4,24
+Emergency Mgt Agency/MetroSafe,11/23/2013,5,24
+Emergency Mgt Agency/MetroSafe,5/23/2015,3,22
+Emergency Mgt Agency/MetroSafe,12/30/2017,1,15
+Fire & Rescue                 ,9/28/2013,24,160
+Fire & Rescue                 ,10/25/2014,20,145
+Fire & Rescue                 ,8/29/2015,17,120
+Fire & Rescue                 ,6/18/2016,15,112
+Fire & Rescue                 ,1/14/2017,14,91
+Fleet & Facilities,9/28/2013,5,30
+Fleet & Facilities,6/18/2016,11,29
+Fleet & Facilities,1/13/2018,7,23
+Human Relations Commission    ,2/13/2016,1,4
+Human Relations Commission    ,7/29/2017,0,3
+Human Relations Commission    ,3/9/2019,0,3
+Human Resources,9/14/2013,0,7
+Human Resources,2/10/2018,1,4
+Human Resources,7/14/2018,1,3
+Kentuckiana Works Foundation,11/18/2017,0,1
+Kentuckiana Works Foundation,12/16/2017,0,1
+Library,11/8/2014,10,69
+Library,9/24/2016,12,59
+Library,7/29/2017,6,55
+Library,3/9/2019,7,47
+Louisville Metro Council      ,10/26/2013,2,14
+Louisville Metro Council      ,4/26/2014,3,14
+Louisville Metro Council      ,1/17/2015,2,15
+Louisville Metro Council      ,2/10/2018,1,10
+Louisville Metro Council      ,7/14/2018,1,8
+Louisville Metro EMS,9/28/2013,0,7
+Louisville Metro EMS,3/14/2015,0,5
+Louisville Metro EMS,7/4/2015,0,5
+Louisville Metro EMS,8/29/2015,0,5
+Louisville Metro EMS,6/18/2016,0,5
+Louisville Metro EMS,10/22/2016,0,5
+Mayor's Office                ,1/31/2015,0,4
+Mayor's Office                ,2/23/2019,2,5
+Metro Animal Services         ,12/21/2013,0,1
+Metro Animal Services         ,3/15/2014,0,1
+Metro Animal Services         ,12/17/2016,0,1
+Metro Animal Services         ,10/6/2018,0,1
+Metro Animal Services         ,11/17/2018,0,1
+Metro Parks & Recreation,3/1/2014,20,78
+Metro Parks & Recreation,10/25/2014,15,71
+Metro Parks & Recreation,1/16/2016,20,65
+Metro Parks & Recreation,1/14/2017,10,53
+Metro Parks & Recreation,3/25/2017,10,54
+Metro Parks & Recreation,5/6/2017,10,54
+Metro Parks & Recreation,7/13/2019,5,36
+Metro Police,3/15/2014,13,237
+Metro Police,12/17/2016,19,146
+Metro Police,7/29/2017,22,145
+Metro Police,12/30/2017,24,113
+Metro Police,10/6/2018,20,107
+Metro Police,11/17/2018,21,102
+OMB ,1/31/2015,7,23
+OMB ,7/18/2015,6,23
+OMB ,10/24/2015,5,23
+OMB ,1/30/2016,4,23
+OMB ,10/22/2016,5,19
+Parking Authority of River Cty,3/29/2014,2,9
+Parking Authority of River Cty,8/1/2015,1,9
+Parking Authority of River Cty,10/10/2015,1,8
+Parking Authority of River Cty,4/9/2016,1,7
+Parking Authority of River Cty,9/10/2016,1,7
+Public Health & Wellness,9/13/2014,0,2
+Public Health & Wellness,9/12/2015,0,2
+Public Health & Wellness,3/26/2016,0,3
+Public Health & Wellness,11/17/2018,1,4
+PW&A ,11/9/2013,28,92
+PW&A ,10/7/2017,14,57
+PW&A ,2/10/2018,17,55
+Waterfront Development Corp,9/13/2014,1,6
+Waterfront Development Corp,10/11/2014,1,6
+Waterfront Development Corp,3/26/2016,1,6
+Waterfront Development Corp,11/5/2016,2,6
+Waterfront Development Corp,1/13/2018,2,5
+Youth Detention Services      ,9/14/2013,0,6
+Youth Detention Services      ,2/15/2014,1,6
+Youth Detention Services      ,9/27/2014,1,6
+Youth Detention Services      ,3/14/2015,0,3
+Youth Detention Services      ,7/4/2015,0,2
+Youth Detention Services      ,10/22/2016,0,4
+Youth Detention Services      ,11/18/2017,1,2
+Zoo,12/21/2013,6,45
+Zoo,4/12/2014,6,45
+Zoo,7/19/2014,6,44
+Zoo,4/8/2017,5,35
+Zoo,11/17/2018,7,32
+Belle of Louisville           ,7/29/2017,0,1
+Civic Innovation & Technology,12/7/2013,4,9
+Civic Innovation & Technology,12/17/2016,1,6
+Codes & Regulations,3/29/2014,5,22
+Codes & Regulations,5/24/2014,3,21
+Codes & Regulations,1/31/2015,5,20
+Codes & Regulations,4/23/2016,5,22
+Codes & Regulations,8/13/2016,6,22
+Codes & Regulations,9/10/2016,6,22
+Community Services,6/3/2017,1,9
+Community Services,1/27/2018,2,9
+Coroner                       ,2/27/2016,0,2
+Coroner                       ,3/25/2017,0,4
+Coroner                       ,7/29/2017,0,6
+Coroner                       ,7/13/2019,0,7
+Corrections                   ,3/14/2015,0,1
+Corrections                   ,4/25/2015,0,1
+Corrections                   ,4/8/2017,0,1
+Corrections                   ,7/1/2017,0,1
+Corrections                   ,10/6/2018,1,2
+County Attorney               ,11/8/2014,0,6
+County Attorney               ,6/18/2016,0,4
+County Attorney               ,2/24/2018,0,3
+County Attorney               ,8/11/2018,0,4
+County Attorney               ,3/9/2019,0,4
+Develop Louisville,3/1/2014,6,16
+Develop Louisville,5/21/2016,2,11
+Economic Development ,8/16/2014,1,4
+Economic Development ,8/27/2016,0,2
+Economic Development ,5/18/2019,0,1
+Emergency Mgt Agency/MetroSafe,12/19/2015,3,19
+Emergency Mgt Agency/MetroSafe,7/16/2016,3,20
+Emergency Mgt Agency/MetroSafe,7/30/2016,3,20
+Emergency Mgt Agency/MetroSafe,9/24/2016,3,19
+Emergency Mgt Agency/MetroSafe,7/15/2017,3,17
+Emergency Mgt Agency/MetroSafe,1/12/2019,2,12
+Emergency Mgt Agency/MetroSafe,4/6/2019,2,12
+Emergency Mgt Agency/MetroSafe,7/27/2019,2,12
+Fire & Rescue                 ,11/9/2013,27,159
+Fire & Rescue                 ,3/15/2014,21,157
+Fire & Rescue                 ,2/14/2015,21,142
+Fire & Rescue                 ,8/25/2018,10,68
+Fleet & Facilities,12/7/2013,7,30
+Fleet & Facilities,2/28/2015,8,29
+Fleet & Facilities,8/29/2015,8,28
+Human Relations Commission    ,3/15/2014,1,4
+Human Relations Commission    ,5/9/2015,0,5
+Human Relations Commission    ,8/10/2019,0,3
+Human Resources,10/26/2013,0,7
+Human Resources,7/19/2014,2,5
+Human Resources,1/17/2015,0,4
+Human Resources,1/31/2015,0,5
+Human Resources,10/24/2015,0,4
+Human Resources,4/23/2016,1,3
+Human Resources,5/21/2016,1,3
+Human Resources,9/23/2017,0,4
+Human Resources,10/21/2017,0,4
+Kentuckiana Works Foundation,5/24/2014,0,2
+Kentuckiana Works Foundation,8/15/2015,0,2
+Kentuckiana Works Foundation,10/8/2016,0,1
+Kentuckiana Works Foundation,10/22/2016,0,1
+Kentuckiana Works Foundation,12/2/2017,0,1
+Kentuckiana Works Foundation,3/23/2019,0,2
+Library,11/23/2013,17,75
+Library,4/9/2016,9,59
+Library,11/19/2016,11,57
+Library,3/25/2017,4,54
+Library,12/30/2017,6,52
+Library,7/13/2019,9,43
+Library,7/27/2019,9,43
+Louisville Metro EMS,12/6/2014,0,6
+Louisville Metro EMS,7/2/2016,0,5
+Louisville Metro EMS,1/27/2018,0,4
+Mayor's Office                ,3/28/2015,1,4
+Mayor's Office                ,11/21/2015,1,6
+Mayor's Office                ,1/28/2017,0,6
+Mayor's Office                ,2/25/2017,0,6
+Mayor's Office                ,12/29/2018,1,5
+Metro Animal Services         ,1/17/2015,0,1
+Metro Animal Services         ,12/31/2016,0,1
+Metro Animal Services         ,3/10/2018,0,1
+Metro Parks & Recreation,9/24/2016,16,61
+Metro Parks & Recreation,9/9/2017,8,51
+Metro Parks & Recreation,5/19/2018,9,45
+Metro Parks & Recreation,11/3/2018,7,41
+Metro Parks & Recreation,1/12/2019,5,39
+Metro Parks & Recreation,7/27/2019,5,37
+Metro Police,11/22/2014,16,212
+Metro Police,6/2/2018,27,111
+OMB ,10/12/2013,11,28
+OMB ,2/15/2014,8,27
+OMB ,12/6/2014,7,24
+OMB ,1/16/2016,4,23
+Parking Authority of River Cty,7/4/2015,0,9
+Parking Authority of River Cty,4/22/2017,1,5
+Parking Authority of River Cty,1/12/2019,3,5
+Parking Authority of River Cty,6/15/2019,2,5
+Public Health & Wellness,4/12/2014,0,2
+Public Health & Wellness,8/16/2014,0,2
+Public Health & Wellness,12/20/2014,0,2
+Public Health & Wellness,1/3/2015,0,2
+Public Health & Wellness,4/8/2017,1,4
+Public Health & Wellness,6/3/2017,1,3
+Public Health & Wellness,4/21/2018,1,3
+Public Health & Wellness,6/1/2019,2,3
+PW&A ,10/25/2014,25,86
+PW&A ,10/22/2016,21,69
+PW&A ,2/25/2017,18,67
+PW&A ,11/18/2017,15,57
+PW&A ,9/22/2018,14,49
+Waterfront Development Corp,4/21/2018,1,3
+Waterfront Development Corp,11/3/2018,2,3
+Waterfront Development Corp,6/1/2019,2,3
+Youth Detention Services      ,3/29/2014,1,6
+Youth Detention Services      ,5/24/2014,1,6
+Youth Detention Services      ,12/16/2017,1,2
+Youth Detention Services      ,2/23/2019,1,2
+Zoo,6/21/2014,6,44
+Zoo,8/27/2016,4,39
+Zoo,3/24/2018,5,34
+Belle of Louisville           ,5/10/2014,0,2
+Belle of Louisville           ,12/20/2014,0,1
+Belle of Louisville           ,11/7/2015,0,1
+Belle of Louisville           ,7/28/2018,0,1
+Civic Innovation & Technology,9/14/2013,4,9
+Civic Innovation & Technology,9/27/2014,4,9
+Civic Innovation & Technology,6/20/2015,3,8
+Civic Innovation & Technology,1/28/2017,1,6
+Civic Innovation & Technology,6/3/2017,1,6
+Civic Innovation & Technology,6/17/2017,1,6
+Civic Innovation & Technology,12/29/2018,1,4
+Codes & Regulations,4/25/2015,5,21
+Codes & Regulations,7/16/2016,6,22
+Codes & Regulations,7/30/2016,5,22
+Codes & Regulations,9/24/2016,8,23
+Codes & Regulations,11/3/2018,10,20
+Community Services,12/7/2013,7,18
+Community Services,2/14/2015,2,11
+Community Services,8/25/2018,2,10
+Coroner                       ,8/16/2014,0,5
+Coroner                       ,6/16/2018,0,6
+Coroner                       ,9/22/2018,0,6
+Corrections                   ,2/28/2015,0,1
+Corrections                   ,10/10/2015,0,1
+Corrections                   ,6/18/2016,0,1
+Corrections                   ,8/13/2016,0,1
+Corrections                   ,8/12/2017,0,1
+County Attorney               ,4/26/2014,0,7
+County Attorney               ,8/2/2014,0,7
+County Attorney               ,6/6/2015,0,6
+County Attorney               ,12/3/2016,0,3
+County Attorney               ,7/14/2018,0,4
+County Attorney               ,9/8/2018,0,4
+County Attorney               ,6/15/2019,0,3
+Develop Louisville,3/28/2015,5,12
+Develop Louisville,4/7/2018,4,7
+Economic Development ,9/28/2013,0,6
+Economic Development ,3/15/2014,2,5
+Economic Development ,8/1/2015,0,3
+Economic Development ,8/29/2015,0,2
+Economic Development ,9/10/2016,0,2
+Economic Development ,2/24/2018,0,1
+Emergency Mgt Agency/MetroSafe,5/24/2014,5,23
+Emergency Mgt Agency/MetroSafe,10/24/2015,4,21
+Emergency Mgt Agency/MetroSafe,12/5/2015,3,19
+Emergency Mgt Agency/MetroSafe,1/30/2016,3,19
+Emergency Mgt Agency/MetroSafe,5/21/2016,4,20
+Emergency Mgt Agency/MetroSafe,3/11/2017,4,17
+Emergency Mgt Agency/MetroSafe,12/16/2017,1,15
+Fire & Rescue                 ,12/21/2013,28,159
+Fire & Rescue                 ,6/21/2014,22,156
+Fire & Rescue                 ,12/20/2014,19,142
+Fire & Rescue                 ,1/27/2018,11,69
+Fire & Rescue                 ,3/24/2018,9,69
+Fire & Rescue                 ,6/29/2019,6,58
+Fleet & Facilities,12/21/2013,8,30
+Fleet & Facilities,4/12/2014,10,30
+Fleet & Facilities,6/21/2014,9,29
+Fleet & Facilities,4/25/2015,8,29
+Fleet & Facilities,8/27/2016,13,29
+Fleet & Facilities,1/27/2018,7,23
+Human Relations Commission    ,4/26/2014,1,4
+Human Relations Commission    ,8/2/2014,2,5
+Human Relations Commission    ,1/3/2015,1,5
+Human Relations Commission    ,12/3/2016,0,3
+Human Relations Commission    ,7/14/2018,0,3
+Human Resources,12/19/2015,0,4
+Human Resources,9/9/2017,0,4
+Kentuckiana Works Foundation,11/23/2013,0,2
+Kentuckiana Works Foundation,3/26/2016,0,1
+Kentuckiana Works Foundation,7/15/2017,0,1
+Kentuckiana Works Foundation,4/21/2018,0,1
+Kentuckiana Works Foundation,1/26/2019,0,2
+Kentuckiana Works Foundation,4/20/2019,0,2
+Kentuckiana Works Foundation,7/27/2019,0,2
+Library,5/10/2014,13,72
+Library,11/22/2014,8,69
+Library,11/7/2015,10,60
+Library,3/10/2018,9,50
+Library,7/28/2018,12,49
+Library,2/9/2019,7,48
+Louisville Metro Council      ,12/19/2015,3,14
+Louisville Metro Council      ,9/9/2017,1,12
+Louisville Metro EMS,10/26/2013,0,6
+Louisville Metro EMS,1/4/2014,0,6
+Louisville Metro EMS,8/25/2018,0,4
+Mayor's Office                ,8/31/2013,1,5
+Mayor's Office                ,12/17/2016,0,6
+Mayor's Office                ,5/5/2018,1,5
+Mayor's Office                ,10/6/2018,1,5
+Mayor's Office                ,8/10/2019,1,5
+Metro Animal Services         ,8/1/2015,0,1
+Metro Animal Services         ,4/9/2016,0,1
+Metro Animal Services         ,9/22/2018,0,1
+Metro Parks & Recreation,9/12/2015,20,68
+Metro Parks & Recreation,4/23/2016,17,61
+Metro Parks & Recreation,12/16/2017,8,48
+Metro Parks & Recreation,1/27/2018,7,48
+Metro Parks & Recreation,2/10/2018,7,48
+Metro Parks & Recreation,3/24/2018,7,48
+Metro Parks & Recreation,3/23/2019,7,40
+Metro Police,1/18/2014,13,239
+Metro Police,12/5/2015,24,182
+Metro Police,9/22/2018,20,107
+OMB ,8/31/2013,11,28
+OMB ,12/17/2016,7,19
+OMB ,5/5/2018,7,16
+OMB ,8/10/2019,7,15
+Parking Authority of River Cty,1/17/2015,3,9
+Parking Authority of River Cty,12/31/2016,1,5
+Parking Authority of River Cty,9/23/2017,2,5
+Public Health & Wellness,8/30/2014,0,2
+Public Health & Wellness,1/31/2015,0,2
+Public Health & Wellness,2/14/2015,0,2
+Public Health & Wellness,2/27/2016,0,3
+Public Health & Wellness,6/18/2016,0,3
+Public Health & Wellness,4/22/2017,1,3
+PW&A ,2/27/2016,28,73
+PW&A ,3/12/2016,27,73
+PW&A ,5/20/2017,15,62
+PW&A ,6/2/2018,19,53
+Waterfront Development Corp,1/31/2015,3,6
+Waterfront Development Corp,12/2/2017,3,6
+Waterfront Development Corp,2/23/2019,2,3
+Youth Detention Services      ,9/13/2014,1,6
+Youth Detention Services      ,1/14/2017,1,3
+Youth Detention Services      ,1/13/2018,1,2
+Youth Detention Services      ,5/4/2019,0,2
+Zoo,2/28/2015,6,40
+Zoo,10/10/2015,8,41
+Zoo,6/18/2016,4,40
+Zoo,8/13/2016,4,40
+Zoo,8/12/2017,3,35
+Belle of Louisville           ,8/31/2013,1,3
+Belle of Louisville           ,4/25/2015,0,1
+Belle of Louisville           ,8/27/2016,0,1
+Belle of Louisville           ,5/5/2018,0,1
+Civic Innovation & Technology,6/7/2014,4,9
+Civic Innovation & Technology,7/2/2016,4,8
+Codes & Regulations,10/25/2014,6,20
+Codes & Regulations,12/20/2014,5,20
+Codes & Regulations,8/27/2016,7,23
+Codes & Regulations,11/19/2016,7,23
+Codes & Regulations,1/14/2017,7,22
+Codes & Regulations,11/4/2017,6,22
+Community Services,2/28/2015,2,11
+Community Services,8/29/2015,2,10
+Community Services,6/16/2018,1,9
+Coroner                       ,1/2/2016,0,3
+Coroner                       ,7/1/2017,0,4
+Coroner                       ,4/7/2018,0,6
+Coroner                       ,5/19/2018,0,6
+Coroner                       ,1/12/2019,0,7
+Coroner                       ,5/18/2019,0,7
+Corrections                   ,3/29/2014,0,1
+Corrections                   ,5/9/2015,0,1
+Corrections                   ,9/26/2015,0,1
+Corrections                   ,2/27/2016,0,1
+Corrections                   ,4/23/2016,0,1
+Corrections                   ,2/11/2017,0,1
+Corrections                   ,5/20/2017,0,1
+Corrections                   ,9/23/2017,0,1
+Corrections                   ,6/30/2018,1,2
+County Attorney               ,7/5/2014,0,7
+County Attorney               ,7/2/2016,0,4
+County Attorney               ,7/30/2016,0,4
+County Attorney               ,12/1/2018,0,4
+Develop Louisville,8/27/2016,2,10
+Develop Louisville,5/5/2018,4,7
+Develop Louisville,9/22/2018,4,6
+Economic Development ,3/29/2014,2,5
+Economic Development ,5/9/2015,0,3
+Economic Development ,9/26/2015,0,2
+Economic Development ,2/27/2016,0,2
+Economic Development ,4/23/2016,0,2
+Economic Development ,2/11/2017,0,2
+Economic Development ,5/20/2017,0,2
+Economic Development ,9/23/2017,0,2
+Economic Development ,6/30/2018,0,1
+Emergency Mgt Agency/MetroSafe,11/22/2014,3,22
+Emergency Mgt Agency/MetroSafe,6/2/2018,1,13
+Fire & Rescue                 ,6/7/2014,20,156
+Fire & Rescue                 ,5/6/2017,17,89
+Fleet & Facilities,3/14/2015,7,29
+Fleet & Facilities,7/18/2015,10,28
+Fleet & Facilities,7/16/2016,11,29
+Fleet & Facilities,9/24/2016,12,29
+Fleet & Facilities,2/25/2017,16,28
+Fleet & Facilities,11/18/2017,6,23
+Human Relations Commission    ,2/1/2014,2,4
+Human Relations Commission    ,10/25/2014,1,5
+Human Relations Commission    ,12/20/2014,1,5
+Human Relations Commission    ,3/28/2015,0,5
+Human Relations Commission    ,11/21/2015,1,4
+Human Relations Commission    ,11/19/2016,0,3
+Human Relations Commission    ,4/21/2018,0,3
+Human Relations Commission    ,4/20/2019,0,3
+Human Resources,3/14/2015,0,5
+Human Resources,7/4/2015,0,5
+Human Resources,2/25/2017,0,3
+Human Resources,11/18/2017,0,4
+Kentuckiana Works Foundation,6/7/2014,0,2
+Kentuckiana Works Foundation,7/2/2016,0,1
+Kentuckiana Works Foundation,12/30/2017,0,1
+Kentuckiana Works Foundation,7/14/2018,0,1
+Library,5/24/2014,14,72
+Library,2/14/2015,12,67
+Library,6/4/2016,12,59
+Library,12/17/2016,10,57
+Library,8/10/2019,9,43
+Louisville Metro Council      ,7/4/2015,2,15
+Louisville Metro Council      ,11/18/2017,1,11
+Louisville Metro EMS,2/14/2015,0,5
+Louisville Metro EMS,2/10/2018,0,4
+Louisville Metro EMS,6/16/2018,0,4
+Louisville Metro EMS,3/23/2019,0,4
+Mayor's Office                ,11/9/2013,1,5
+Mayor's Office                ,5/10/2014,0,5
+Mayor's Office                ,3/10/2018,0,5
+Mayor's Office                ,4/7/2018,0,5
+Mayor's Office                ,7/28/2018,1,5
+Metro Animal Services         ,7/5/2014,0,1
+Metro Animal Services         ,3/14/2015,0,1
+Metro Animal Services         ,7/18/2015,0,1
+Metro Animal Services         ,7/16/2016,0,1
+Metro Animal Services         ,7/30/2016,0,1
+Metro Animal Services         ,9/24/2016,0,1
+Metro Animal Services         ,2/25/2017,0,1
+Metro Animal Services         ,11/3/2018,0,1
+Metro Animal Services         ,12/1/2018,0,1
+Metro Animal Services         ,12/15/2018,0,1
+Metro Parks & Recreation,10/26/2013,20,80
+Metro Parks & Recreation,1/17/2015,17,67
+Metro Parks & Recreation,2/28/2015,15,67
+Metro Parks & Recreation,8/29/2015,18,68
+Metro Parks & Recreation,8/12/2017,9,53
+Metro Police,7/5/2014,16,230
+Metro Police,7/16/2016,21,156
+Metro Police,7/30/2016,21,156
+Metro Police,11/3/2018,19,106
+Metro Police,12/1/2018,20,102
+Metro Police,12/15/2018,19,101
+OMB ,2/14/2015,6,23
+OMB ,8/25/2018,6,16
+OMB ,2/9/2019,7,16
+Parking Authority of River Cty,5/9/2015,0,9
+Parking Authority of River Cty,9/26/2015,1,8
+Parking Authority of River Cty,2/27/2016,2,7
+Parking Authority of River Cty,4/23/2016,1,7
+Parking Authority of River Cty,5/20/2017,1,5
+Parking Authority of River Cty,6/30/2018,1,4
+Public Health & Wellness,3/29/2014,0,2
+Public Health & Wellness,5/9/2015,0,2
+Public Health & Wellness,10/10/2015,0,2
+Public Health & Wellness,12/31/2016,0,4
+Public Health & Wellness,6/30/2018,1,4
+PW&A ,10/26/2013,23,92
+PW&A ,1/17/2015,21,84
+PW&A ,2/28/2015,16,82
+PW&A ,8/29/2015,19,78
+PW&A ,8/12/2017,16,60
+PW&A ,12/16/2017,15,56
+PW&A ,6/16/2018,16,53
+PW&A ,2/23/2019,17,47
+Waterfront Development Corp,11/22/2014,3,6
+Waterfront Development Corp,5/23/2015,2,6
+Waterfront Development Corp,3/11/2017,3,6
+Waterfront Development Corp,8/26/2017,2,6
+Waterfront Development Corp,8/11/2018,2,3
+Youth Detention Services      ,9/24/2016,0,4
+Youth Detention Services      ,11/5/2016,0,3
+Youth Detention Services      ,12/3/2016,0,3
+Youth Detention Services      ,2/25/2017,1,4
+Zoo,12/7/2013,9,45
+Zoo,8/15/2015,6,41
+Zoo,3/12/2016,7,38
+Zoo,10/8/2016,4,40
+Zoo,10/21/2017,6,34

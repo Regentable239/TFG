@@ -1,0 +1,365 @@
+"Job_Code","Job_Name","Job_ABBRV","Job_id"
+"352","Fire Fighter-96 hr","Fire Fight",1
+"046","Information Technology Mgr-EXM","InfoTechMg",2
+"151","Supvr Prks/Rec Mnt & Const-EXM","Spv P/R Mn",3
+"110","Division Manager","Div MGR",4
+"052","Clerk Typist 2","Clerk Typ2",5
+"313","Co-Op/Student Intern 3","Co-Op/Int3",6
+"953","Parks/Recreation Program Ldr","P/R Prg Ld",7
+"909","Recreation Specialist","Rec Specls",8
+"054","Chemist-EXM","Chemist",9
+"023","Council Assistant","CounclAsst",10
+"139","Computer Systems Analyst-EXM","Computer S",11
+"911","Lifeguard","Lifeguard",12
+"094","Management Analyst-EXM","Management",13
+"578","Service Area Coordinator-EXM","SvcAreaCor",14
+"369","Fire Apparatus Operator-96 hr","FAO",15
+"359","Fire Captain-96 hr","Fire Capt",16
+"932","Municipal Worker","Munc Wkr",17
+"377","Police Officer","Police Off",18
+"111","Senior Accountant-EXM","Senior Acc",19
+"515","Supervising Engineer-EXM","Supv Eng",20
+"008","Administrative Technician-EXM","Administra",21
+"321","Finance Manager-EXM","Finance Mg",22
+"360","Fire District Chief-96 hr","FirDistrCh",23
+"119","Plant Supervisor-EXM","Plant Supe",24
+"089","Human Resources Analyst-EXM","Human Reso",25
+"395","Emergency 911 Operator","911 Oper",26
+"043","Senior Cmptr/Prgrmr Anlyst-EXM","Senior Com",27
+"597","Park Naturalist","Park Natur",28
+"465","Asst Supvr of Constructn Insp","AstSpvrCtn",29
+"266","Medical Assistant","Med Asst",30
+"013","Senior Admin Spec-EXM","Senior Adm",31
+"304","Treatment Supervisor-EXM","Treatment",32
+"712","Plant Maintenance Specialist","PlntMaintS",33
+"888","Public Services Director","PubSrvDir",34
+"167","Senior Asst City Solicitor-EXM","SrAsCtySol",35
+"405","Emergency Srvcs Dsptch Supvr","Emergency",36
+"434","Inspector  1","Inspector1",37
+"177","Senior Management Analyst-EXM","Senior Man",38
+"535","Deputy Director","Dep Dir",39
+"407","Operator And Dispatcher","Oper Disp",40
+"908","Pool Manager","Pool Manag",41
+"166","Asst City Solicitor-EXM","AstCtySol",42
+"358","Fire Lieutenant-96 hr","Fire Lieut",43
+"284","Senior Chemist-EXM","Senior Che",44
+"430","Inspector Trainee","InspectTrn",45
+"357","Paramedic Training Officer","ParTrngOff",46
+"539","Water Works Chief Engineer-EXM","WW ChEng",47
+"273","Senior Engineer-EXM","Sen Enginr",48
+"709","Plant Operator 2","PlantOper2",49
+"242","Health Programs Manager-EXM","Health Pro",50
+"651","Truck Driver","Truck Driv",51
+"986","Optometrist","Optometris",52
+"168","Asst Treatment Supt-EXM","Ast Trt Sp",53
+"021","Civil Service Commissioner","CvlServCmm",54
+"523","Civil Engineering Technician 3","CET 3",55
+"159","Supvg Hmn Resrcs Anl-EXM","Supv HR An",56
+"252","Dentist-EXM","Dentist",57
+"385","Police Lieutenant","Police Lt",58
+"149","Senior Human Res Analyst-EXM","Sr HR Anl",59
+"001","Administrative Specialist-EXM","Administra",60
+"364-8","Assistant Fire Chief-80 hr","AsstFireCh",61
+"258","Accountant - EXM","Accountant",62
+"759","Water Works Maint Field Supvr","WWMntFldS",63
+"277","Public Health Nurse 2","PH Nurse 2",64
+"247","Public Health Consultant","HlthConsu",65
+"826","Emergency Comm Asst Mgr","EmCommAM",66
+"755","Water Works Maintenance Worker","WWMaintWrk",67
+"041","Supervising Management Analyst","SupvMgmAn",68
+"658","Motor Equipment Operator 2","MEO 2",69
+"805","Sewer Maintenance Crew Leader","Sewer Main",70
+"307","Supervising Epidemiologist","Supv Epide",71
+"256","Treatment Superintendent-EXM","Treatment",72
+"217","Legal Assistant-EXM","Legal Asst",73
+"274","Nurse Practitioner-EXM","Nurse Prac",74
+"165","Senior Engineering Technician","Senior Eng",75
+"520","Electrical Maintnce Supvr-EXM","Electrical",76
+"931","Administrative Hearing Officer","AdminOfcr",77
+"601","Laborer","Laborer",78
+"619","Heat Ventilation & Air Conditi","Heat Venti",79
+"045","Information Tech Asst Mgr-EXM","InfoTechAM",80
+"920","School Crossing Guard","Xing Guard",81
+"062","Clerk Typist 3","Clerk Typ3",82
+"656","Sanitation Specialist","SanitSpec",83
+"602","Sanitation Helper","SanittHlpr",84
+"144","Pub Wrks Oprtns Supvr-EXM","PW Opr Spv",85
+"053","Buyer-EXM","Buyer",86
+"044","Technical Systems Analyst-EXM","TechSysAna",87
+"108","Assistant Finance Director","Ast Fin Dr",88
+"254","Supvg Accountant-EXM","Supv Acct",89
+"621","Painter","Painter",90
+"384","Police Sergeant","Police Sgt",91
+"634","Carpenter","Carpenter",92
+"632","Cement Finisher","Cement Fin",93
+"613","Electrical Maint Worker 1","Emw 1",94
+"156","Senior Development Officer-EXM","Senior Dev",95
+"510","Engineer Intern-EXM","Engineer I",96
+"630","Bricklayer","Bricklayer",97
+"849","Florist","Florist",98
+"198","Wastewater Collction Supvr-EXM","Wastewater",99
+"841","Tree Maintenance Worker","Tree Maint",100
+"626","Plumber","Plumber",101
+"617","Electrician","Electrici",102
+"027","Council Member","CouncilMem",103
+"614","Electrical Maint Worker 2","Emw 2",104
+"026","Mayor","Mayor",105
+"251","Dental Assistant","DentalAsst",106
+"576","Development Manager-EXM","Devlp Mgr",107
+"640","Supervisor of Maintenance","SupvMaint",108
+"855","Facility Maintenance Specialis","FacMntSpec",109
+"622","Painter Crew Leader","PaintCrLdr",110
+"701","Plant Maintenance Worker","PlntMaintW",111
+"358-8","Fire Lieutenant-80 hr","Fire Lt",112
+"360-8","Fire District Chief-80 hr","Dist Chief",113
+"867","Bldg & Grnds Mnt Crw Ldr-EXM","BldGrnMCL",114
+"382","Police Specialist","PoliceSpec",115
+"191","Asst To The City Solicitor-EXM","AtoSolictr",116
+"047","Senior Bldng Plans Examner-EXM","Bldg Pln E",117
+"216","Principal Engineer-EXM","Principal",118
+"122","Permit Technician 1","PermiTech1",119
+"880","Printing Srvc & Stores Mgr-EXM","Printing S",120
+"235","Senior Real PropertySpecialist","SrRlPropSp",121
+"141","Supervising Buyer-EXM","Supv Buyer",122
+"521","Civil Engineering Technician 1","CET1",123
+"754","Water Works Maintenance Crew L","WWMaintCrw",124
+"690","Parking Enforcement Officer &","PEO&Meter",125
+"725","Sewer Construction Inspector","MSDConInsp",126
+"972","Contract Compliance Spec-EXM","CompSpec",127
+"457","Senior Sanitarian","SrSanitari",128
+"756","Customer Relations Representat","CustRelRep",129
+"429","Inspector 2","Inspector2",130
+"101","Parks/Rec Maintenance Crew Ldr","P/R MtncCL",131
+"657","Motor Equipment Operator 1","MEO1",132
+"016","Asst To The City Manager-EXM","Ast to CM",133
+"723","Wastewater Collection Eq Spec","WWCollEqSp",134
+"875","Supervising Storekeeper","SupStorekp",135
+"074","CCA Director","CCA Dir",136
+"463","Water Works Construction Inspe","WWConstIns",137
+"689","Parking Enforcement Officer","PrkgEnfOff",138
+"667","Automotive Mechanic","Auto Mech",139
+"752","Water Works Valve Operator 1","ValveOper1",140
+"084","Engineering Technical Spvr","Eng Tch Sp",141
+"289","Laboratory Technician 2","Lab Tech 2",142
+"386","Police Captain","PoliceCapt",143
+"456","Sanitarian","Sanitarian",144
+"472","Public Works Inspector 2","PW Insp 2",145
+"582","Community Center Director","ComCtrDir",146
+"707","Plant Operator 1","PlantOper1",147
+"762","Supvr of Water Dist Mnt-EXM","SupWtrDist",148
+"201","Occupational Sfty/Hlth Crd-EXM","Occ Saf Cr",149
+"131","Supvg Envrnmntl/Sfty Spc-EXM","SupvEnvSaf",150
+"373","Crime Analyst","CrimeAnl",151
+"751","Water Works Valve Operator 2","ValveOper2",152
+"999","Internal Audit Manager-EXM","Int Aud Mg",153
+"035","Deputy Clerk","Dep Clerk",154
+"259","Environmental Services Dir-EXM","Environmen",155
+"721","Wastewater Collection Crew Lea","WWCollLdr",156
+"486","Supervising City Planner-EXM","SupvPlannr",157
+"388","Assistant Police Chief","AsstPolChf",158
+"203","Public Health Educator-EXM","Public Hea",159
+"767","Water Customer Service Rep 1","CustSrvRe1",160
+"606","Pretreatment Specialist","PretreatSp",161
+"522","Civil Engineering Technician 2","CET 2",162
+"278","Public Health Nurse 3","PH Nurse 3",163
+"674","Maint Fabrication Specialist","MntFabSpec",164
+"095","Nursing Supervisor-EXM","Nursing Su",165
+"604","Utility Technician","Util Tech",166
+"233","Pharmacy Director-EXM","Pharmacy D",167
+"757","Water Works Dispatcher","WWDispatc",168
+"314","Co-Op/Student Intern 4","Co-Op/Stud",169
+"311","Co-Op/Student Intern 1","Co-Op/Int1",170
+"091","Industrial Investigator-EXM","Industrial",171
+"352-8","Fire Fighter-80 hr","Firefighte",172
+"120","Retirement Director","Retire Dir",173
+"257","Pub Wks/Utilities Supt-EXM","PW/Ut Spt",174
+"874","Storekeeper","Storekeepe",175
+"265","City Planner-EXM","Cty Planr",176
+"170","City Solicitor-EXM","City Solic",177
+"551","Supvg Parks/Recreation Crd-EXM","SupRecCoor",178
+"106","Accounting Technician 3","AcctTech3",179
+"641","Maintenance Crew Leader","MaintCrwLd",180
+"529","Supvg Bldg Plns Exm Cd Anl-EXM","SupBldPln",181
+"919","Parking Attendant","PrkgAttdt",182
+"020","City Manager-EXM","City Mgr",183
+"891","Assistant City Manager","Ast Cty Mg",184
+"542","Facilities Manager-EXM","Facilities",185
+"998","Spvg Real Estate Specialist","SpRESp",186
+"435","Supervising Inspector","SupInspect",187
+"264","Asst Spvr of Inspections","As Spv Ins",188
+"267","Casework Associate","Casework A",189
+"200","Dietitian-EXM","Dietitian",190
+"157","Chief Counsel-EXM","Chief Coun",191
+"253","Pub Wrks Oprtns Supt-EXM","Public Wor",192
+"611","Electrical Maintenance Worker3","EMW3",193
+"497","Engineering Technician 3","Eng Tech 3",194
+"675","Maint. Fabrication Crew Leader","MntFabCrLd",195
+"404","Radio Operator-Technician 2","RadioOper2",196
+"255","Supvg Architect-EXM","Supv Arch",197
+"262","Public Health Pediatrician-EXM","PH Pedtrcn",198
+"408","Asst Operator And Dispatcher","Asst Oper",199
+"703","Plant Operator 2 - Ohio Class","PlantOper2",200
+"295","Pharmacy Technician","Pharm Tech",201
+"130","Senior Envrnmntl/Sfty Spec-EXM","Senior Env",202
+"441","Zoning Plan Examiner-EXM","Zoning Pla",203
+"474","Wastewater Collection Inspecto","WW ColIns",204
+"768","Water Customer Service Rep 2","CustSrvRe2",205
+"695","Welder Helper","Welder Hlp",206
+"291","Laboratory Technician 4","Lab Tech 4",207
+"459","Sanitarian-In-Training","SanitarTrn",208
+"685","Asst Fleet Srvcs Mgr-EXM","AstFleetMg",209
+"375","Police Criminalist","Police Cri",210
+"620","Sign Painter","Sign Paint",211
+"042","Computer Programmr/Analyst-EXM","Computer P",212
+"983","Employmnt & Training Supvr-EXM","Employment",213
+"461","Litter Control Officer","LitterCont",214
+"028","Senior Police Technician","Sr Pol Tec",215
+"458","Supvg Sanitarian-EXM","SupvSantrn",216
+"250","Dental Hygienist","Dental Hyg",217
+"061","Clerk 3","Clerk 3",218
+"223","Chief Appraiser","Chief Apsr",219
+"541","Asst Facilities Mntnc Mgr-EXM","AsstFMMgr",220
+"107","Pharmacist-EXM","Pharmacist",221
+"686","Fleet Services Manager-EXM","Fleet Serv",222
+"487","Urban Conservator-EXM","Urban Cons",223
+"603","Utility Laborer","UtilityLab",224
+"359-8","Fire Captain-80 hr","FireCapt80",225
+"051","Clerk 2","Clerk 2",226
+"494","Electronics Technician 2","ElecTech 2",227
+"208","City Architect-EXM","City Archi",228
+"286","Supervising Chemist-EXM","Supv Chem",229
+"100","Accounting Technician 1","AcctTech 1",230
+"282","Nursing Director-EXM","Nursing Di",231
+"924","Water Works Guard","WW Guard",232
+"607","Building Maintenance Worker","BldgMaint",233
+"249","Public Health Practitioner-EXM","Public Hea",234
+"713","Plant Operator 2-OH Cert 3","PlantOp2C3",235
+"518","Principal Architect-EXM","Principal",236
+"720","Service Crew Leader","ServCrwLdr",237
+"692","Parking Superintendent-EXM","Parking Su",238
+"066","Development Officer-EXM","Dev Offcr",239
+"758","Senior Customer Relations Rep","SrCusRelRp",240
+"367-8","Fire Specialist-80 hr","Fire Spec",241
+"987","Optician","Optician",242
+"029","Law Enforcement Instructor","LawEfInstr",243
+"188","Real Estate Manager-EXM","RE Mgr",244
+"312","Co-Op/Student Intern 2","Co-Op/int2",245
+"178","Medical Director-EXM","Medical Di",246
+"227","Dental Director-EXM","Dental Dir",247
+"150","Senior Internal Auditor-EXM","Sr Int Aud",248
+"679","Maintenance Machinist","MaintMach",249
+"696","Welder","Welder",250
+"708","Structures Maintenance Worker","StructMain",251
+"088","Health Counselor-EXM","Health Cou",252
+"009","Investigator-EXM","Investigat",253
+"239","Expanded Function Dental Asst","EFDentAsst",254
+"072","Environmental/Safety Spec-EXM","Environmen",255
+"098","Fleet Services Supervisor","Fleet Spvr",256
+"197","Vital Statistics Coord-EXM","Vital Stat",257
+"926","City Planning Technician 2","PlanTech 2",258
+"039","Asst Supvr of Customer Service","AstSpvrCSv",259
+"927","City Planning Technician 3","PlanTech 3",260
+"672","Asst Supvr of Fleet Services","AstSupFlSv",261
+"504","Surveyor","Surveyor",262
+"234","Real Property Specialist","RealPropSp",263
+"104","Plant Maintenance Supvr-EXM","Plnt Mnt S",264
+"193","Support Services Specialst-EXM","SupSpvsSpe",265
+"152","Senior City Planner-EXM","Senior Cit",266
+"143","Senior Buyer-EXM","Senior Buy",267
+"080","Graphic Designer-EXM","Graphic De",268
+"824","Information Technology Coor","InfoTechCr",269
+"503","Supvg Surveyor-EXM","SupvSurvyr",270
+"169","Deputy City Solicitor-EXM","DepCitSolc",271
+"970","Transportation & Eng Dir","TrnsEngDir",272
+"389","Police Chief","Police Chf",273
+"221","Health Counseling Supvr-EXM","Health Cou",274
+"511","Architect Intern-EXM","Architect",275
+"225","Senior Real Est Spec-EXM","Sr Rl Es S",276
+"490","City Planning Director-EXM","Cty Pln Dr",277
+"365","Fire Chief        80 hr","Fire Chief",278
+"033","Environmental Programs Mgr-EXM","Env Prg Mg",279
+"004","ETS Director-EXM","ETS Dir",280
+"498","Engineering Technician 4","Eng Tech 4",281
+"115","Finance Director-EXM","Finance Dr",282
+"869","Supervisor of Urban Forestry","SupUrbFors",283
+"988","Optometric Technician","Optometric",284
+"704","Senior Plant Operator","Sr Plnt Op",285
+"187","Law Chief of Staff","LawChfStff",286
+"735","Director of Water-EXM","Dir of Wtr",287
+"609","Supvr Of Industrial Waste-EXM","SupIndWast",288
+"660","Automotive Street Cleaning Equ","AutoStCln",289
+"196","Video Production Spec-EXM","Video Prod",290
+"525","Deputy Public Works Dir-EXM","Dep PW Dr",291
+"411","Public Vehicle Investigator","PubVehInv",292
+"871","Urban Forestry Specialist","UrbanFstyS",293
+"305","Epidemiologist","Epidemiolo",294
+"682","Parking Services Supvr-EXM","Parking Se",295
+"534","Deputy Director Econ Inclusion","Dep Dir EI",296
+"559","Assistant Recreation Director","Ast Rec Dr",297
+"984","Director Community & Econ Dev","DirCED",298
+"677","Automotive Mechanic-Crew Chief","AutoCrwChf",299
+"050","Senior Architect-EXM","Sen Archtc",300
+"691","Asst Supvr of Prkng Svcs-EXM","AsstSupPrk",301
+"350","Paramedic Coordinator-EXM","Paramedic",302
+"056","Computer Operator 2","CompOper2",303
+"211","Supvg Dietitian-EXM","SupvDietcn",304
+"086","Secretary","Secretary",305
+"508","Engineering Geologist-EXM","Engineerin",306
+"199","Wic Program Coordinator-EXM","Wic Progra",307
+"105","Accounting Technician 2","AcctTech 2",308
+"821","Communications Supervisor","Comm Supvr",309
+"288","Laboratory Technician 1","Lab Tech 1",310
+"659","Motor Equipment Operator 3","MEO 3",311
+"180","Senior Plant Supervisor-EXM","Senior Pla",312
+"114","Director of Economic Inclusion","Econ Inc D",313
+"989","Deputy Director Water & Sewer","DepDirWS",314
+"155","Human Resources Director-EXM","HR Dir",315
+"347","Graphic Design Supvr-EXM","Graphic De",316
+"372","Senior Crime Analyst","SrCrimeAnl",317
+"059","Dir of Perform & Data Analytic","DirP&DA",318
+"195","Utilities Const Inspect-EXM","Utilities",319
+"205","Health Commissioner-EXM0","Hlth Comm",320
+"446","Building & Inspections Dir-EXM","Bldg In Dr",321
+"825","Senior Info Technology Coor","SrInfoTchC",322
+"895","Airport Maintenance Worker","AirMntWrkr",323
+"784","Wastewater Collection Pipelaye","WWCollPip",324
+"530","Sewers Director-EXM","Sewers Dir",325
+"985","Deputy Dir Community & Econ De","DepDirCED",326
+"204","Assistant Health Commissioner","Ast Hlth C",327
+"280","Breast Feeding Peer Counselor","BFP Coun",328
+"842","Tree Maintenance Crew Leader","TreeMainCr",329
+"560","Recreation Director-EXM","Recrtn Dir",330
+"865","Parks Director-EXM","Parks Dir",331
+"828","Emergency Comm Center Dir","ECC Dir",332
+"770","Cement Gun Utility Worker","Cem GunWrk",333
+"290","Laboratory Technician 3","Lab Tech 3",334
+"376","Police Recruit","Police Rec",335
+"791","Traffic Aids Worker","TrafficAid",336
+"065","Supervising Clerk","Supvg Clrk",337
+"902","Cleaner","Cleaner",338
+"567","Turf Manager","Turf Manag",339
+"236","Supervising Real Property Spec","SupRlPrSpc",340
+"049","Clerk Typist 1","Clerk Typ1",341
+"673","Maint Fabrication Apprentice","MntFabAppr",342
+"214","Home Health Aide","HomeHltAid",343
+"799","Equipment Dispatcher 2","EquipDis2",344
+"413","Telecommunication Specialist 2","TeleSpec2",345
+"460","Industrial Waste Inspector","IndWaste",346
+"879","Reproduction Machine Oper 3","RepreMach3",347
+"665","Tire Repair Worker","TireRepair",348
+"287","Laboratory Assistant","Lab Asst",349
+"790","Supvg Traffic Aids Worker","SupTrafAid",350
+"396","Asst Fire Alarm Operator And D","Asst Alarm",351
+"030","Police Technician","PoliceTech",352
+"683","City Stormwater Mgmt Engnr-EXM","City Storm",353
+"219","Peap Coordinator-EXM","Peap Coord",354
+"263","Public Health Physician-EXM","PH Physcn",355
+"190","Zoning Hearing Examiner","ZongHrgExm",356
+"154","Senior Comm Dev Analyst-EXM","Sr CD Anal",357
+"024","Chief Deputy Clerk Of Council","Ch DepClk",358
+"058","CommunityDvlpmnt&Plan Anal-EXM","ComD&P An",359
+"092","Internal Auditor-EXM","Internal A",360
+"261","Public Health Internist-EXM","PH Intern",361
+"323","Training Coordinator","TrainCoord",362
+"135","Commercial Services Supt-EXM","Commercial",363
+"025","Clerk Of Council","Clk Councl",364

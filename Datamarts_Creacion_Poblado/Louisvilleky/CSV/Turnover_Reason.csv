@@ -1,0 +1,27 @@
+"Description_Reason","Description_Leave_Type","Turnover_Reason_id"
+"UNKNOWN","UNKNOWN",1
+"End Temporary Employment","Temp/Seasonal",2
+"Normal Retirement","Retired",3
+"Dismissed during Probation","Involuntary",4
+"Resignation","Voluntary",5
+"Administration Change","Involuntary",6
+"Job Abandonmnt - DO NOT REHIRE","Voluntary",7
+"End Seasonal Employment","Temp/Seasonal",8
+"Dismissed - DO NOT REHIRE","Involuntary",9
+"Term Due to Lay Off","Involuntary",10
+"Elimination of Position","Involuntary",11
+"No Show - DO NOT REHIRE","Other",12
+"Resignation - DO NOT REHIRE","Voluntary",13
+"Resigned during Probation","Voluntary",14
+"Early Retirement","Retired",15
+"Death","Other",16
+"Dismissed - Elig for Rehire","Involuntary",17
+"Resigned in Lieu of Dismissal","Voluntary",18
+"Release (BXers)","Involuntary",19
+"Health Reasons","Other",20
+"Disability","Retired",21
+"Dismissed Probtn - NO REHIRE","Involuntary",22
+"Normal Retire - DO NOT REHIRE","Retired",23
+"Failure to Return from Leave","Voluntary",24
+"Unable To Accommodate","Involuntary",25
+"Unsatisfactory Performance","Involuntary",26

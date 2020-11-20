@@ -1,0 +1,62 @@
+"OSHA_Description";"OSHA_Type_id"
+"Animal Bite";1
+"Bite";2
+"Burn from heat";3
+"Chest Pain";4
+"Contusion/Bruise";5
+"Cut or Laceration";6
+"Cut, laceration or scratches";7
+"Sprain  (ligament)";8
+"Sprain or Strain";9
+"Sudden Illness";10
+"Fracture";11
+"Wound from a weapon";12
+"Foreign Body";13
+"Foreign Body (splinter)";14
+"Human Bite";15
+"Infection";16
+"Other";17
+"Bloodborne Disease";18
+"Bloodborne Pathogen Exposure";19
+"Concussion-Brain, cerebral";20
+"Contact dermatitis (Rash, Poison Ivy)";21
+"Inflammation";22
+"Inhilation of an unknown substance";23
+"Respiratory Disorders";24
+"Respiratory Irritation";25
+"Puncture";26
+"NULL";27
+"Dislocation";28
+"Burn";29
+"Burn from chemical";30
+"Heat Illness";31
+"Multiple injuries";32
+"Multiple natures";33
+"Inflamation";34
+"Irritation";35
+"Strain (muscle/tendon)";36
+"Tear of muscle/tendon/ligament";37
+"Crushing";38
+"Cumulative Injury";39
+"Eye Injury";40
+"Hernia";41
+"Hyperextension";42
+"Dehydration";43
+"Insect Bite";44
+"Poisoning - Chemical";45
+"Scratches, abrasions-superficial";46
+"Electric Shock, electrocution";47
+"Insect Sting";48
+"Poisoning - animal / insect";49
+"Carpal Tunnel";50
+"Exhaustion";51
+"Tendonitis";52
+"Chemical Exposure";53
+"Cold Illness";54
+"Privacy";55
+"Exposure to Substance";56
+"Amputation or enucleation";57
+"Stress";58
+"Hernia, rupture";59
+"Bacteria";60
+"Asthma";61

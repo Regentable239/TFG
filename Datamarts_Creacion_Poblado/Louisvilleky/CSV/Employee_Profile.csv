@@ -1,0 +1,404 @@
+"Type_Employee","Age_Range","Ethnic_Group","Gender","Years_Worked_Range","Employee_Profile_id"
+"TEMPORAL","UNKNOWN","UNKNOWN","UNKNOWN","UNKNOWN",1
+"TEMPORAL","60 to 74 years","WHITE","MALE","5 to 9.9 years",2
+"UNKNOWN","45 to 59 years","WHITE","MALE","1 to 4.9 years",3
+"REGULAR","45 to 59 years","WHITE","MALE","Over 20",4
+"TEMPORAL","Under 20","WHITE","MALE","Under 1 year",5
+"REGULAR","30 to 44 years","WHITE","FEMALE","Under 1 year",6
+"TEMPORAL","20 to 29 years","WHITE","MALE","1 to 4.9 years",7
+"TEMPORAL","Under 20","HISPA","MALE","1 to 4.9 years",8
+"REGULAR","UNKNOWN","UNKNOWN","UNKNOWN","UNKNOWN",9
+"REGULAR","60 to 74 years","WHITE","FEMALE","Under 1 year",10
+"TEMPORAL","20 to 29 years","WHITE","MALE","Under 1 year",11
+"REGULAR","20 to 29 years","BLACK","MALE","1 to 4.9 years",12
+"REGULAR","60 to 74 years","WHITE","MALE","1 to 4.9 years",13
+"REGULAR","45 to 59 years","BLACK","FEMALE","Over 20",14
+"REGULAR","60 to 74 years","WHITE","FEMALE","5 to 9.9 years",15
+"REGULAR","60 to 74 years","BLACK","FEMALE","5 to 9.9 years",16
+"REGULAR","45 to 59 years","WHITE","FEMALE","10 to 14.9 years",17
+"REGULAR","45 to 59 years","WHITE","FEMALE","5 to 9.9 years",18
+"UNKNOWN","Under 20","BLACK","MALE","Under 1 year",19
+"UNKNOWN","20 to 29 years","BLACK","FEMALE","Under 1 year",20
+"UNKNOWN","20 to 29 years","WHITE","MALE","1 to 4.9 years",21
+"REGULAR","20 to 29 years","WHITE","FEMALE","Under 1 year",22
+"REGULAR","30 to 44 years","WHITE","FEMALE","Over 20",23
+"REGULAR","20 to 29 years","BLACK","MALE","5 to 9.9 years",24
+"TEMPORAL","30 to 44 years","WHITE","MALE","Under 1 year",25
+"REGULAR","30 to 44 years","BLACK","MALE","Over 20",26
+"TEMPORAL","Under 20","BLACK","MALE","Under 1 year",27
+"REGULAR","45 to 59 years","WHITE","FEMALE","Over 20",28
+"UNKNOWN","20 to 29 years","WHITE","MALE","5 to 9.9 years",29
+"TEMPORAL","Under 20","WHITE","FEMALE","Under 1 year",30
+"REGULAR","30 to 44 years","WHITE","FEMALE","1 to 4.9 years",31
+"REGULAR","20 to 29 years","WHITE","MALE","Under 1 year",32
+"UNKNOWN","30 to 44 years","WHITE","MALE","Under 1 year",33
+"TEMPORAL","30 to 44 years","WHITE","FEMALE","1 to 4.9 years",34
+"TEMPORAL","30 to 44 years","WHITE","MALE","1 to 4.9 years",35
+"REGULAR","20 to 29 years","WHITE","FEMALE","5 to 9.9 years",36
+"REGULAR","30 to 44 years","WHITE","MALE","1 to 4.9 years",37
+"REGULAR","30 to 44 years","BLACK","FEMALE","Under 1 year",38
+"UNKNOWN","30 to 44 years","WHITE","MALE","Over 20",39
+"REGULAR","20 to 29 years","ASIAN","FEMALE","5 to 9.9 years",40
+"TEMPORAL","20 to 29 years","WHITE","FEMALE","1 to 4.9 years",41
+"REGULAR","60 to 74 years","WHITE","FEMALE","1 to 4.9 years",42
+"REGULAR","20 to 29 years","WHITE","FEMALE","1 to 4.9 years",43
+"REGULAR","30 to 44 years","WHITE","MALE","Over 20",44
+"REGULAR","60 to 74 years","BLACK","MALE","Over 20",45
+"TEMPORAL","30 to 44 years","WHITE","FEMALE","Under 1 year",46
+"UNKNOWN","Under 20","WHITE","MALE","Under 1 year",47
+"REGULAR","60 to 74 years","WHITE","MALE","15 to 19.9 years",48
+"REGULAR","60 to 74 years","WHITE","MALE","10 to 14.9 years",49
+"REGULAR","30 to 44 years","WHITE","FEMALE","10 to 14.9 years",50
+"TEMPORAL","20 to 29 years","WHITE","FEMALE","5 to 9.9 years",51
+"REGULAR","45 to 59 years","WHITE","FEMALE","Under 1 year",52
+"TEMPORAL","Under 20","WHITE","FEMALE","1 to 4.9 years",53
+"UNKNOWN","45 to 59 years","HISPA","MALE","Under 1 year",54
+"UNKNOWN","60 to 74 years","WHITE","MALE","Over 20",55
+"REGULAR","60 to 74 years","WHITE","FEMALE","15 to 19.9 years",56
+"REGULAR","30 to 44 years","HISPA","MALE","Under 1 year",57
+"REGULAR","30 to 44 years","BLACK","MALE","1 to 4.9 years",58
+"REGULAR","30 to 44 years","WHITE","MALE","5 to 9.9 years",59
+"REGULAR","60 to 74 years","WHITE","MALE","Over 20",60
+"UNKNOWN","Under 20","WHITE","UNKNOWN","Under 1 year",61
+"UNKNOWN","45 to 59 years","WHITE","FEMALE","5 to 9.9 years",62
+"REGULAR","20 to 29 years","BLACK","FEMALE","1 to 4.9 years",63
+"REGULAR","60 to 74 years","ASIAN","FEMALE","10 to 14.9 years",64
+"REGULAR","45 to 59 years","WHITE","MALE","15 to 19.9 years",65
+"UNKNOWN","20 to 29 years","BLACK","FEMALE","1 to 4.9 years",66
+"UNKNOWN","20 to 29 years","WHITE","MALE","Under 1 year",67
+"TEMPORAL","60 to 74 years","WHITE","MALE","1 to 4.9 years",68
+"REGULAR","30 to 44 years","WHITE","FEMALE","5 to 9.9 years",69
+"TEMPORAL","20 to 29 years","BLACK","FEMALE","1 to 4.9 years",70
+"TEMPORAL","60 to 74 years","BLACK","MALE","1 to 4.9 years",71
+"TEMPORAL","20 to 29 years","BLACK","FEMALE","Under 1 year",72
+"REGULAR","45 to 59 years","WHITE","MALE","1 to 4.9 years",73
+"REGULAR","60 to 74 years","WHITE","FEMALE","10 to 14.9 years",74
+"REGULAR","45 to 59 years","BLACK","MALE","Over 20",75
+"TEMPORAL","45 to 59 years","WHITE","MALE","5 to 9.9 years",76
+"REGULAR","20 to 29 years","BLACK","FEMALE","5 to 9.9 years",77
+"REGULAR","60 to 74 years","WHITE","MALE","5 to 9.9 years",78
+"REGULAR","60 to 74 years","BLACK","MALE","10 to 14.9 years",79
+"REGULAR","45 to 59 years","BLACK","MALE","10 to 14.9 years",80
+"TEMPORAL","60 to 74 years","WHITE","MALE","Under 1 year",81
+"UNKNOWN","20 to 29 years","BLACK","MALE","Under 1 year",82
+"UNKNOWN","Under 20","WHITE","FEMALE","Under 1 year",83
+"TEMPORAL","20 to 29 years","WHITE","FEMALE","Under 1 year",84
+"UNKNOWN","20 to 29 years","BLACK","MALE","5 to 9.9 years",85
+"REGULAR","30 to 44 years","BLACK","FEMALE","1 to 4.9 years",86
+"TEMPORAL","Under 20","BLACK","MALE","1 to 4.9 years",87
+"TEMPORAL","Under 20","WHITE","FEMALE","5 to 9.9 years",88
+"REGULAR","60 to 74 years","WHITE","FEMALE","Over 20",89
+"TEMPORAL","45 to 59 years","BLACK","MALE","1 to 4.9 years",90
+"UNKNOWN","45 to 59 years","BLACK","MALE","1 to 4.9 years",91
+"REGULAR","Under 20","WHITE","FEMALE","1 to 4.9 years",92
+"REGULAR","Over 74","WHITE","FEMALE","5 to 9.9 years",93
+"REGULAR","30 to 44 years","WHITE","MALE","10 to 14.9 years",94
+"TEMPORAL","20 to 29 years","BLACK","MALE","Under 1 year",95
+"TEMPORAL","45 to 59 years","WHITE","FEMALE","1 to 4.9 years",96
+"UNKNOWN","Under 20","WHITE","MALE","1 to 4.9 years",97
+"REGULAR","45 to 59 years","BLACK","FEMALE","Under 1 year",98
+"REGULAR","30 to 44 years","WHITE","MALE","Under 1 year",99
+"UNKNOWN","30 to 44 years","WHITE","MALE","5 to 9.9 years",100
+"TEMPORAL","Over 74","WHITE","MALE","5 to 9.9 years",101
+"TEMPORAL","45 to 59 years","WHITE","MALE","15 to 19.9 years",102
+"REGULAR","30 to 44 years","BLACK","MALE","5 to 9.9 years",103
+"UNKNOWN","45 to 59 years","BLACK","FEMALE","Under 1 year",104
+"REGULAR","30 to 44 years","BLACK","MALE","10 to 14.9 years",105
+"REGULAR","30 to 44 years","BLACK","FEMALE","15 to 19.9 years",106
+"REGULAR","20 to 29 years","WHITE","MALE","1 to 4.9 years",107
+"REGULAR","45 to 59 years","WHITE","FEMALE","1 to 4.9 years",108
+"TEMPORAL","60 to 74 years","WHITE","MALE","10 to 14.9 years",109
+"TEMPORAL","60 to 74 years","WHITE","FEMALE","1 to 4.9 years",110
+"TEMPORAL","Under 20","BLACK","FEMALE","Under 1 year",111
+"REGULAR","45 to 59 years","BLACK","MALE","15 to 19.9 years",112
+"REGULAR","20 to 29 years","WHITE","MALE","5 to 9.9 years",113
+"REGULAR","Over 74","WHITE","MALE","Over 20",114
+"TEMPORAL","45 to 59 years","BLACK","FEMALE","1 to 4.9 years",115
+"TEMPORAL","20 to 29 years","BLACK","MALE","1 to 4.9 years",116
+"UNKNOWN","20 to 29 years","WHITE","FEMALE","Under 1 year",117
+"REGULAR","45 to 59 years","BLACK","MALE","5 to 9.9 years",118
+"REGULAR","45 to 59 years","BLACK","FEMALE","15 to 19.9 years",119
+"TEMPORAL","Under 20","BLACK","FEMALE","1 to 4.9 years",120
+"UNKNOWN","Under 20","BLACK","FEMALE","Under 1 year",121
+"REGULAR","45 to 59 years","WHITE","FEMALE","15 to 19.9 years",122
+"REGULAR","45 to 59 years","WHITE","MALE","5 to 9.9 years",123
+"REGULAR","30 to 44 years","BLACK","MALE","Under 1 year",124
+"TEMPORAL","45 to 59 years","WHITE","FEMALE","Under 1 year",125
+"REGULAR","60 to 74 years","BLACK","MALE","15 to 19.9 years",126
+"REGULAR","30 to 44 years","WHITE","MALE","15 to 19.9 years",127
+"REGULAR","20 to 29 years","BLACK","MALE","Under 1 year",128
+"REGULAR","45 to 59 years","WHITE","MALE","10 to 14.9 years",129
+"UNKNOWN","30 to 44 years","WHITE","FEMALE","1 to 4.9 years",130
+"REGULAR","45 to 59 years","BLACK","FEMALE","10 to 14.9 years",131
+"REGULAR","30 to 44 years","BLACK","FEMALE","10 to 14.9 years",132
+"TEMPORAL","Under 20","WHITE","MALE","1 to 4.9 years",133
+"UNKNOWN","20 to 29 years","WHITE","FEMALE","1 to 4.9 years",134
+"TEMPORAL","20 to 29 years","WHITE","MALE","5 to 9.9 years",135
+"TEMPORAL","30 to 44 years","BLACK","MALE","Under 1 year",136
+"UNKNOWN","Under 20","WHITE","FEMALE","1 to 4.9 years",137
+"REGULAR","30 to 44 years","BLACK","MALE","15 to 19.9 years",138
+"REGULAR","30 to 44 years","HISPA","FEMALE","Under 1 year",139
+"REGULAR","Under 20","BLACK","FEMALE","Under 1 year",140
+"TEMPORAL","45 to 59 years","WHITE","MALE","Under 1 year",141
+"REGULAR","45 to 59 years","HISPA","FEMALE","1 to 4.9 years",142
+"TEMPORAL","Over 74","WHITE","MALE","1 to 4.9 years",143
+"REGULAR","Over 74","WHITE","FEMALE","10 to 14.9 years",144
+"UNKNOWN","30 to 44 years","HISPA","FEMALE","1 to 4.9 years",145
+"TEMPORAL","Under 20","HISPA","FEMALE","1 to 4.9 years",146
+"UNKNOWN","30 to 44 years","WHITE","MALE","1 to 4.9 years",147
+"TEMPORAL","30 to 44 years","WHITE","FEMALE","10 to 14.9 years",148
+"TEMPORAL","30 to 44 years","WHITE","FEMALE","5 to 9.9 years",149
+"REGULAR","60 to 74 years","BLACK","FEMALE","1 to 4.9 years",150
+"UNKNOWN","60 to 74 years","BLACK","MALE","Over 20",151
+"UNKNOWN","45 to 59 years","WHITE","FEMALE","10 to 14.9 years",152
+"UNKNOWN","30 to 44 years","WHITE","FEMALE","5 to 9.9 years",153
+"UNKNOWN","45 to 59 years","BLACK","MALE","15 to 19.9 years",154
+"TEMPORAL","45 to 59 years","BLACK","FEMALE","Under 1 year",155
+"TEMPORAL","45 to 59 years","WHITE","MALE","1 to 4.9 years",156
+"REGULAR","45 to 59 years","BLACK","FEMALE","1 to 4.9 years",157
+"UNKNOWN","20 to 29 years","UNKNOWN","FEMALE","Under 1 year",158
+"TEMPORAL","60 to 74 years","BLACK","MALE","Over 20",159
+"UNKNOWN","45 to 59 years","BLACK","MALE","Over 20",160
+"REGULAR","20 to 29 years","BLACK","FEMALE","Under 1 year",161
+"REGULAR","20 to 29 years","HISPA","FEMALE","1 to 4.9 years",162
+"REGULAR","30 to 44 years","HISPA","MALE","15 to 19.9 years",163
+"UNKNOWN","45 to 59 years","WHITE","MALE","Over 20",164
+"UNKNOWN","30 to 44 years","BLACK","FEMALE","5 to 9.9 years",165
+"TEMPORAL","60 to 74 years","WHITE","FEMALE","5 to 9.9 years",166
+"UNKNOWN","30 to 44 years","HISPA","FEMALE","Under 1 year",167
+"REGULAR","30 to 44 years","BLACK","FEMALE","5 to 9.9 years",168
+"REGULAR","Over 74","HISPA","MALE","Over 20",169
+"UNKNOWN","30 to 44 years","BLACK","FEMALE","1 to 4.9 years",170
+"TEMPORAL","60 to 74 years","WHITE","FEMALE","Under 1 year",171
+"UNKNOWN","30 to 44 years","WHITE","MALE","15 to 19.9 years",172
+"TEMPORAL","Under 20","HISPA","MALE","Under 1 year",173
+"REGULAR","60 to 74 years","BLACK","FEMALE","Over 20",174
+"UNKNOWN","45 to 59 years","WHITE","MALE","15 to 19.9 years",175
+"UNKNOWN","60 to 74 years","WHITE","MALE","5 to 9.9 years",176
+"REGULAR","60 to 74 years","UNKNOWN","MALE","Under 1 year",177
+"REGULAR","20 to 29 years","UNKNOWN","FEMALE","Under 1 year",178
+"REGULAR","20 to 29 years","AMIND","FEMALE","5 to 9.9 years",179
+"REGULAR","45 to 59 years","UNKNOWN","FEMALE","Under 1 year",180
+"UNKNOWN","Over 74","WHITE","FEMALE","1 to 4.9 years",181
+"UNKNOWN","45 to 59 years","WHITE","FEMALE","Under 1 year",182
+"TEMPORAL","30 to 44 years","UNKNOWN","FEMALE","Under 1 year",183
+"TEMPORAL","Under 20","UNKNOWN","MALE","1 to 4.9 years",184
+"TEMPORAL","Under 20","UNKNOWN","FEMALE","Under 1 year",185
+"UNKNOWN","45 to 59 years","UNKNOWN","MALE","1 to 4.9 years",186
+"TEMPORAL","Under 20","UNKNOWN","MALE","Under 1 year",187
+"UNKNOWN","45 to 59 years","UNKNOWN","FEMALE","Under 1 year",188
+"TEMPORAL","20 to 29 years","UNKNOWN","MALE","Under 1 year",189
+"UNKNOWN","20 to 29 years","UNKNOWN","MALE","Under 1 year",190
+"UNKNOWN","45 to 59 years","UNKNOWN","FEMALE","1 to 4.9 years",191
+"REGULAR","20 to 29 years","ASIAN","FEMALE","1 to 4.9 years",192
+"UNKNOWN","30 to 44 years","UNKNOWN","FEMALE","Under 1 year",193
+"UNKNOWN","20 to 29 years","UNKNOWN","FEMALE","1 to 4.9 years",194
+"UNKNOWN","Under 20","UNKNOWN","FEMALE","Under 1 year",195
+"TEMPORAL","60 to 74 years","UNKNOWN","MALE","Under 1 year",196
+"REGULAR","30 to 44 years","UNKNOWN","FEMALE","Under 1 year",197
+"REGULAR","Over 74","WHITE","MALE","10 to 14.9 years",198
+"TEMPORAL","60 to 74 years","WHITE","MALE","15 to 19.9 years",199
+"UNKNOWN","30 to 44 years","UNKNOWN","MALE","1 to 4.9 years",200
+"TEMPORAL","30 to 44 years","UNKNOWN","MALE","Under 1 year",201
+"TEMPORAL","45 to 59 years","UNKNOWN","FEMALE","Under 1 year",202
+"UNKNOWN","45 to 59 years","WHITE","MALE","10 to 14.9 years",203
+"UNKNOWN","Under 20","BLACK","FEMALE","1 to 4.9 years",204
+"TEMPORAL","45 to 59 years","WHITE","FEMALE","10 to 14.9 years",205
+"TEMPORAL","20 to 29 years","UNKNOWN","FEMALE","Under 1 year",206
+"TEMPORAL","60 to 74 years","BLACK","FEMALE","1 to 4.9 years",207
+"REGULAR","45 to 59 years","UNKNOWN","MALE","Under 1 year",208
+"TEMPORAL","60 to 74 years","UNKNOWN","MALE","1 to 4.9 years",209
+"UNKNOWN","30 to 44 years","UNKNOWN","MALE","Under 1 year",210
+"UNKNOWN","30 to 44 years","BLACK","FEMALE","Under 1 year",211
+"REGULAR","20 to 29 years","WHITE","MALE","10 to 14.9 years",212
+"TEMPORAL","45 to 59 years","WHITE","FEMALE","15 to 19.9 years",213
+"REGULAR","20 to 29 years","UNKNOWN","MALE","Under 1 year",214
+"REGULAR","30 to 44 years","HISPA","MALE","1 to 4.9 years",215
+"REGULAR","30 to 44 years","HISPA","FEMALE","5 to 9.9 years",216
+"TEMPORAL","30 to 44 years","BLACK","MALE","1 to 4.9 years",217
+"REGULAR","Over 74","WHITE","FEMALE","Over 20",218
+"REGULAR","30 to 44 years","WHITE","FEMALE","15 to 19.9 years",219
+"TEMPORAL","30 to 44 years","BLACK","MALE","5 to 9.9 years",220
+"REGULAR","45 to 59 years","HISPA","MALE","15 to 19.9 years",221
+"TEMPORAL","30 to 44 years","BLACK","FEMALE","1 to 4.9 years",222
+"REGULAR","30 to 44 years","HISPA","FEMALE","1 to 4.9 years",223
+"UNKNOWN","20 to 29 years","BLACK","MALE","1 to 4.9 years",224
+"REGULAR","20 to 29 years","UNKNOWN","FEMALE","5 to 9.9 years",225
+"REGULAR","30 to 44 years","UNKNOWN","MALE","Under 1 year",226
+"UNKNOWN","60 to 74 years","UNKNOWN","MALE","Under 1 year",227
+"TEMPORAL","20 to 29 years","UNKNOWN","FEMALE","1 to 4.9 years",228
+"TEMPORAL","60 to 74 years","UNKNOWN","FEMALE","1 to 4.9 years",229
+"TEMPORAL","60 to 74 years","UNKNOWN","FEMALE","Under 1 year",230
+"REGULAR","20 to 29 years","UNKNOWN","FEMALE","1 to 4.9 years",231
+"UNKNOWN","30 to 44 years","UNKNOWN","FEMALE","1 to 4.9 years",232
+"REGULAR","30 to 44 years","UNKNOWN","MALE","1 to 4.9 years",233
+"REGULAR","Under 20","UNKNOWN","FEMALE","Under 1 year",234
+"TEMPORAL","Under 20","UNKNOWN","FEMALE","1 to 4.9 years",235
+"TEMPORAL","20 to 29 years","ASIAN","MALE","5 to 9.9 years",236
+"REGULAR","45 to 59 years","BLACK","FEMALE","5 to 9.9 years",237
+"REGULAR","30 to 44 years","UNKNOWN","FEMALE","1 to 4.9 years",238
+"REGULAR","20 to 29 years","UNKNOWN","MALE","1 to 4.9 years",239
+"UNKNOWN","45 to 59 years","ASIAN","MALE","Over 20",240
+"UNKNOWN","20 to 29 years","UNKNOWN","MALE","1 to 4.9 years",241
+"UNKNOWN","60 to 74 years","UNKNOWN","MALE","1 to 4.9 years",242
+"TEMPORAL","60 to 74 years","WHITE","FEMALE","Over 20",243
+"TEMPORAL","45 to 59 years","UNKNOWN","MALE","1 to 4.9 years",244
+"UNKNOWN","60 to 74 years","UNKNOWN","FEMALE","Under 1 year",245
+"REGULAR","Under 20","UNKNOWN","MALE","1 to 4.9 years",246
+"TEMPORAL","20 to 29 years","UNKNOWN","MALE","1 to 4.9 years",247
+"REGULAR","60 to 74 years","UNKNOWN","FEMALE","Under 1 year",248
+"REGULAR","Under 20","UNKNOWN","MALE","Under 1 year",249
+"UNKNOWN","30 to 44 years","WHITE","MALE","10 to 14.9 years",250
+"UNKNOWN","45 to 59 years","HISPA","FEMALE","1 to 4.9 years",251
+"UNKNOWN","30 to 44 years","WHITE","FEMALE","15 to 19.9 years",252
+"UNKNOWN","60 to 74 years","WHITE","MALE","10 to 14.9 years",253
+"UNKNOWN","45 to 59 years","WHITE","MALE","5 to 9.9 years",254
+"UNKNOWN","Under 20","BLACK","MALE","1 to 4.9 years",255
+"UNKNOWN","30 to 44 years","WHITE","FEMALE","10 to 14.9 years",256
+"UNKNOWN","45 to 59 years","BLACK","FEMALE","Over 20",257
+"UNKNOWN","Under 20","UNKNOWN","MALE","Under 1 year",258
+"REGULAR","45 to 59 years","UNKNOWN","FEMALE","1 to 4.9 years",259
+"REGULAR","45 to 59 years","ASIAN","MALE","10 to 14.9 years",260
+"UNKNOWN","60 to 74 years","BLACK","FEMALE","10 to 14.9 years",261
+"REGULAR","45 to 59 years","UNKNOWN","MALE","1 to 4.9 years",262
+"TEMPORAL","30 to 44 years","UNKNOWN","MALE","1 to 4.9 years",263
+"UNKNOWN","30 to 44 years","BLACK","MALE","Over 20",264
+"UNKNOWN","60 to 74 years","BLACK","FEMALE","Over 20",265
+"TEMPORAL","45 to 59 years","UNKNOWN","MALE","Under 1 year",266
+"UNKNOWN","20 to 29 years","BLACK","FEMALE","5 to 9.9 years",267
+"REGULAR","45 to 59 years","BLACK","MALE","Under 1 year",268
+"REGULAR","30 to 44 years","HISPA","MALE","Over 20",269
+"UNKNOWN","60 to 74 years","WHITE","FEMALE","10 to 14.9 years",270
+"TEMPORAL","45 to 59 years","WHITE","FEMALE","5 to 9.9 years",271
+"REGULAR","60 to 74 years","BLACK","FEMALE","10 to 14.9 years",272
+"TEMPORAL","45 to 59 years","WHITE","MALE","10 to 14.9 years",273
+"TEMPORAL","Under 20","WHITE","MALE","5 to 9.9 years",274
+"REGULAR","30 to 44 years","ASIAN","MALE","Under 1 year",275
+"TEMPORAL","Under 20","BLACK","MALE","5 to 9.9 years",276
+"TEMPORAL","30 to 44 years","BLACK","FEMALE","Under 1 year",277
+"REGULAR","Over 74","WHITE","FEMALE","15 to 19.9 years",278
+"UNKNOWN","60 to 74 years","WHITE","FEMALE","15 to 19.9 years",279
+"UNKNOWN","20 to 29 years","WHITE","FEMALE","5 to 9.9 years",280
+"REGULAR","Over 74","BLACK","MALE","10 to 14.9 years",281
+"UNKNOWN","60 to 74 years","BLACK","FEMALE","1 to 4.9 years",282
+"REGULAR","Under 20","WHITE","FEMALE","Under 1 year",283
+"UNKNOWN","30 to 44 years","WHITE","FEMALE","Under 1 year",284
+"UNKNOWN","60 to 74 years","WHITE","FEMALE","Under 1 year",285
+"REGULAR","20 to 29 years","BLACK","FEMALE","10 to 14.9 years",286
+"UNKNOWN","45 to 59 years","WHITE","FEMALE","1 to 4.9 years",287
+"REGULAR","Under 20","ASIAN","FEMALE","1 to 4.9 years",288
+"UNKNOWN","60 to 74 years","WHITE","MALE","Under 1 year",289
+"UNKNOWN","30 to 44 years","BLACK","FEMALE","Over 20",290
+"REGULAR","20 to 29 years","AMIND","FEMALE","1 to 4.9 years",291
+"REGULAR","30 to 44 years","ASIAN","MALE","1 to 4.9 years",292
+"REGULAR","20 to 29 years","HISPA","MALE","Under 1 year",293
+"TEMPORAL","30 to 44 years","WHITE","MALE","5 to 9.9 years",294
+"UNKNOWN","60 to 74 years","WHITE","FEMALE","5 to 9.9 years",295
+"REGULAR","45 to 59 years","ASIAN","FEMALE","5 to 9.9 years",296
+"REGULAR","45 to 59 years","WHITE","MALE","Under 1 year",297
+"UNKNOWN","30 to 44 years","BLACK","MALE","5 to 9.9 years",298
+"UNKNOWN","45 to 59 years","WHITE","MALE","Under 1 year",299
+"REGULAR","45 to 59 years","BLACK","MALE","1 to 4.9 years",300
+"UNKNOWN","45 to 59 years","BLACK","MALE","Under 1 year",301
+"TEMPORAL","Over 74","WHITE","MALE","Over 20",302
+"REGULAR","20 to 29 years","HISPA","MALE","5 to 9.9 years",303
+"REGULAR","20 to 29 years","ASIAN","MALE","1 to 4.9 years",304
+"TEMPORAL","20 to 29 years","BLACK","FEMALE","5 to 9.9 years",305
+"TEMPORAL","60 to 74 years","BLACK","MALE","Under 1 year",306
+"UNKNOWN","30 to 44 years","BLACK","MALE","1 to 4.9 years",307
+"UNKNOWN","60 to 74 years","WHITE","FEMALE","Over 20",308
+"REGULAR","60 to 74 years","BLACK","MALE","Under 1 year",309
+"TEMPORAL","45 to 59 years","BLACK","MALE","5 to 9.9 years",310
+"UNKNOWN","20 to 29 years","ASIAN","FEMALE","Under 1 year",311
+"TEMPORAL","Over 74","WHITE","MALE","Under 1 year",312
+"TEMPORAL","45 to 59 years","WHITE","FEMALE","Over 20",313
+"UNKNOWN","Over 74","BLACK","FEMALE","10 to 14.9 years",314
+"UNKNOWN","45 to 59 years","WHITE","FEMALE","Over 20",315
+"REGULAR","60 to 74 years","UNKNOWN","FEMALE","1 to 4.9 years",316
+"REGULAR","30 to 44 years","ASIAN","FEMALE","1 to 4.9 years",317
+"REGULAR","30 to 44 years","PACIF","FEMALE","1 to 4.9 years",318
+"UNKNOWN","30 to 44 years","BLACK","FEMALE","10 to 14.9 years",319
+"REGULAR","60 to 74 years","BLACK","FEMALE","15 to 19.9 years",320
+"UNKNOWN","60 to 74 years","UNKNOWN","FEMALE","1 to 4.9 years",321
+"UNKNOWN","60 to 74 years","WHITE","MALE","1 to 4.9 years",322
+"REGULAR","45 to 59 years","HISPA","MALE","5 to 9.9 years",323
+"TEMPORAL","45 to 59 years","WHITE","MALE","Over 20",324
+"REGULAR","Over 74","WHITE","MALE","15 to 19.9 years",325
+"TEMPORAL","Under 20","AMIND","FEMALE","Under 1 year",326
+"REGULAR","60 to 74 years","BLACK","FEMALE","Under 1 year",327
+"REGULAR","45 to 59 years","HISPA","MALE","Over 20",328
+"UNKNOWN","20 to 29 years","HISPA","MALE","Under 1 year",329
+"REGULAR","60 to 74 years","WHITE","MALE","Under 1 year",330
+"UNKNOWN","30 to 44 years","BLACK","MALE","10 to 14.9 years",331
+"REGULAR","60 to 74 years","ASIAN","MALE","1 to 4.9 years",332
+"REGULAR","30 to 44 years","UNKNOWN","FEMALE","5 to 9.9 years",333
+"UNKNOWN","45 to 59 years","BLACK","FEMALE","10 to 14.9 years",334
+"TEMPORAL","45 to 59 years","BLACK","FEMALE","Over 20",335
+"REGULAR","60 to 74 years","BLACK","MALE","5 to 9.9 years",336
+"UNKNOWN","45 to 59 years","UNKNOWN","MALE","Under 1 year",337
+"UNKNOWN","Over 74","WHITE","MALE","1 to 4.9 years",338
+"TEMPORAL","60 to 74 years","ASIAN","FEMALE","Under 1 year",339
+"REGULAR","Over 74","BLACK","FEMALE","5 to 9.9 years",340
+"UNKNOWN","30 to 44 years","AMIND","MALE","10 to 14.9 years",341
+"UNKNOWN","Under 20","UNKNOWN","FEMALE","1 to 4.9 years",342
+"TEMPORAL","Over 74","UNKNOWN","FEMALE","Under 1 year",343
+"UNKNOWN","45 to 59 years","BLACK","FEMALE","1 to 4.9 years",344
+"UNKNOWN","45 to 59 years","BLACK","MALE","10 to 14.9 years",345
+"TEMPORAL","Over 74","WHITE","FEMALE","1 to 4.9 years",346
+"TEMPORAL","Under 20","ASIAN","FEMALE","Under 1 year",347
+"REGULAR","30 to 44 years","HISPA","MALE","5 to 9.9 years",348
+"UNKNOWN","Under 20","UNKNOWN","MALE","1 to 4.9 years",349
+"UNKNOWN","20 to 29 years","ASIAN","MALE","Under 1 year",350
+"REGULAR","20 to 29 years","BLACK","MALE","10 to 14.9 years",351
+"REGULAR","Under 20","BLACK","FEMALE","1 to 4.9 years",352
+"TEMPORAL","45 to 59 years","UNKNOWN","FEMALE","1 to 4.9 years",353
+"UNKNOWN","20 to 29 years","HISPA","FEMALE","1 to 4.9 years",354
+"REGULAR","20 to 29 years","WHITE","FEMALE","10 to 14.9 years",355
+"REGULAR","60 to 74 years","BLACK","MALE","1 to 4.9 years",356
+"REGULAR","30 to 44 years","BLACK","FEMALE","Over 20",357
+"REGULAR","20 to 29 years","ASIAN","MALE","5 to 9.9 years",358
+"REGULAR","45 to 59 years","HISPA","FEMALE","5 to 9.9 years",359
+"REGULAR","20 to 29 years","ASIAN","MALE","Under 1 year",360
+"REGULAR","Over 74","BLACK","FEMALE","1 to 4.9 years",361
+"REGULAR","45 to 59 years","ASIAN","MALE","5 to 9.9 years",362
+"REGULAR","Under 20","WHITE","MALE","1 to 4.9 years",363
+"UNKNOWN","30 to 44 years","BLACK","MALE","Under 1 year",364
+"UNKNOWN","30 to 44 years","HISPA","MALE","5 to 9.9 years",365
+"REGULAR","Over 74","BLACK","MALE","Over 20",366
+"UNKNOWN","30 to 44 years","BLACK","FEMALE","15 to 19.9 years",367
+"UNKNOWN","Over 74","UNKNOWN","FEMALE","Under 1 year",368
+"TEMPORAL","60 to 74 years","BLACK","FEMALE","Under 1 year",369
+"REGULAR","20 to 29 years","HISPA","MALE","1 to 4.9 years",370
+"REGULAR","Under 20","UNKNOWN","FEMALE","1 to 4.9 years",371
+"REGULAR","60 to 74 years","UNKNOWN","MALE","1 to 4.9 years",372
+"TEMPORAL","Over 74","WHITE","FEMALE","5 to 9.9 years",373
+"UNKNOWN","30 to 44 years","HISPA","FEMALE","5 to 9.9 years",374
+"REGULAR","20 to 29 years","HISPA","FEMALE","Under 1 year",375
+"TEMPORAL","60 to 74 years","BLACK","MALE","10 to 14.9 years",376
+"REGULAR","60 to 74 years","HISPA","FEMALE","Over 20",377
+"TEMPORAL","60 to 74 years","WHITE","FEMALE","10 to 14.9 years",378
+"UNKNOWN","45 to 59 years","WHITE","FEMALE","15 to 19.9 years",379
+"UNKNOWN","60 to 74 years","BLACK","MALE","15 to 19.9 years",380
+"UNKNOWN","30 to 44 years","HISPA","FEMALE","10 to 14.9 years",381
+"REGULAR","Over 74","BLACK","FEMALE","10 to 14.9 years",382
+"UNKNOWN","60 to 74 years","BLACK","MALE","1 to 4.9 years",383
+"REGULAR","45 to 59 years","ASIAN","MALE","Over 20",384
+"REGULAR","45 to 59 years","ASIAN","MALE","15 to 19.9 years",385
+"TEMPORAL","20 to 29 years","HISPA","FEMALE","1 to 4.9 years",386
+"UNKNOWN","Over 74","UNKNOWN","MALE","Under 1 year",387
+"REGULAR","60 to 74 years","HISPA","MALE","10 to 14.9 years",388
+"REGULAR","30 to 44 years","HISPA","FEMALE","10 to 14.9 years",389
+"REGULAR","Over 74","BLACK","FEMALE","Over 20",390
+"UNKNOWN","Over 74","UNKNOWN","FEMALE","1 to 4.9 years",391
+"UNKNOWN","45 to 59 years","BLACK","FEMALE","5 to 9.9 years",392
+"TEMPORAL","Over 74","WHITE","FEMALE","Over 20",393
+"TEMPORAL","30 to 44 years","UNKNOWN","FEMALE","1 to 4.9 years",394
+"UNKNOWN","20 to 29 years","HISPA","MALE","1 to 4.9 years",395
+"REGULAR","30 to 44 years","ASIAN","FEMALE","5 to 9.9 years",396
+"REGULAR","60 to 74 years","HISPA","FEMALE","5 to 9.9 years",397
+"REGULAR","60 to 74 years","AMIND","MALE","Over 20",398
+"REGULAR","60 to 74 years","ASIAN","MALE","Over 20",399
+"UNKNOWN","30 to 44 years","WHITE","FEMALE","Over 20",400
+"UNKNOWN","45 to 59 years","HISPA","MALE","15 to 19.9 years",401
+"UNKNOWN","45 to 59 years","BLACK","FEMALE","15 to 19.9 years",402
+"UNKNOWN","45 to 59 years","AMIND","MALE","Over 20",403

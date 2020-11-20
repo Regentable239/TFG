@@ -1,0 +1,11 @@
+USE Louisvilleky;
+INSERT INTO ABSENTEEISM_TYPE (Absenteeism_Type_Name,Absenteeism_Type_id) VALUES ("FURLOUGH",1);
+INSERT INTO ABSENTEEISM_TYPE (Absenteeism_Type_Name,Absenteeism_Type_id) VALUES ("SICK",2);
+INSERT INTO ABSENTEEISM_TYPE (Absenteeism_Type_Name,Absenteeism_Type_id) VALUES ("FMLA",3);
+INSERT INTO ABSENTEEISM_TYPE (Absenteeism_Type_Name,Absenteeism_Type_id) VALUES ("FUNERAL",4);
+INSERT INTO ABSENTEEISM_TYPE (Absenteeism_Type_Name,Absenteeism_Type_id) VALUES ("UNPAID ABSENCE",5);
+INSERT INTO ABSENTEEISM_TYPE (Absenteeism_Type_Name,Absenteeism_Type_id) VALUES ("WORKERS COMP",6);
+INSERT INTO ABSENTEEISM_TYPE (Absenteeism_Type_Name,Absenteeism_Type_id) VALUES ("SUSPENSION",7);
+INSERT INTO ABSENTEEISM_TYPE (Absenteeism_Type_Name,Absenteeism_Type_id) VALUES ("JURY DUTY",8);
+INSERT INTO ABSENTEEISM_TYPE (Absenteeism_Type_Name,Absenteeism_Type_id) VALUES ("MILITARY",9);
+INSERT INTO ABSENTEEISM_TYPE (Absenteeism_Type_Name,Absenteeism_Type_id) VALUES ("MEDICAL",10);
